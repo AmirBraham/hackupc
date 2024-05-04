@@ -1,0 +1,36 @@
+source : https://medlineplus.gov/ency/article/001309.htm 
+ 
+ Graft-versus-host disease (GVHD) is a life-threatening complication that can occur after certain stem cell or bone marrow transplants.Causes
+
+GVHD may occur after a bone marrow, or stem cell, transplant in which someone receives bone marrow tissue or cells from a donor. This type of transplant is called allogeneic. The new, transplanted cells regard the recipient's body as foreign. When this happens, the cells attack the recipient's body.GVHD does not occur when people receive their own cells. This type of transplant is called autologous.Before a transplant, tissue and cells from possible donors are checked to see how closely they match the recipient. GVHD is less likely to occur, or symptoms will be milder, when the match is close. The chance of GVHD is:Around 35% to 45% when the donor and recipient are relatedAround 60% to 80% when the donor and recipient are not related Symptoms
+
+There are two types of GVHD: acute and chronic. Symptoms in both acute and chronic GVHD range from mild to severe.Acute GVHD usually happens within days or as late as 6 months after a transplant. The immune system, skin, liver, and intestines are mainly affected. Common acute symptoms include:Abdominal pain or cramps, nausea, vomiting, and diarrheaJaundice (yellow coloring of the skin or eyes) or other liver problemsSkin rash, itching, redness on areas of the skinIncreased risk for infections Chronic GVHD usually starts more than 3 months after a transplant, and can last a lifetime. Chronic symptoms may include:Dry eyes, burning sensation, or vision changesDry mouth, white patches inside the mouth, and sensitivity to spicy foodsFatigue, muscle weakness, and chronic painJoint pain or stiffnessSkin rash with raised, discolored areas, as well as skin tightening or thickeningShortness of breath due to lung damageVaginal drynessWeight lossReduced bile flow from the liverBrittle hair and premature grayingDamage to sweat glandsCytopenia (decrease in number of mature blood cells)Pericarditis (inflammation in the membrane surrounding the heart; causes chest pain) Exams and Tests
+
+Several lab and imaging tests can be done to diagnose and monitor problems caused by GVHD. These may include:X-ray abdomenCT scan abdomen and CT chestLiver function testsPET scanMRICapsule endoscopyLiver biopsyA biopsy of the skin, mucous membranes in the mouth, may also help to confirm the diagnosis.Treatment
+
+After a transplant, the recipient usually takes medicines, such as prednisone (a steroid), which suppress the immune system. This helps reduce the chances (or severity) of GVHD.You'll continue taking the medicines until your health care provider thinks the risk for GVHD is low. Many of these medicines have side effects, including kidney and liver damage. You'll have regular tests to watch for these problems.Outlook (Prognosis)
+
+Outlook depends on the severity of GVHD. People who receive closely matched bone marrow tissue and cells usually do better.Some cases of GVHD can damage the liver, lungs, digestive tract, or other body organs. There is also a risk for severe infections.Many cases of acute or chronic GVHD can be treated successfully. But this doesn't guarantee that the transplant itself will succeed in treating the original disease.When to Contact a Medical Professional
+
+If you have had a bone marrow transplant, call your provider right away if you develop any symptoms of GVHD or other unusual symptoms.Alternative Names
+
+GVHD; Bone marrow transplant - graft-versus-host disease; Stem cell transplant - graft-versus-host disease; Allogeneic transplant - GVHDPatient Instructions
+
+Bone marrow transplant - discharge
+Images
+
+
+Antibodies
+References
+
+Bishop MR, Keating A. Hematopoietic stem cell transplantation. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 168.Im A, Pavletic SZ. Hematopoietic stem cell transplantation. In: Niederhuber JE, Armitage JO, Kastan MB, Doroshow JH, Tepper JE, eds. Abeloff's Clinical Oncology. 6th ed. Philadelphia, PA: Elsevier; 2020:chap 28.Reddy P, Ferrara JLM. Graft-versus-host disease and graft-versus-leukemia responses. In: Hoffman R, Benz EJ, Silberstein LE, et al, eds. Hematology: Basic Principles and Practice. 7th ed. Philadelphia, PA: Elsevier; 2018:chap 108.
+Review Date 4/29/2022
+
+
+Updated by: Todd Gersten, MD, Hematology/Oncology, Florida Cancer Specialists & Research Institute, Wellington, FL. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Bone Marrow Transplantation
+Immune System and Disorders
+Stem Cells

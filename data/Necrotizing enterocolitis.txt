@@ -1,0 +1,33 @@
+source : https://medlineplus.gov/ency/article/001148.htm 
+ 
+ Necrotizing enterocolitis (NEC) is the death of tissue in the intestine. It occurs most often in premature or sick babies.Causes
+
+NEC occurs when the lining of the intestinal wall dies. This problem nearly always develops in an infant who is ill or premature. It is likely to occur while the infant is still in the hospital.The exact cause of this disorder is unknown. A drop in blood flow to the bowel can damage the tissue. Bacteria in the intestine may also add to the problem. Also, premature infants have an undeveloped immune response to factors such as bacteria or low blood flow. An imbalance in immune regulation appears to be involved in NEC.Babies at higher risk for the condition include:Premature infantsInfants who are fed formula rather than human milk. (Human milk contains growth factors, antibodies and immune cells which may help prevent the problem.)Infants in a nursery where an outbreak has occurredInfants who have received blood exchange transfusions or have been seriously ill Symptoms
+
+Symptoms may come on slowly or suddenly, and may include:Abdominal bloatingBlood in the stoolDiarrheaFeeding problemsLack of energyUnstable body temperatureUnstable breathing, heart rate, or blood pressureVomiting Exams and Tests
+
+Tests may include:Abdominal x-rayStool for occult blood test
+  Complete blood count (CBC)Electrolyte levels, blood gases and other blood testsTreatment
+
+Treatment for a baby who may have NEC most often includes: Halting enteral (GI tract) feedingsRelieving gas in the bowel by inserting a tube in the stomachGiving IV fluids and nutrition Giving IV antibioticsMonitoring the condition with abdominal x-rays, blood tests, and measurement of blood gases The infant will need surgery if there is a hole in the intestines or inflammation of the abdominal wall (peritonitis).In this surgery, the doctor will:Remove dead bowel tissuePerform a colostomy or ileostomyThe bowel may be reconnected after several weeks or months when the infection has healed.Outlook (Prognosis)
+
+Necrotizing enterocolitis is a serious disease. Up to 40% of infants with NEC die from it. Early, aggressive treatment can help improve the outcome.Possible Complications
+
+Complications may include:PeritonitisSepsisIntestinal perforationIntestinal strictureLiver problems from prolonged inability to tolerate enteral feeds and need for parenteral (IV) nutritionShort bowel syndrome if a large amount of intestine is lost When to Contact a Medical Professional
+
+Get emergency medical care if any symptoms of necrotizing enterocolitis develop. Infants who are hospitalized for illness or prematurity are at higher risk for NEC. They are watched closely for this problem before they are sent home. Images
+
+
+Infant intestines
+References
+
+Greenberg JM, Narendran V, Brady JM, Nathan AT, Haberman B. Neonatal morbidities of prenatal and perinatal origin. In: Lockwood CJ, Copel JA, Dugoff L et al, eds. Creasy and Resnik's Maternal-Fetal Medicine: Principles and Practice. 9th ed. Philadelphia, PA: Elsevier; 2023:chap 73.Kudin O, Neu J. Neonatal necrotizing enterocolitis. In: Martin RJ, Fanaroff AA, Walsh MC, eds. Fanaroff and Martin's Neonatal-Perinatal Medicine. 11th ed. Philadelphia, PA: Elsevier; 2020:chap 85.Seed PC. The microbiome and pediatric health. In: Kliegman RM, St. Geme JW, Blum NJ, Shah SS, Tasker RC, Wilson KM, eds. Nelson Textbook of Pediatrics. 21st ed. Philadelphia, PA: Elsevier; 2020:chap 196.
+Review Date 4/28/2023
+
+
+Updated by: Neil K. Kaneshiro, MD, MHA, Clinical Professor of Pediatrics, University of Washington School of Medicine, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Premature Babies
+Small Intestine Disorders

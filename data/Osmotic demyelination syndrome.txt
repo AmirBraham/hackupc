@@ -1,0 +1,38 @@
+source : https://medlineplus.gov/ency/article/000775.htm 
+ 
+ Osmotic demyelination syndrome (ODS) leads to brain cell dysfunction. It is caused by the destruction of the layer (myelin sheath) covering nerve cells in the middle of the brainstem (pons).Causes
+
+When the myelin sheath that covers nerve cells is destroyed, signals from one nerve to another aren't properly transmitted. Although the brainstem is mainly affected, other areas of the brain can also be involved.The most common cause of ODS is a quick change in the body's blood sodium levels. This most often occurs when someone is being treated for low blood sodium (hyponatremia) and the sodium is replaced too fast. Sometimes, it occurs when a high level of sodium in the body (hypernatremia) is corrected too quickly.ODS does not usually occur on its own. Most often, it's a complication of treatment for other problems, or from the other problems themselves.Risks include:Alcohol use
+   Liver disease
+   Malnutrition from serious illnessesRadiation treatment of the brainSevere nausea and vomiting during pregnancySymptoms
+
+Symptoms may include any of the following:Confusion, delirium, hallucinationsBalance problems, tremorProblem swallowingReduced alertness, drowsiness or sleepiness, lethargy, poor responsesSlurred speechWeakness in the face, arms, or legs, usually affecting both sides of the bodyExams and Tests
+
+The health care provider will perform a physical exam and ask about the symptoms.A head MRI scan may reveal a problem in the brainstem (pons) or other parts of the brain. This is the main diagnostic test.Other tests may include:Blood sodium level and other blood testsBrainstem auditory evoked response (BAER)Treatment
+
+ODS is an emergency disorder that needs to be treated in the hospital though most people with this condition are already in the hospital for another problem.There is no known cure for central pontine myelinolysis. Treatment is focused on relieving symptoms.Physical therapy may help maintain muscle strength, mobility, and function in weakened arms and legs.Outlook (Prognosis)
+
+The nerve damage caused by central pontine myelinolysis is often long-lasting. The disorder can cause serious long-term (chronic) disability.Possible Complications
+
+Complications may include:Decreased ability to interact with othersDecreased ability to work or care for selfInability to move, other than to blink eyes ("locked in" syndrome)Permanent nervous system damageWhen to Contact a Medical Professional
+
+There is no real guideline on when to seek medical attention, because ODS is rare in the general community.Prevention
+
+In the hospital, slow, controlled treatment of a low sodium level may reduce the risk for nerve damage in the pons. Being aware of how some medicines can change sodium levels can prevent the level from changing too quickly.Alternative Names
+
+ODS; Central pontine demyelination; Central pontine myelinolysisImages
+
+
+Brain structures
+References
+
+Weissenborn K, Lockwood AH. Toxic and metabolic encephalopathies. In: Jankovic J, Mazziotta JC, Pomeroy SL, Newman NJ, eds. Bradley and Daroff's Neurology in Clinical Practice. 8th ed. Philadelphia, PA: Elsevier; 2022:chap 84.Yaqoob MM, McCafferty K. Water balance, fluids and electrolytes. In: Feather A, Randall D, Waterhouse M, eds. Kumar and Clarke's Clinical Medicine. 10th ed. Philadelphia, PA: Elsevier; 2021:chap 9.
+Review Date 4/25/2022
+
+
+Updated by: Joseph V. Campellone, MD, Department of Neurology, Cooper University Hospital, Camden, NJ. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Alcohol Use Disorder (AUD)
+Brain Diseases

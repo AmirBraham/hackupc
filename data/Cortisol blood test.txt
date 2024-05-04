@@ -1,0 +1,32 @@
+source : https://medlineplus.gov/ency/article/003693.htm 
+ 
+ The cortisol blood test measures the level of cortisol in the blood. Cortisol is a steroid (glucocorticoid or corticosteroid) hormone produced by the adrenal gland.Cortisol can also be measured using a urine or saliva test.How the Test is Performed
+
+A blood sample is needed.How to Prepare for the Test
+
+Your health care provider will likely have you do the test early in the morning. This is important because cortisol level varies throughout the day.You may be asked not to do any vigorous exercise the day before the test.You may also be told to temporarily stop taking medicines that can affect the test, including:Anti-seizure medicinesEstrogenHuman-made (synthetic) glucocorticoids, such as hydrocortisone, prednisone, and prednisoloneAndrogensHow the Test will Feel
+
+When the needle is inserted to draw blood, some people feel moderate pain. Others feel only a prick or stinging. Afterward, there may be some throbbing or slight bruising. This soon goes away.Why the Test is Performed
+
+The test is done to check for increased or decreased cortisol production. Cortisol is a glucocorticoid (steroid) hormone released from the adrenal gland in response to adrenocorticotropic hormone (ACTH). ACTH is a hormone released from the pituitary gland in the brain.Cortisol affects many different body systems. It plays a role in:Bone growthBlood pressure controlImmune system functionMetabolism of fats, carbohydrates, and proteinNervous system functionStress response Different diseases, such as Cushing syndrome and Addison disease, can lead to either too much or too little production of cortisol. Measuring blood cortisol level can help diagnose these conditions. It is also measured to evaluate how well the pituitary and adrenal glands are working.The test is often done before and 1 hour after injection of a medicine called ACTH (cosyntropin). This part of the test is called an ACTH stimulation test. It is an important test that helps check the function of the pituitary and adrenal glands.The test is often done in the morning after taking 1 milligram (mg) of dexamethasone the night before the test.Other conditions for which the test may be ordered include:Acute adrenal crisis, a life-threatening condition that occurs when there is not enough cortisolSepsis, an illness in which the body has a severe response to bacteria or other germsLow blood pressureNormal Results
+
+Normal values for a blood sample taken at 8 in the morning are 5 to 25 mcg/dL or 140 to 690 nmol/L.Normal values depend on the time of day and the clinical context. Normal ranges may vary slightly among different laboratories. Some labs use different measurements or may test different specimens. Talk to your provider about the meaning of your specific test results.The expected result can be outside the normal range if done as part of a cosyntropin stimulation test or dexamethasone suppression test.What Abnormal Results Mean
+
+A higher than normal level may indicate:Cushing disease, in which the pituitary gland makes too much ACTH because of excess growth of the pituitary gland or a tumor in the pituitary glandEctopic Cushing syndrome, in which a tumor outside the pituitary or adrenal glands makes too much ACTHTumor of the adrenal gland that is producing too much cortisolStressAcute illness A lower than normal level may indicate:Addison disease, in which the adrenal glands do not produce enough cortisolHypopituitarism, in which the pituitary gland does not signal the adrenal gland to produce enough cortisolSuppression of normal pituitary or adrenal function by glucocorticoid medicines including pills, skin creams, eye drops, inhalers, joint injections, chemotherapy Risks
+
+There is little risk involved with having your blood taken. Veins and arteries vary in size from one person to another and from one side of the body to the other. Taking blood from some people may be more difficult than from others.Other risks associated with having blood drawn are slight, but may include:Excessive bleedingFainting or feeling lightheadedMultiple punctures to locate veinsHematoma (blood accumulating under the skin)Infection (a slight risk any time the skin is broken) Alternative Names
+
+Serum cortisolReferences
+
+Guber HA, Oprea M, Russell YX. Evaluation of endocrine function. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 25.Newell-Price JDC, Auchus RJ. The adrenal cortex. In: Melmed S, Auchus, RJ, Goldfine AB, Koenig RJ, Rosen CJ, eds. Williams Textbook of Endocrinology. 14th ed. Philadelphia, PA: Elsevier; 2020:chap 15.
+Review Date 5/12/2023
+
+
+Updated by: Sandeep K. Dhaliwal, MD, board-certified in Diabetes, Endocrinology, and Metabolism, Springfield, VA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.   
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Addison Disease
+Adrenal Gland Disorders
+Cushing's Syndrome
+Pituitary Disorders

@@ -1,0 +1,30 @@
+source : https://medlineplus.gov/ency/article/003716.htm 
+ 
+ A glucagon blood test measures the amount of a hormone called glucagon in your blood. Glucagon is produced by specific cells in the pancreas. It helps control your blood sugar level by increasing blood sugar when it is too low.How the Test is Performed
+
+A blood sample is needed.How to Prepare for the Test
+
+Your health care provider will tell you if you need to fast (not eat anything) for a period of time before the test.How the Test will Feel
+
+When the needle is inserted to draw blood, some people feel moderate pain. Others feel only a prick or stinging. Afterward, there may be some throbbing or a slight bruise. This soon goes away.Why the Test is Performed
+
+Glucagon stimulates the liver to release glucose. As the level of blood sugar decreases, the pancreas releases more glucagon. And as blood sugar increases, the pancreas releases less glucagon.The provider may measure glucagon level if a person has symptoms of:Diabetes (not commonly measured)Glucagonoma (rare tumor of the pancreas) with symptoms of a skin rash called necrotizing migratory erythema, weight loss, mild diabetes, anemia, stomatitis, glossitisGrowth hormone deficiency in childrenLiver cirrhosis (scarring of the liver and poor liver function)Low blood sugar (hypoglycemia) -- most common reasonMultiple endocrine neoplasia type I (disease in which one or more of the endocrine glands are overactive or form a tumor)Pancreatitis (inflammation of the pancreas) Normal Results
+
+The normal range is 50 to 100 pg/mL.Normal value ranges may vary slightly among different laboratories. Some labs use different measurements or test different samples. Talk to your doctor about the meaning of your specific test results.What Abnormal Results Mean
+
+Abnormal results may indicate that the person may have a condition described above under Why the Test is Performed.Some experts now believe that high glucagon levels in the blood contribute to the development of diabetes instead of just a low level of insulin. Medicines are being developed to decrease glucagon levels or block the signal from glucagon in the liver.When your blood sugar is low, the level of glucagon in your blood should be high. If it is not increased, this can help identify people that are at higher risk of severe hypoglycemia that can be dangerous.Glucagon can be increased by prolonged fasting.Risks 
+
+There is little risk involved with having your blood taken. Veins vary in size from one person to another and from one side of the body to the other. Taking blood from some people may be more difficult than from others.Other risks associated with having blood drawn are slight, but may include:Excessive bleedingMultiple punctures to locate veinsFainting or feeling lightheadedHematoma (blood buildup under the skin)Infection (a slight risk any time the skin is broken) Alternative Names
+
+Glucagonoma - glucagon test; Multiple endocrine neoplasia type I - glucagon test; Hypoglycemia - glucagon test; Low blood sugar - glucagon test References
+
+Chernecky CC, Berger BJ. Glucagon - plasma. In: Chernecky CC, Berger BJ, eds. Laboratory Tests and Diagnostic Procedures. 6th ed. St Louis, MO: Elsevier Saunders; 2013:580-581.Mojica A, Weinstock RS. Carbohydrates. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 17.
+Review Date 8/12/2022
+
+
+Updated by: Sandeep K. Dhaliwal, MD, board-certified in Diabetes, Endocrinology, and Metabolism, Springfield, VA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Endocrine Diseases
+Pancreatic Diseases

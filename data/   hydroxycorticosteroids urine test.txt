@@ -1,0 +1,31 @@
+source : https://medlineplus.gov/ency/article/003459.htm 
+ 
+ The 17-hydroxycorticosteroids (17-OHCS) test measures the level of 17-OHCS in the urine.How the Test is Performed
+
+A 24-hour urine sample is needed. You will need to collect your urine over 24 hours. Your health care provider will tell you how to do this. Follow instructions exactly.How to Prepare for the Test
+
+Your provider will instruct you, if necessary, to stop medicines that may interfere with the test. These may include:Birth control pills that contain estrogenCertain antibioticsGlucocorticoidsHow the Test will Feel
+
+The test involves only normal urination. There is no discomfort.Why the Test is Performed
+
+17-OHCS is a product formed when the liver and other body tissues break down the steroid hormone cortisol.This test can help determine if the body is producing too much cortisol. The test may be used to diagnose Cushing syndrome. This is a disorder that occurs when the body has a constant high level of cortisol.The urine volume and urine creatinine are often done with 17-OHCS test at the same time. This helps the provider interpret the test.This test is not done often now. The free cortisol urine test is a better screening test for Cushing disease.Normal Results
+
+Normal values:Male: 3 to 9 mg/24 hours (8.3 to 25 µmol/24 hours)Female: 2 to 8 mg/24 hours (5.5 to 22 µmol/24 hours)Normal value ranges may vary slightly among different laboratories. Some labs use different measurements or test different samples. Talk to your provider about the meaning of your specific test results.What Abnormal Results Mean
+
+A higher than normal level of 17-OHCS may indicate:A type of Cushing syndrome caused by a tumor in the adrenal gland that produces cortisolDepressionHydrocortisone therapyMalnutritionObesityPregnancyA hormonal cause of severe high blood pressureSevere physical or emotional stressTumor in the pituitary gland or elsewhere in the body that releases a hormone called adrenocorticotropic hormone (ACTH) A lower than normal level of 17-OHCS may indicate:Adrenal glands are not producing enough of their hormonesPituitary gland is not producing enough of its hormonesHereditary enzyme deficiencyPrevious surgery to remove the adrenal gland An expected result if part of a standard three- day dexamethasone suppression testUrinating more than 3 liters a day (polyuria) can make the result of the test high even though cortisol production is normal.Risks
+
+There are no risks with this test.Alternative Names
+
+17-OH corticosteroids; 17-OHCSReferences
+
+Newell-Price JDC, Auchus RJ. The adrenal cortex. In: Melmed S, Auchus, RJ, Goldfine AB, Koenig RJ, Rosen CJ, eds. Williams Textbook of Endocrinology. 14th ed. Philadelphia, PA: Elsevier; 2020:chap 15.
+Review Date 5/12/2023
+
+
+Updated by: Sandeep K. Dhaliwal, MD, board-certified in Diabetes, Endocrinology, and Metabolism, Springfield, VA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.  
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Addison Disease
+Adrenal Gland Disorders
+Cushing's Syndrome

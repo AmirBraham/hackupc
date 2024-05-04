@@ -1,0 +1,33 @@
+source : https://medlineplus.gov/ency/article/000700.htm 
+ 
+ Neuropathy is injury to one or more peripheral nerves. These are nerves that are not in the brain or spinal cord. Neuropathy secondary to drugs causes a loss of sensation or movement in a part of the body due to nerve damage from taking a certain medicine, combination of medicines, or illicit (street) drugs.Causes
+
+The damage is caused by the toxic effect of certain medicines or illicit (street) drugs on the peripheral nerves. There may be damage to the axon part of the nerve cell, which interferes with nerve signals. Or, the damage may involve the myelin sheath, which insulates the axons and increases the speed of transmission of signals through the axon.Most commonly, many nerves are involved (polyneuropathy). This usually causes sensation changes that begin in the outside parts of the body (distal) and move toward the center of the body (proximal). There may also be changes in movement, such as weakness. There may also be burning pain.Many medicines and substances may lead to development of neuropathy. Examples are listed below.Heart or blood pressure drugs:AmiodaroneHydralazinePerhexilineDrugs used to fight cancer (chemotherapy drugs):CisplatinDocetaxelPaclitaxelSuraminVincristineDrugs used to fight infections:ChloroquineDapsoneIsoniazid (INH), used against tuberculosisMetronidazole (Flagyl)NitrofurantoinThalidomide (used to fight leprosy)Drugs used to treat autoimmune disease:Etanercept (Enbrel)Infliximab (Remicade)Leflunomide (Arava)Tacrolimus Drugs used to treat seizures:CarbamazepinePhenytoinPhenobarbitalAnti-alcohol drugs:DisulfiramDrugs to fight HIV/AIDS:Didanosine (Videx)Emtricitabine (Emtriva)Stavudine (Zerit)Tenofovir and emtricitabine (Truvada)Other drugs and substances that may cause neuropathy include:Colchicine (used to treat gout)Excess pyridoxine (Vitamin B6)ArsenicGoldIllicit drugs (such as methaqualone)Glue sniffingn-HexaneNitrous oxide (laughing gas)Symptoms
+
+Symptoms may include any of the following:Numbness, loss of sensationTingling, abnormal sensationsWeakness Burning painLoss of balanceTrouble walkingSensation changes usually begin in the feet or hands and move inward.Exams and Tests
+
+A brain and nervous system examination will be done.Other tests include: Blood tests to check levels of the medicine (even normal blood levels of certain drugs may be toxic in older adults or certain other people)EMG (electromyography) and nerve conduction studies (NCS) of the electrical activity of nerves and musclesSkin biopsy to measure nerve fibers (usually for small fiber neuropathy if EMG and NCS are normal)Treatment
+
+Treatment is based on the symptoms and how severe they are. The drug causing the neuropathy may be stopped, reduced in dose, or changed to another drug. (Never change or discontinue any drug without first talking to your health care provider.)Your provider may suggest the following drugs to help control pain:Over-the-counter pain medicines may be helpful for mild pain (neuralgia).Phenytoin, carbamazepine, gabapentin, pregabalin, duloxetine, or tricyclic antidepressants such as nortriptyline may reduce the stabbing pains some people experience.Opioid pain medicines such as morphine or fentanyl, may be needed to control severe pain.There are currently no medicines that can reverse the loss of sensation. If you have lost sensation, you may need to take safety measures to avoid injury.Ask your provider if there are exercises that can help relieve your symptoms.Outlook (Prognosis)
+
+Many people can partially or fully return to their normal function. The disorder does not usually cause life-threatening complications, but it can be uncomfortable or disabling.Possible Complications
+
+Complications may include:Inability to function at work or home because of permanent loss of sensationPain with tingling in the area of the nerve injuryPermanent loss of sensation (or rarely, movement) in an area of the bodyWhen to Contact a Medical Professional
+
+Contact your provider if you have a loss of sensation or movement of any area of the body while taking any medicine.Prevention
+
+Your provider will closely monitor your treatment with any drug that may cause neuropathy. The goal is to keep the proper blood level of the drug needed to control the disease and its symptoms while preventing the drug from reaching toxic levels.Images
+
+
+Central nervous system and peripheral nervous system
+References
+
+Jones MR, Urits I, Wolf J, et al. Drug-induced peripheral neuropathy, a narrative review. Curr Clin Pharmacol. 2020;15(1):38-48. PMID: 30666914 pubmed.ncbi.nlm.nih.gov/30666914/.Katirji B. Disorders of peripheral nerves. In: Jankovic J, Mazziotta JC, Pomeroy SL, Newman NJ, eds. Bradley and Daroff’s Neurology in Clinical Practice. 8th ed. Philadelphia, PA: Elsevier; 2022:chap 106.Mastaglia FL. Drug-induced disorders of the nervous system. In: Aminoff MJ, Josephson SA, eds. Aminoff's Neurology and General Medicine. 6th ed. Waltham, MA: Elsevier Academic Press; 2021:chap 32.
+Review Date 1/23/2023
+
+
+Updated by: Joseph V. Campellone, MD, Department of Neurology, Cooper Medical School of Rowan University, Camden, NJ. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Peripheral Nerve Disorders

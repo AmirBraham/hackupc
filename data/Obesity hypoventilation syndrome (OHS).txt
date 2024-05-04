@@ -1,0 +1,37 @@
+source : https://medlineplus.gov/ency/article/000085.htm 
+ 
+ Obesity hypoventilation syndrome (OHS) causes poor breathing in some people with obesity. It leads to lower oxygen and higher carbon dioxide levels in the blood.Causes
+
+The exact cause of OHS is not known. It is believed that OHS results from a defect in the brain's control over breathing. Excess weight against the chest wall also makes it harder for the muscles to draw in a deep breath and to breathe quickly enough. This worsens the brain's breathing control. As a result, the blood contains too much carbon dioxide and not enough oxygen.During stable conditions, people are not acidemic as the kidneys have enough time to correct the acidity caused by the high carbon dioxide.Symptoms
+
+The main symptoms of OHS are due to lack of sleep and include:Poor sleep qualitySleep apneaDaytime sleepinessDepressionHeadachesTirednessSymptoms of low blood oxygen level (chronic hypoxia) and high carbon dioxide can occur. Symptoms include shortness of breath or feeling tired after little effort.Exams and Tests
+
+People with OHS have obesity (body mass index of 30 kg/m2 or greater). A physical exam may show:Bluish color in the lips, fingers, toes, or skin (cyanosis)Reddish skinSigns of right-sided heart failure (cor pulmonale), such as swollen legs or feet, shortness of breath, or feeling tired after little effortSigns of extreme sleepinessTests used to help diagnose OHS include:Arterial blood gasChest x-ray or CT scan of the chest to rule out other possible causesLung function tests (pulmonary function tests)Sleep study (polysomnography)Echocardiogram (ultrasound of the heart)Health care providers can tell OHS from obstructive sleep apnea because a person with OHS has a high carbon dioxide level in their blood when awake.Treatment
+
+Treatment involves breathing assistance using special machines (mechanical ventilation). Options include:Noninvasive mechanical ventilation such as continuous positive airway pressure (CPAP) or bilevel positive airway pressure (BiPAP) through a mask that fits tightly over the nose or nose and mouth (mainly for sleep)Oxygen therapyBreathing help through an opening in the neck (tracheostomy) for severe cases Treatment is started in the hospital or as an outpatient. Other treatments are aimed at weight loss, which can reverse OHS, although it is often difficult to achieve.Outlook (Prognosis)
+
+Untreated, OHS can lead to serious heart and blood vessel problems, severe disability, or death.Possible Complications
+
+OHS complications related to a lack of sleep may include:Depression, agitation, irritabilityIncreased risk for accidents or mistakes at workProblems with intimacy and sex OHS can also cause heart problems, such as:High blood pressure (hypertension)Right-sided heart failure (cor pulmonale)High blood pressure in the lungs (pulmonary hypertension) When to Contact a Medical Professional
+
+Contact your provider if you are very tired during the day or have any other symptoms that suggest OHS.Prevention
+
+Maintain a healthy weight. Use your CPAP or BiPAP treatment as your provider prescribed.Alternative Names
+
+Pickwickian syndrome Images
+
+
+Respiratory system
+References
+
+Malhotra A, Powell F. Disorders of ventilatory control. In: Goldman L, Cooney KA, eds. Goldman-Cecil Medicine. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 74.Mokhlesi B, Tamisier R. Obesity-hypoventilation syndrome. In: Kryger M, Roth T, Goldstein CA, Dement WC, eds. Principles and Practice of Sleep Medicine. 7th ed. Philadelphia, PA: Elsevier; 2022:chap 138.Mokhlesi B, Masa JF, Brozek JL, et al. Evaluation and management of obesity hypoventilation syndrome. An official American Thoracic Society clinical practice guideline. Am J Respir Crit Care Med. 2019;200(3):e6-e24. PMID: 31368798 pubmed.ncbi.nlm.nih.gov/31368798/.
+Review Date 8/13/2023
+
+
+Updated by: Denis Hadjiliadis, MD, MHS, Paul F. Harron, Jr. Professor of Medicine, Pulmonary, Allergy, and Critical Care, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.   
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Breathing Problems
+Obesity
+Sleep Apnea

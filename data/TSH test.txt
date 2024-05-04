@@ -1,0 +1,37 @@
+source : https://medlineplus.gov/ency/article/003684.htm 
+ 
+ A TSH test measures the amount of thyroid stimulating hormone (TSH) in your blood. TSH is produced by the pituitary gland. It prompts the thyroid gland to make and release thyroid hormones into the blood.How the Test is Performed
+
+A blood sample is needed. Other thyroid tests that may be done at the same time include:T3 test (free or total)T4 test (free or total) Anti-TPO (antibodies against thyroid peroxidase)How to Prepare for the Test
+
+There is no preparation needed for this test. Ask your health care provider about any medicines you are taking that may affect the test results. DO NOT stop taking any medicines without first asking your provider.Medicines you may need to stop for a short time include:AmiodaroneDopamineLithiumPotassium iodidePrednisone or other glucocorticoid medicines The vitamin biotin (B7) can affect the results of the TSH test. If you take biotin, talk to your provider before you have any thyroid function tests.How the Test will Feel
+
+When the needle is inserted to draw blood, some people feel moderate pain. Others feel only a prick or stinging. Afterward, there may be some throbbing or a slight bruise. This soon goes away.Why the Test is Performed
+
+Your provider will order this test if you have symptoms or signs of an overactive or underactive thyroid gland. It is also used to monitor treatment of these conditions.Your provider may also check your TSH level if you are planning to get pregnant.Normal Results
+
+Normal values range from 0.5 to 5 microunits per milliliter (µU/mL).TSH values can vary during the day. It is best to have the test early in the morning. Experts do not fully agree on what the upper number should be when diagnosing thyroid disorders. Some labs will use a higher normal range limit for older people (even as high as 7 µU/mL).Normal value ranges may vary slightly among different laboratories. Some labs use different measurements or test different samples. Talk to your provider about the meaning of your specific test results.If you are being treated for a thyroid disorder, your TSH level will likely be kept between 0.5 and 4.0 µU/mL, except when:A pituitary disorder is the cause of the thyroid problem. A low TSH may be expected.You have a history of certain types of thyroid cancer. A TSH value below the normal range may be best to prevent the thyroid cancer from coming back.A woman is pregnant. The normal range for TSH is different for women who are pregnant. Your provider may suggest that you take thyroid hormone, even if your TSH is in the normal range. What Abnormal Results Mean
+
+A higher-than-normal TSH level is most often due to an underactive thyroid gland (hypothyroidism). There are many causes of this problem.A lower-than-normal level may be due to an overactive thyroid gland, which can be caused by:Graves diseaseToxic nodular goiter or multinodular goiterToo much iodine in the body (due to receiving iodine contrast used during imaging tests, such as CT scan)Taking too much thyroid hormone medicine or prescribed natural or over-the-counter supplements that contain thyroid hormone Use of certain medicines may also cause a lower-than-normal TSH level. These include glucocorticoids/steroids, dopamine, certain chemotherapy drugs, and opioid painkillers such as morphine.Risks
+
+There is little risk involved with having your blood taken.Veins and arteries vary in size from one person to another and from one side of the body to the other. Obtaining a blood sample from some people may be more difficult than from others.Other risks associated with having blood drawn are slight, but may include:Excessive bleedingFainting or feeling lightheadedMultiple punctures to locate veinsHematoma (blood buildup under the skin)Infection (a slight risk any time the skin is broken)Alternative Names
+
+Thyrotropin; Thyroid stimulating hormone; Hypothyroidism - TSH; Hyperthyroidism - TSH; Goiter - TSHImages
+
+
+Endocrine glands
+Pituitary and TSH
+References
+
+Guber HA, Oprea M, Rusell YX. Evaluation of endocrine function. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 25.Jonklaas J, Cooper DS. Thyroid. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 213.Salvatore D, Cohen R, Kopp PA, Larsen PR. Thyroid pathophysiology and diagnostic evaluation. In: Melmed S, Auchus RJ, Goldfine AB, Koenig RJ, Rosen CJ, eds. Williams Textbook of Endocrinology. 14th ed. Philadelphia, PA: Elsevier; 2020:chap 11.Weiss RE, Refetoff S. Thyroid function testing. In: Jameson JL, De Groot LJ, de Kretser DM, et al, eds. Endocrinology: Adult and Pediatric. 7th ed. Philadelphia, PA: Elsevier Saunders; 2016:chap 78.
+Review Date 1/9/2022
+
+
+Updated by: Robert Hurd, MD, Professor of Endocrinology and Health Care Ethics, Xavier University, Cincinnati, OH. Review provided by VeriMed Healthcare Network. Also reviewed by David Zieve, MD, MHA, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.    
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Hyperthyroidism
+Hypothyroidism
+Thyroid Diseases
+Thyroid Tests

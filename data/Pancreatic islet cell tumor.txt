@@ -1,0 +1,51 @@
+source : https://medlineplus.gov/ency/article/000393.htm 
+ 
+ A pancreatic islet cell tumor is a rare tumor of the pancreas that starts from a type of cell called the islet cell.Causes
+
+In the healthy pancreas, cells called islet cells produce hormones that regulate several bodily functions. These include blood sugar level and the production of stomach acid.Tumors that arise from islet cells of the pancreas can also produce a variety of hormones, which can lead to specific symptoms. Pancreatic islet cell tumors can be noncancerous (benign) or cancerous (malignant).Islet cell tumors include:Gastrinoma (Zollinger-Ellison syndrome)Glucagonoma InsulinomaSomatostatinomaVIPoma (Verner-Morrison syndrome)A family history of multiple endocrine neoplasia, type I (MEN I) is a risk factor for the development of islet cell tumors.Symptoms
+
+Symptoms depend on which hormone is made by the tumor.For example, insulinomas produce insulin, which lowers blood sugar level. Symptoms may include:
+   Feeling tired or weakShaking or sweatingHeadacheHungerNervousness, anxiety, or feeling irritableUnclear thinking or feeling uneasyDouble or blurry visionFast or pounding heartbeatIf your blood sugar level gets too low, you may faint, have a seizure, or even go into a coma.Gastrinomas make the hormone gastrin, which tells the body to make stomach acid. Symptoms may include:
+   Abdominal painDiarrheaUlcers in the stomach and small bowelVomiting blood (occasionally)Glucagonomas make the hormone glucagon, which helps the body raise blood sugar level. Symptoms can include:
+   DiabetesRed, blistery rash in the groin or buttocksWeight lossFrequent urination and thirstSomatostatinomas make the hormone somatostatin. Symptoms may include:High blood sugarGallstonesYellowish appearance to skin, and eyesWeight lossDiarrhea with foul smelling stoolsVIPomas make the hormone vasoactive intestinal peptide (VIP) which is involved in maintaining the balance of salts, sodium, potassium and other minerals in the GI tract. VIPomas may cause:Severe diarrhea that may lead to dehydrationLow blood potassium levels, and high calcium levelsAbdominal crampsWeight lossExams and Tests
+
+Your health care provider will take your medical history and perform a physical exam.Blood tests may vary, depending upon the symptoms, but may include:Fasting glucose levelGastrin levelGlucose tolerance testSecretin stimulation test for pancreasBlood glucagon levelBlood insulin C-peptideBlood insulin level Fasting serum somatostatin levelSerum vasoactive intestinal peptide (VIP) levelImaging tests may be done:Abdominal CT scanAbdominal ultrasoundEndoscopic ultrasoundMRI of abdomenA blood sample may also be taken from a vein in the pancreas for testing.Sometimes, surgery is needed to diagnose and treat this condition. During this procedure, the surgeon examines the pancreas by hand and with ultrasound.Treatment
+
+Treatment depends on the type of tumor and if it is cancerous. Cancerous tumors can grow quickly and spread to other organs. They may not be treatable. Tumors are often removed with surgery, if possible.If cancer cells spread to the liver, a part of the liver may also be removed, if possible. If the cancer is widespread, chemotherapy may be used to try and shrink the tumors.If the abnormal production of hormones is causing symptoms, you may receive medicines to counteract their effects. For example, with gastrinomas, the overproduction of gastrin leads to too much acid in the stomach. Medicines that block stomach acid release can reduce symptoms.Support Groups
+
+You can ease the stress of illness by joining a cancer support group. Sharing with others who have common experiences and problems can help you not feel alone.Outlook (Prognosis)
+
+You may be cured if the tumors are surgically removed before they have spread to other organs. If tumors are cancerous, chemotherapy may be used, but it usually cannot cure people.Life-threatening problems (such as very low blood sugar) can occur due to excess hormone production, or if the cancer spreads throughout the body.Possible Complications
+
+Complications of these tumors include:
+   Diabetes
+   
+   Hormone crises (if the tumor releases certain types of hormones)
+   
+   Severe low blood sugar (from insulinomas)
+   
+   Severe ulcers in the stomach and small intestine (from gastrinomas)
+   
+   Spread of the tumor to the liver
+   When to Contact a Medical Professional
+
+Contact your provider if you develop symptoms of these tumors, especially if you have a family history of MEN I.Prevention
+
+There is no known prevention for these tumors.Alternative Names
+
+Cancer - pancreas; Cancer - pancreatic; Pancreatic cancer; Islet cell tumors; Islet of Langerhans tumor; Neuroendocrine tumors; Peptic ulcer - islet cell tumor; Hypoglycemia - islet cell tumor; Zollinger-Ellison syndrome; Verner-Morrison syndrome; Gastrinoma; Insulinoma; VIPoma; Somatostatinoma; GlucagonomaImages
+
+
+Endocrine glands
+Pancreas
+References
+
+Foster DS, Norton JA. Management of pancreatic islet cell tumors excluding gastrinoma. In: Cameron AM, Cameron JL, eds. Current Surgical Therapy. 13th ed. Philadelphia, PA: Elsevier; 2020:581-584.National Cancer Institute website. Pancreatic cancer treatment (PDQ) - health professional version. www.cancer.gov/types/pancreatic/hp/pnet-treatment-pdq. Updated January 2, 2020. Accessed June 21, 2022.National Comprehensive Cancer Network website. NCCN clinical practice guidelines in oncology (NCCN guidelines). Neuroendocrine and adrenal tumors. Version 1.2022. www.nccn.org/professionals/physician_gls/pdf/neuroendocrine.pdf. UpdatedMay 23, 2022. Accessed June 24, 2022.National Comprehensive Cancer Network website. NCCN guidelines for patients. Neuroendocrine tumors. 2022. www.nccn.org/patients/guidelines/content/PDF/neuroendocrine-patient.pdf. Accessed June 24, 2022.
+Review Date 1/25/2022
+
+
+Updated by: Todd Gersten, MD, Hematology/Oncology, Florida Cancer Specialists & Research Institute, Wellington, FL. Review provided by VeriMed Healthcare Network. Also reviewed by David Zieve, MD, MHA, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.   
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Pancreatic Cancer

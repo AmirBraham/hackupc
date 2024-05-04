@@ -1,0 +1,35 @@
+source : https://medlineplus.gov/ency/article/003688.htm 
+ 
+ The T3RU test measures the level of proteins that carry thyroid hormone in the blood. This can help your health care provider interpret the results of T3 and T4 blood tests. Because tests called the free T4 blood test and thyroxine binding globulin (TBG) blood tests are now available, the T3RU test is rarely used these days.How the Test is Performed
+
+A blood sample is needed. How to Prepare for the Test
+
+Your provider will tell you if you need to stop taking any medicines before the test that may affect your test result. DO NOT stop taking any medicine without first talking to your provider.Some drugs that can increase T3RU levels include:Anabolic steroidsHeparinPhenytoinSalicylates (high dose)Warfarin Some drugs that can decrease T3RU levels include:Antithyroid medicinesBirth control pillsClofibrateEstrogenThiazides Opioids and methadonePregnancy can also decrease T3RU levels.These conditions can decrease TBG levels (see below section "Why the Test is Performed" for more about TBG):Serious illnessKidney disease when protein is lost in the urine (nephrotic syndrome)Other medicines that bind to protein in the blood can also affect test results.How the Test will Feel
+
+When the needle is inserted to draw blood, some people feel moderate pain. Others feel only a prick or stinging. Afterward, there may be some throbbing or a slight bruise. This soon goes away.Why the Test is Performed
+
+This test is done to check your thyroid function. Thyroid function depends on the action of many different hormones, including thyroid-stimulating hormone (TSH), T3, and T4.This test helps check the amount of T3 that TBG is able to bind. TBG is a protein that carries most of the T3 and T4 in the blood.Your provider may recommend a T3RU test if you have signs of a thyroid disorder, including:Hyperthyroidism (overactive thyroid)Hypothyroidism (underactive thyroid)Thyrotoxic periodic paralysis (muscle weakness caused by high levels of thyroid hormone in the blood) Normal Results
+
+Normal values range from 24% to 37%.Normal value ranges may vary slightly among different laboratories. Some labs use different measurements or test different samples. Talk to your provider about the meaning of your specific test results.What Abnormal Results Mean
+
+Higher-than-normal levels may indicate:Kidney failureOveractive thyroid (hyperthyroidism)Nephrotic syndromeProtein malnutritionChronic liver diseaseLower-than-normal levels may indicate:Acute hepatitis (liver disease)PregnancyHypothyroidismUse of estrogen, opioids or methadoneAbnormal results may also be due to an inherited condition of high TBG levels. Usually thyroid function is normal in people with this condition.This test may also be done for:Chronic thyroiditis (swelling or inflammation of the thyroid gland, including Hashimoto disease)Drug-induced hypothyroidismGraves diseaseSubacute thyroiditisThyrotoxic periodic paralysisToxic nodular goiterRisks
+
+There is little risk involved with having your blood taken. Veins and arteries vary in size from one person to another and from one side of the body to the other. Obtaining a blood sample from some people may be more difficult than from others.Other risks associated with having blood drawn are slight, but may include:Excessive bleedingFainting or feeling lightheadedMultiple punctures to locate veinsHematoma (blood buildup under the skin)Infection (a slight risk any time the skin is broken)Alternative Names
+
+Resin T3 uptake; T3 resin uptake; Thyroid hormone-binding ratioImages
+
+
+Blood test
+References
+
+Guber HA, Oprea M, Rusell YX. Evaluation of endocrine function. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 25.Kiefer J, Mythen M, Roizen MF, Fleisher LA. Anesthetic implications of concurrent diseases. In: Gropper MA, ed. Miller's Anesthesia. 9th ed. Philadelphia, PA: Elsevier; 2020:chap 32.Salvatore D, Cohen R, Kopp PA, Larsen PR. Thyroid pathophysiology and diagnostic evaluation. In: Melmed S, Auchus RJ, Goldfine AB, Koenig RJ, Rosen CJ, eds. Williams Textbook of Endocrinology. 14th ed. Philadelphia, PA: Elsevier; 2020:chap 11.Weiss RE, Refetoff S. Thyroid function testing. In: Jameson JL, De Groot LJ, de Kretser DM, et al, eds. Endocrinology: Adult and Pediatric. 7th ed. Philadelphia, PA: Elsevier Saunders; 2016:chap 78.
+Review Date 1/9/2022
+
+
+Updated by: Robert Hurd, MD, Professor of Endocrinology and Health Care Ethics, Xavier University, Cincinnati, OH. Review provided by VeriMed Healthcare Network. Also reviewed by David Zieve, MD, MHA, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.  
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Hyperthyroidism
+Thyroid Diseases
+Thyroid Tests

@@ -1,0 +1,37 @@
+source : https://medlineplus.gov/ency/article/003504.htm 
+ 
+ The creatine phosphokinase (CPK) isoenzymes test measures the different forms of CPK in the blood. CPK is an enzyme found mainly in the heart, brain, and skeletal muscle.How the Test is Performed
+
+A blood sample is needed. This may be taken from a vein. The test is called a venipuncture.If you are in the hospital, this test may be repeated over 2 or 3 days. A significant rise or fall in the total CPK or CPK isoenzymes can help your health care provider diagnose certain conditions.How to Prepare for the Test
+
+No special preparation is needed in most cases.Tell your provider about all the medicines you are taking. Some drugs can interfere with test results. Drugs that can increase CPK measurements include the following:AlcoholAmphotericin BCertain anestheticsCocaineFibrate drugsStatinsSteroids, such as dexamethasone This list is not all-inclusive.How the Test will Feel
+
+You may feel slight pain when the needle is inserted to draw blood. Some people feel only a prick or stinging sensation. Afterward, there may be some throbbing.Why the Test is Performed
+
+This test is done if a CPK test shows that your total CPK level is elevated. CPK isoenzyme testing can help find the exact source of the damaged tissue.CPK is made of three slightly different substances:CPK-1 (also called CPK-BB) is found mostly in the brain and lungsCPK-2 (also called CPK-MB) is found mostly in the heartCPK-3 (also called CPK-MM) is found mostly in skeletal muscle What Abnormal Results Mean
+
+Higher-than-normal CPK-1 levels:Because CPK-1 is found mostly in the brain and lungs, injury to either of these areas can increase CPK-1 levels. Increased CPK-1 levels may be due to:Brain cancerBrain injury (due to any type of injury including, stroke, or bleeding in the brain)Electroconvulsive therapyPulmonary infarctionSeizureHigher-than-normal CPK-2 levels:CPK-2 levels rise 3 to 6 hours after a heart attack. If there is no further heart muscle damage, the level peaks at 12 to 24 hours and returns to normal 12 to 48 hours after tissue death.Increased CPK-2 levels may also be due to:Electrical injuriesHeart defibrillation (purposeful shocking of the heart by medical personnel)Heart injury (for instance, from a car accident)Inflammation of the heart muscle usually due to a virus (myocarditis)Open heart surgery Higher-than-normal CPK-3 levels are most often a sign of muscle injury or muscle stress. They may be due to:Crush injuriesDermatomyositis or polymyositisMuscle damage due to drugs or being immobile for a long time (rhabdomyolysis)Muscular dystrophyMyopathyMyositis (skeletal muscle inflammation)Receiving many intramuscular injectionsRecent nerve and muscle function testing (electromyography)Recent seizuresRecent surgeryRhabdomyolysisStrenuous exercise Considerations
+
+Factors that can affect test results include cardiac catheterization, intramuscular injections, recent surgery, and vigorous and prolonged exercise or immobilization.Isoenzyme testing for specific conditions is about 90% accurate.Alternative Names
+
+Creatine phosphokinase - isoenzymes; Creatine kinase - isoenzymes; CK - isoenzymes; Heart attack - CPK; Crush - CPKImages
+
+
+Blood test
+References
+
+Habib G. Cardiology. In: Harward MP, ed. Medical Secrets. 6th ed. Philadelphia, PA: Elsevier; 2019:chap 4.
+Marshall WJ, Lapsley M, Day A, Shipman K. Plasma proteins and enzymes. In: Marshall WJ, Lapsley M, Day A, Shipman K, eds. Clinical Chemistry. 9th ed. St Louis, MO: Elsevier; 2021:chap 16.Panteghini M. Serum enzymes. In: Rifai N, Chiu RWK, Young I, Burnham CD, Wittwer CT, eds. Tietz Textbook of Laboratory Medicine. 7th ed. St Louis, MO: Elsevier; 2023:chap 32.Pincus MR, Carty RP. Clinical enzymology. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 21.
+Review Date 1/1/2023
+
+
+Updated by: Michael A. Chen, MD, PhD, Associate Professor of Medicine, Division of Cardiology, Harborview Medical Center, University of Washington Medical School, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Chest Pain
+Heart Attack
+Heart Diseases
+Muscular Dystrophy
+Seizures
+Traumatic Brain Injury

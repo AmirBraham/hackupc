@@ -1,0 +1,35 @@
+source : https://medlineplus.gov/ency/article/000611.htm 
+ 
+ Q fever is an infectious disease caused by bacteria that are spread by domestic and wild animals and ticks.Causes
+
+Q fever is caused by the bacteria Coxiella burnetii, which live in domestic animals such as cattle, sheep, goats, birds, and cats. Some wild animals and ticks also carry these bacteria.You can get Q fever by drinking raw (unpasteurized) milk, or after breathing in dust or droplets in the air that are contaminated with infected animal feces, blood, or birth products.People at risk for infection include slaughterhouse workers, veterinarians, researchers, food processors, and sheep and cattle workers. Men are infected more often than women. Most people who get Q fever are between 30 and 70 years old.In rare cases, the disease affects children, especially those who live on a farm. In infected children younger than 3 years old, Q fever is usually noticed while looking for the cause of pneumonia.Symptoms
+
+Symptoms usually develop 2 to 3 weeks after coming in contact with the bacteria. This time is called the incubation period. Most people have no symptoms. Others may have moderate symptoms similar to the flu. If symptoms occur, they may last for several weeks.Common symptoms may include:Dry cough (nonproductive)FeverHeadacheJoint pain (arthralgia)Muscle painsOther symptoms that may develop include:Abdominal painChest painJaundice (yellowing of the skin and whites of the eyes)RashExams and Tests
+
+A physical examination may reveal abnormal sounds (crackles) in the lungs or an enlarged liver or spleen. In the late stages of the disease, a heart murmur may be heard.Tests that may be done include:A chest x-ray to detect pneumonia or other changesBlood tests to check for antibodies to Coxiella burnettiLiver function testComplete blood count (CBC) with differentialTissue staining of infected tissues to identify the bacteriaElectrocardiogram (ECG) or echocardiogram (echo) to look at the heart for changesTreatment
+
+Treatment with antibiotics can shorten the length of the illness. Antibiotics that are commonly used include tetracycline and doxycycline. Pregnant women or children who still have any baby teeth should avoid tetracycline by mouth because it can permanently discolor growing teeth.Outlook (Prognosis)
+
+Most people get better with treatment. However, complications can be very serious and sometimes even life threatening. Q fever should always be treated if it causes symptoms.Possible Complications
+
+In rare cases, Q fever causes a heart infection (endocarditis) that can lead to severe symptoms or even death if untreated. Other complications can include:Bone infection (osteomyelitis)Brain infection (encephalitis)Liver infection (chronic hepatitis)Lung infection (pneumonia) When to Contact a Medical Professional
+
+Contact your health care provider if you develop symptoms of Q fever. Also contact your provider if you have been treated for Q fever and symptoms return or new symptoms develop.Prevention
+
+Pasteurization of milk destroys the bacteria that cause early Q fever. Domestic animals should be inspected for signs of Q fever if people exposed to them have developed symptoms of the disease.Alternative Names
+
+Query feverImages
+
+
+Temperature measurement
+References
+
+Bolgiano EB, Sexton J. Tickborne illnesses. In: Walls RM, Hockberger RS, Gausche-Hill M, Erickson TB, Wilcox SR, eds. Rosen's Emergency Medicine: Concepts and Clinical Practice. 10th ed. Philadelphia, PA: Elsevier; 2023:chap 123.Hartzell JD, Marrie TJ, Raoult D. Coxiella burnetti (Q fever). In: Bennett JE, Dolin R, Blaser MJ, eds. Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases. 9th ed. Philadelphia, PA: Elsevier; 2020:chap 188.
+Review Date 9/10/2022
+
+
+Updated by: Jatin M. Vyas, MD, PhD, Associate Professor in Medicine, Harvard Medical School; Associate in Medicine, Division of Infectious Disease, Department of Medicine, Massachusetts General Hospital, Boston, MA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Bacterial Infections

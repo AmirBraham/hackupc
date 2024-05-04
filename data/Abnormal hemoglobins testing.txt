@@ -1,0 +1,34 @@
+source : https://medlineplus.gov/ency/article/003371.htm 
+ 
+ Hemoglobin is a protein in red blood cells that moves oxygen and carbon dioxide between the lungs and body tissues.Hemoglobin derivatives are forms of hemoglobin altered by attachment of carbon monoxide or certain drugs. High levels of hemoglobin derivatives prevent adequate transport of oxygen and carbon dioxide and cause illness.This article discusses the test used to detect and measure the amount of hemoglobin derivatives in your blood.How the Test is Performed
+
+The test is done using a small needle to collect a sample of blood from a vein or an artery. The sample may be collected from a vein or artery in the wrist, groin, or arm.Before blood is drawn, your health care provider may test circulation to the hand (if the wrist is the site). After the blood is drawn, pressure applied to the puncture site for a few minutes stops the bleeding.How to Prepare for the Test
+
+No special preparation is needed.For children, it may help to explain how the test will feel and why it is done. This may make the child feel less nervous.How the Test will Feel
+
+You may feel slight pain or a sting when the needle is inserted. You may also feel some throbbing at the site after the blood is drawn.Why the Test is Performed
+
+Carboxyhemoglobin is a hemoglobin derivative to which carbon monoxide has attached. High amounts of carboxyhemoglobin ("carbon monoxide poisoning") prevent the normal movement of oxygen and carbon dioxide by the blood. Carbon monoxide is released in the exhaust from cars, trucks, small engines, stoves, lanterns, grills, fireplaces, gas ranges, and furnaces. In closed spaces such as homes or garages that are not adequately ventilated, carbon monoxide can build up to dangerous levels.Sulfhemoglobin and methemoglobin are rare hemoglobin derivatives to which oxygen cannot attach. They may occur when you take certain medicines such as dapsone, metoclopramide, nitrates, or sulfonamides.Normal Results
+
+Some levels of hemoglobin derivatives may be normal:Carboxyhemoglobin -- less than 1.5% (but may be as high as 9% in smokers)Methemoglobin -- less than 2%Sulfhemoglobin -- undetectable Normal value ranges may vary slightly among different laboratories. Talk to your provider about the meaning of your specific test results.What Abnormal Results Mean
+
+High levels of hemoglobin derivatives can lead to major health problems.Carboxyhemoglobin:10% to 20% -- symptoms of carbon monoxide poisoning begin to appear30% -- symptoms of carbon monoxide poisoning may be severe50% to 80% -- potentially deadlyMethemoglobin:10% to 25% -- bluish skin color (cyanosis)35% to 40% -- shortness of breath and headacheOver 60% -- lethargy and stuporOver 70% -- potentially deadlySulfhemoglobin:Values of greater than 10 grams per deciliter (g/dL) or 6.2 millimoles per liter (mmol/L) cause bluish skin color, but do not usually cause harmful effects.Alternative Names
+
+Methemoglobin; Carboxyhemoglobin; SulfhemoglobinImages
+
+
+Blood test
+References
+
+Benz EJ, Ebert BL. Hemoglobin variants associated with hemolytic anemia, altered oxygen affinity, and methemoglobinemias. In: Hoffman R, Benz EJ, Silberstein LE, et al, eds. Hematology: Basic Principles and Practice. 8th ed. Philadelphia, PA: Elsevier; 2023:chap 44.
+Marshall WJ, Lapsley M, Day A, Shipman K. Therapeutic drug monitoring and chemical aspects of toxicology. In: Marshall WJ, Lapsley M, Day A, Shipman K, eds. Clinical Chemistry. 9th ed. St Louis, MO: Elsevier; 2021:chap 21.Toffalett JG, Rackley CR. Introduction to blood-gas tests and blood-gas physiology. In: Toffalett JG, Rackley CR, eds. Blood Gases and Critical Care Testing. 3rd ed. Philadelphia, PA: Elsevier; 2022:chap 1.Vajpayee N, Graham SS, Bem S. Basic examination of blood and bone marrow. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 31.
+Review Date 4/18/2023
+
+
+Updated by: John Roberts, MD, Professor of Internal Medicine (Medical Oncology), Yale Cancer Center, New Haven, CT. He is board certified in Internal Medicine, Medical Oncology, Pediatrics, Hospice and Palliative Medicine. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Blood Count Tests
+Carbon Monoxide Poisoning
+Poisoning

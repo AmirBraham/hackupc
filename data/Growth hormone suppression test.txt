@@ -1,0 +1,34 @@
+source : https://medlineplus.gov/ency/article/003376.htm 
+ 
+ The growth hormone suppression test determines whether growth hormone (GH) production can be suppressed by taking a specific amount of glucose (called a glucose load).How the Test is Performed
+
+At least three blood samples are taken.The test is done in the following way:The first blood sample is collected between 6 a.m. and 8 a.m. before you eat or drink anything.You then drink a solution containing glucose (sugar). You may be told to drink slowly to avoid becoming nauseated. But you must drink the solution within 5 minutes to ensure the test result is accurate.The next blood samples are usually collected for 1 to 2 hours after you finish drinking the glucose solution. Sometimes they are taken every 30 or 60 minutes.Each sample is sent to the laboratory right away. The lab measures the glucose and GH levels in each sample. How to Prepare for the Test
+
+Do not eat anything and limit physical activity for 10 to 12 hours before the test.You may also be told to stop taking medicines that can affect the test results. These medicines include glucocorticoids such as prednisone, hydrocortisone, or dexamethasone. Check with your health care provider before stopping any medicines.You will be asked to relax for at least 90 minutes before the test. This is because exercise or increased activity can change GH levels.If your child is to have this test done, it may be helpful to explain how the test will feel and even demonstrate on a doll. The more familiar your child is with what will happen and why, the less anxiety the child will feel.How the Test will Feel
+
+When the needle is inserted to draw blood, some people feel moderate pain. Others feel only a prick or stinging. Afterward, there may be some throbbing or slight bruising. This soon goes away.Why the Test is Performed
+
+This test checks to see if a high level of GH can be suppressed by taking a glucose load. If it cannot, this may lead to gigantism in children and acromegaly in adults. It is not used as a routine screening test. This test is only done if you show signs of increased GH.Normal Results
+
+Normal test results show a GH level of less than 1 ng/mL. In children, GH level may be increased due to reactive hypoglycemia.Normal value ranges may vary slightly among different laboratories. Some labs use different measurements or test different samples. Talk to your provider about the meaning of your specific test results.What Abnormal Results Mean
+
+If the GH level is not changed and stays high during the suppression test, your provider will suspect gigantism or acromegaly. You may need to be retested to confirm the test results.Risks
+
+There is little risk involved with having your blood taken. Veins and arteries vary in size from one person to another and from one side of the body to the other. Taking blood from some people may be more difficult than from others.Risks of having blood drawn are slight, but may include:Excessive bleedingMultiple punctures to locate veinsFainting or feeling lightheadedBlood accumulating under the skin (hematoma)Infection (a slight risk any time the skin is broken)Alternative Names
+
+GH suppression test; Glucose loading test; Acromegaly - blood test; Gigantism - blood testImages
+
+
+Blood test
+References
+
+Kaiser U, Ho K. Pituitary physiology and diagnostic evaluation. In: Melmed S, Auchus RJ, Goldfine AB, Koenig RJ, Rosen CJ, eds. Williams Textbook of Endocrinology. 14th ed. Philadelphia, PA: Elsevier; 2020:chap 8.Melmed S. Acromegaly. In: Robertson RP, ed. DeGroot's Endocrinology. 8th ed. Philadelphia, PA: Elsevier; 2023:chap 6.
+Review Date 11/6/2023
+
+
+Updated by: Neil K. Kaneshiro, MD, MHA, Clinical Professor of Pediatrics, University of Washington School of Medicine, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Growth Disorders
+Pituitary Disorders

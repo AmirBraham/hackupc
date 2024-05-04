@@ -1,0 +1,61 @@
+source : https://medlineplus.gov/ency/article/003789.htm 
+ 
+ An abdominal CT scan is an imaging method. This test uses x-rays to create cross-sectional pictures of the belly area. CT stands for computed tomography.How the Test is Performed
+
+You will lie on a narrow table that slides into the center of the CT scanner. Most often, you will lie on your back with your arms raised above your head.Once you are inside the scanner, the machine's x-ray beam rotates around you. Modern spiral scanners can perform the exam without stopping.A computer creates separate images of the belly area. These are called slices. These images can be stored, viewed on a monitor, printed on film or saved to a disk. Three-dimensional models of the belly area can be made by stacking the slices together.You must be still during the exam, because movement causes blurred images. You may be told to hold your breath for short periods of time.In many cases, an abdominal CT is done with a pelvis CT.The scan should take less than 30 minutes.How to Prepare for the Test
+
+You need to have a special dye, called contrast, put into your body before some exams. Contrast helps certain areas show up better on the scans. Contrast can be administered in various ways. Such as:Contrast can be given through a vein (IV) in your hand or forearm. If contrast is used, you may also be asked not to eat or drink anything for 4 to 6 hours before the test.You may have to drink the contrast before the exam. When you drink it will depend on the type of exam being done. Contrast has a chalky taste, although some are flavored so they taste a little better. The contrast you drink will pass out of your body through your stools and is harmless. Let your health care provider know if you have ever had a reaction to contrast. You may need to take medicines before the test to safely receive this substance. Before receiving the contrast, tell your provider if you take the diabetes medicine metformin (Glucophage). People taking this medicine may have to stop taking it for a while before the test. Let your provider know if you have any kidney problems. The IV contrast can worsen kidney function. Too much weight can damage the scanner. Find out if the CT machine has a weight limit if you weigh more than 300 pounds (135 kg). You will need to take off your jewelry and wear a hospital gown during the study.How the Test will Feel
+
+Lying on the hard table may be a bit uncomfortable.If you have contrast through a vein (IV), you may have:Slight burning sensationMetallic taste in the mouthWarm flushing of the body These feelings are normal and go away within a few seconds.Why the Test is Performed
+
+An abdominal CT scan makes detailed pictures of the structures inside your belly very quickly.This test may be used to look for:Cause of blood in the urineCause of abdominal pain or swellingCause of abnormal blood test results such as liver or kidney problemsHerniaCause of a feverMasses and tumors, including cancerInfections or injuryKidney stonesAppendicitisWhat Abnormal Results Mean
+
+The abdominal CT scan may show some cancers, including:Cancer of the renal pelvis or ureterColon cancerHepatocellular carcinoma
+   Lymphoma
+   MelanomaOvarian cancerPancreatic cancerPheochromocytomaRenal cell carcinoma (kidney cancer)Spread of cancers that began outside the belly The abdominal CT scan may show problems with the gallbladder, liver, or pancreas, including:Acute cholecystitisAlcoholic liver diseaseCholelithiasisPancreatic abscessPancreatic pseudocystPancreatitisBlockage of bile ducts The abdominal CT scan may reveal the following kidney problems:Blockage of the kidneysHydronephrosis (kidney swelling from the backflow of urine)Kidney infectionKidney stonesKidney or ureter damagePolycystic kidney diseaseAbnormal results may also be due to:Abdominal aortic aneurysmAbscessesAppendicitisBowel wall thickeningCrohn diseaseRenal artery stenosisRenal vein thrombosisRisks
+
+Risks of CT scans include:Allergy to contrast dyeExposure to radiationDamage to kidney function from contrast dye CT scans expose you to more radiation than regular x-rays. Many x-rays or CT scans over time may increase your risk for cancer. However, the risk from any one scan is small. Most modern scanners are able to reduce the radiation exposure. Talk to your provider about this risk and the benefit of the test for getting a correct diagnosis of your medical problem. Some people have allergies to contrast dye. Let your provider know if you have ever had an allergic reaction to injected contrast dye.The most common type of contrast given into a vein contains iodine. If you have an iodine allergy, you may have nausea or vomiting, sneezing, itching, or hives if you get this type of contrast. If you must be given such contrast, your provider may give you antihistamines (such as Benadryl) or steroids before the test.Your kidneys help remove IV dye from the body. You may need extra fluids after the test to help flush the iodine out of your body if you have kidney disease or diabetes.Rarely, the dye may cause a life-threatening allergic response. Tell the scanner operator right away if you have any trouble breathing during the test. Scanners come with an intercom and speakers, so the operator can hear you at all times.Alternative Names
+
+Computed tomography scan - abdomen; CT scan - abdomen; CT abdomen and pelvisPatient Instructions
+
+Aortic aneurysm repair - endovascular - discharge
+Images
+
+
+CT scan
+Digestive system
+Liver cirrhosis - CT scan
+Liver metastases, CT scan
+Lymph node metastases, CT scan
+Lymphoma, malignant - CT scan
+Neuroblastoma in the liver - CT scan
+Pancreatic cancer, CT scan
+Pancreatic pseudocyst - CT scan
+Peritoneal and ovarian cancer, CT scan
+Spleen and liver metastases – CT scan
+Normal external abdomen
+References
+
+Al Sarraf AA, McLaughlin PD, Maher MM. Current status of imaging of the gastrointestinal tract. In: Adam A, Dixon AK, Gillard JH, Schaefer-Prokop CM, eds. Grainger & Allison's Diagnostic Radiology: A Textbook of Medical Imaging. 7th ed. Philadelphia, PA: Elsevier; 2021:chap 18.Levin MS, Gore RM. Diagnostic imaging procedures in gastroenterology. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 124.Martinez JP. Abdominal pain. In: Walls RM, ed. Rosen's Emergency Medicine: Concepts and Clinical Practice. 10th ed. Philadelphia, PA: Elsevier; 2023:chap 23.
+Review Date 7/5/2022
+
+
+Updated by: Jason Levy, MD, FSIR, Northside Radiology Associates, Atlanta, GA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Abdominal Pain
+Aortic Aneurysm
+CT Scans
+Colorectal Cancer
+Diverticulosis and Diverticulitis
+Intestinal Obstruction
+Kidney Cancer
+Kidney Cysts
+Kidney Stones
+Kidney Tests
+Liver Cancer
+Liver Diseases
+Pancreatic Cancer
+Pancreatic Diseases
+Pancreatitis

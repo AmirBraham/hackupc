@@ -1,0 +1,37 @@
+source : https://medlineplus.gov/ency/article/003608.htm 
+ 
+ A urine concentration test measures the ability of the kidneys to conserve or excrete water.How the Test is Performed
+
+For this test, some or all of the specific gravity of urine, urine electrolytes, and urine osmolality are measured before and after one or more of the following:Water loading. Drinking large amounts of water or receiving fluids through a vein.Water deprivation. Not drinking fluids for a certain amount of time.Antidiuretic hormone (ADH) administration. Receiving ADH, which should cause the urine to become concentrated.After you provide a urine sample, it is tested right away. For urine specific gravity, your health care provider uses a dipstick made with a color-sensitive pad. The dipstick color changes and tells the provider the specific gravity of your urine. The dipstick test gives only a rough result. For a more accurate specific gravity result or measurement of urine electrolytes or osmolality, your provider will send your urine sample to a lab.If needed, your provider will ask you to collect your urine at home over 24 hours. Your provider will tell you how to do this. Follow instructions exactly.How to Prepare for the Test
+
+Eat your normal diet for several days before the test. Your provider will give you instructions for water loading or water deprivation.Your provider will ask you to temporarily stop any medicines that may affect the test results. Be sure to tell your provider about all the medicines you take, including dextran and sucrose. Do not stop taking any medicine before talking to your provider.Also tell your provider if you recently received intravenous dye (contrast medium) for an imaging test such as a CT scan or MRI scan. The dye can also affect test results.How the Test will Feel
+
+The test involves only normal urination. There is no discomfort.Why the Test is Performed
+
+This test is most often done if your provider suspects central diabetes insipidus, a condition where there is an abnormality with ADH that regulates the concentration of the urine. The test can help tell that disease from nephrogenic diabetes insipidus, a condition where there is an abnormality in the kidney that prevents ADH from correctly regulating the concentration of the urine.This test may also be done if you have signs of syndrome of inappropriate ADH (SIADH).Normal Results
+
+In general, normal values for specific gravity are as follows:1.005 to 1.030 (normal specific gravity)1.001 after drinking excessive amounts of waterMore than 1.030 after avoiding fluids50 percent rise in specific gravity after receiving ADHNormal value ranges may vary slightly among different laboratories. Some labs use different measurements or test different samples. Talk to your provider about the meaning of your specific test results.What Abnormal Results Mean
+
+Increased urine concentration may be due to conditions, such as:Glucose (a type of sugar) in the urineHeart failureLoss of body fluids (dehydration) from diarrhea, vomiting, or excessive sweatingNarrowing of the kidney artery (renal arterial stenosis)SIADHDecreased urine concentration may indicate:Diabetes insipidusDrinking too much fluidKidney failure (loss of ability to reabsorb water)Severe kidney infection (pyelonephritis)Risks
+
+There are no risks with this test.Alternative Names
+
+Water loading test; Water deprivation testImages
+
+
+Urine concentration test
+Female urinary tract
+Male urinary tract
+References
+
+Navarro D, Fonseca NM, Garigali G, Fogazzi GB. Urinalysis. In: Johnson RJ, Floege J, Tonelli M, eds. Comprehensive Clinical Nephrology. 7th ed. Philadelphia, PA: Elsevier; 2024:chap 4.Riley RS, McPherson RA. Basic examination of urine. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 29.Verbalis JG. Posterior pituitary. In: Goldman L, Cooney KA, eds. Goldman-Cecil Medicine. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 206.
+Review Date 8/20/2023
+
+
+Updated by: Jacob Berman, MD, MPH, Clinical Assistant Professor of Medicine, Division of General Internal Medicine, University of Washington School of Medicine, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.    
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Diabetes Insipidus
+Fluid and Electrolyte Balance
+Urine and Urination

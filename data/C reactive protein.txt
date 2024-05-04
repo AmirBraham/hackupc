@@ -1,0 +1,38 @@
+source : https://medlineplus.gov/ency/article/003356.htm 
+ 
+ C-reactive protein (CRP) is produced by the liver. The level of CRP rises when there is inflammation in the body. It is one of a group of proteins, called acute phase reactants that go up in response to inflammation. The levels of acute phase reactants increase in response to certain inflammatory proteins called cytokines. These proteins are produced by white blood cells during inflammation.This article discusses the blood test done to measure the amount of CRP in your blood.How the Test is Performed
+
+A blood sample is needed. This is most often taken from a vein. The procedure is called a venipuncture.How to Prepare for the Test
+
+No special steps are needed to prepare for this test.How the Test will Feel
+
+When the needle is inserted to draw blood, some people feel moderate pain. Others may feel only a prick or stinging sensation. Afterward, there may be some throbbing.Why the Test is Performed
+
+The CRP test is a general test to check for inflammation in the body. It is not a specific test. This means it can reveal that you have inflammation somewhere in your body, but it cannot pinpoint the exact location or reason. The CRP test is often done with the ESR (erythrocyte or sedimentation rate) test which also looks for inflammation.You may have this test to:Check for flare-ups of inflammatory diseases such as rheumatoid arthritis, lupus, or vasculitis.Determine if anti-inflammatory medicine is working to treat a disease or condition.A more sensitive CRP test, called a high-sensitivity C-reactive protein (hs-CRP) assay, is available to determine a person's risk for heart disease.Normal Results
+
+Normal CRP values vary from lab to lab. The levels often increase slightly with age, female sex and in African Americans. The majority of healthy adults have levels less than 0.3 mg/dL.However, a low CRP level does not always mean that there is no inflammation present. Levels of CRP may not be increased in people with rheumatoid arthritis and lupus. The reason for this is unknown.Note: Normal value ranges may vary slightly among different laboratories. Talk to your health care provider about the meaning of your specific test results.The examples above show the common measurements for results for these tests. Some laboratories use different measurements or may test different specimens.What Abnormal Results Mean
+
+It is unclear if a minor rise of 0.3 to 1 mg/dL in CRP levels is a cause for concern. The hs-CRP is more precise and may be used to further understand these results.CRP levels from 1 mg/dL to 10 mg/dL are thought to be a moderate increase.CRP Levels greater than 10 mg/dL are considered a marked increase.A positive test means you have inflammation in the body. The cause of a high CRP cannot always be determined. Some include:CancerHeart attackInfectionInflammatory bowel disease (IBD)Rheumatoid arthritis, lupus, and related diseasesRheumatic feverAccording to the American Heart Association, results of the hs-CRP can be interpreted as follows:You are at low risk of developing cardiovascular disease if your hs-CRP level is lower than 1.0 mg/L.You are at average risk of developing cardiovascular disease if your levels are between 1.0 mg/L and 3.0 mg/L.You are at high risk for cardiovascular disease if your hs-CRP level is higher than 3.0 mg/L.Note: Positive CRP results also occur during the last half of pregnancy or with the use of birth control pills (oral contraceptives).Risks
+
+Risks associated with having blood drawn are slight, but may include:Excessive bleedingFainting or feeling lightheadedHematoma (blood accumulating under the skin)Infection (a slight risk any time the skin is broken) Alternative Names
+
+Acute phase reactants - CRPImages
+
+
+Blood test
+References
+
+Dietzen DJ, Willrich MAV. Amino acids, peptides, and proteins. In: Rifai N, Chiu RWK, Young I, Burnham CD, Wittwer CT, eds. Tietz Textbook of Laboratory Medicine. 7th ed. St Louis, MO: Elsevier; 2023:chap 31.Haberman R, Fors Nieves CE, Cronstein BN, Saxena A. Acute phase reactants. In: Firestein GS, Budd RC, Gabriel SE, Koretzky GA, McInnes IB, O'Dell JR, eds. Firestein & Kelley's Textbook of Rheumatology. 11th ed. Philadelphia, PA: Elsevier; 2021:chap 60.Mora S, Libby P, Ridker PM. Primary prevention of cardiovascular disease. In: Libby P, Bonow RO, Mann DL, Tomaselli GF, Bhatt DL, Solomon SD, eds. Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine. 12th ed. Philadelphia, PA: Elsevier; 2022:chap 25.
+Review Date 1/25/2023
+
+
+Updated by: Neil J. Gonter, MD, Assistant Professor of Medicine, Columbia University, NY and private practice specializing in Rheumatology at Rheumatology Associates of North Jersey, Teaneck, NJ. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Arthritis
+Autoimmune Diseases
+Heart Diseases
+Lupus
+Rheumatoid Arthritis
+Vasculitis

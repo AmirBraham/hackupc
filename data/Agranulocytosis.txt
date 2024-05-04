@@ -1,0 +1,33 @@
+source : https://medlineplus.gov/ency/article/001295.htm 
+ 
+ White blood cells fight infections from bacteria, viruses, fungi, and other germs. One important type of white blood cell is the granulocyte, which is made in the bone marrow and travels in the blood throughout the body. Granulocytes sense infections, gather at sites of infection, and destroy the germs.When the body has too few granulocytes, the condition is called agranulocytosis. This makes it harder for the body to fight off germs. As a result, the person is more likely to get sick from infections.Causes
+
+Agranulocytosis may be caused by:Autoimmune disordersBone marrow diseases, such as myelodysplasia or large granular lymphocyte (LGL) leukemiaCertain medicines used to treat diseases, including cancerCertain street drugsPoor nutritionPreparation for bone marrow transplantProblem with genesSymptoms
+
+Symptoms of this condition may include:FeverChillsMalaiseGeneral weaknessSore throatMouth and throat ulcersBone painPneumoniaShockExams and Tests
+
+A white blood cell differential test will be done to measure the percentage of each type of white blood cell in your blood.Other tests to diagnose the condition may include:Bone marrow biopsyBiopsy of mouth ulcerNeutrophil antibody studies (blood test)Treatment
+
+Treatment depends on the cause of the low white blood cell count. For example, if a medicine is the cause, stopping or changing to another medicine may help. In other cases, medicines to help the body make more white blood cells will be used.Outlook (Prognosis)
+
+Treating or removing the cause often results in a good outcome.Prevention
+
+If you are having treatment or taking medicine that could cause agranulocytosis, your health care provider will use blood tests to monitor you.Alternative Names
+
+Granulocytopenia; GranulopeniaImages
+
+
+Blood cells
+References
+
+Cook JR. Bone marrow failure syndromes. In: Hsi ED, ed. Hematopathology. 3rd ed. Philadelphia, PA: Elsevier; 2018:chap 5.Klokkevold PR, Mealey BL. Influence of systemic conditions. In: Newman MG, Takei HH, Klokkevold PR, Carranza FA, eds. Newman and Carranza's Clinical Periodontology. 13th ed. Philadelphia, PA: Elsevier; 2019:chap 14.Sive J, Foggo V. Haematological disease. In: Feather A, Randall D, Waterhouse M, eds. Kumar and Clarke's Clinical Medicine. 10th ed. Philadelphia, PA: Elsevier; 2021:chap 17.
+
+Review Date 4/29/2022
+
+
+Updated by: Todd Gersten, MD, Hematology/Oncology, Florida Cancer Specialists & Research Institute, Wellington, FL. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Blood Disorders
+Bone Marrow Diseases

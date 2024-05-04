@@ -1,0 +1,31 @@
+source : https://medlineplus.gov/ency/article/003702.htm 
+ 
+ Antidiuretic blood test measures the level of antidiuretic hormone (ADH) in blood. How the Test is Performed
+
+A blood sample is needed.How to Prepare for the Test
+
+Talk to your health care provider about your medicines before the test. Many medicines can affect ADH level, including:AlcoholDiuretics (water pills)Blood pressure medicinesInsulinMedicines for mental disordersNicotineSteroids How the Test will Feel
+
+When the needle is inserted to draw blood, some people feel moderate pain. Others feel only a prick or stinging. Afterward, there may be some throbbing or slight bruising. This soon goes away.Why the Test is Performed
+
+ADH is a hormone that is produced in a part of the brain called the hypothalamus. It is then stored and released from the pituitary, a small gland at the base of the brain. ADH acts on the kidneys to control the amount of water excreted in the urine.ADH blood test is ordered when your provider suspects you have a disorder that affects your ADH level such as:Buildup of fluids in your body that are causing swelling or puffiness (edema)Excessive amounts of urineLow sodium (salt) level in your bloodThirst that is intense or uncontrollable Certain diseases affect the normal release of ADH. The blood level of ADH must be tested to determine the cause of the disease. ADH may be measured as part of a water restriction test to find the cause of a disease.Normal Results
+
+Normal values for ADH can range from 0 to 5.9 pg/mL (0 to 5.4 pmol/L).Normal value ranges may vary slightly among different laboratories. Some labs use different measurements or may test different specimens. Talk to your provider about the meaning of your specific test results.Most laboratories cannot run this test. Only very specialized laboratories can perform the assay correctly.Serum co-peptin is now commonly used as a substitute for measuring ADH.What Abnormal Results Mean
+
+A higher-than-normal level may occur when too much ADH is released, either from the brain where it is made or from somewhere else in the body. This is called the syndrome of inappropriate ADH (SIADH).Causes of SIADH include:Brain injury or traumaBrain tumorsFluid imbalance after surgeryInfection in the brain or the tissue that surrounds the brainInfection in the lungsCertain medicines, such as some seizure medicines, pain medicines, and antidepressantsSmall cell carcinoma lung cancerStrokeA higher-than-normal level of ADH may be found in people with heart failure, liver failure, or some kind of kidney disease.A lower-than-normal level may indicate:Damage to the hypothalamus or pituitary glandCentral diabetes insipidus (a condition in which the kidneys are not able to conserve water)Excessive thirst (polydipsia)Too much fluid in the blood vessels (volume overload) Risks
+
+There is little risk involved with having your blood taken. Veins and arteries vary in size from one person to another, and from one side of the body to the other. Taking blood from some people may be more difficult than from others.Other risks associated with having blood drawn are slight, but may include:Excessive bleedingFainting or feeling lightheadedMultiple punctures to locate veinsHematoma (blood accumulating under the skin)Infection (a slight risk any time the skin is broken) Alternative Names
+
+Arginine vasopressin; Antidiuretic hormone; AVP; VasopressinReferences
+
+Frasier LL, Keating JJ, Shiroff AM. Endocrine responses in critically ill and trauma patients. In: Shifrin AL, ed. Endocrine Emergencies. Philadelphia, PA: Elsevier; 2022:chap 25.Guber HA, Oprea M, Russell YX. Evaluation of endocrine function. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. St Louis, MO: Elsevier; 2022:chap 25.Oh MS, Briefel G, Pincus MR. Evaluation of renal function, water, electrolytes, and acid-base balance. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. St Louis, MO: Elsevier; 2022:chap 15.
+Review Date 5/12/2023
+
+
+Updated by: Sandeep K. Dhaliwal, MD, board-certified in Diabetes, Endocrinology, and Metabolism, Springfield, VA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.  
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Diabetes Insipidus
+Fluid and Electrolyte Balance
+Pituitary Disorders

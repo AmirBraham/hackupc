@@ -1,0 +1,38 @@
+source : https://medlineplus.gov/ency/article/003545.htm 
+ 
+ Quantitative nephelometry is a lab test to quickly and accurately measure levels of certain proteins called immunoglobulins in the blood. Immunoglobulins are antibodies that help fight infection.This test specifically measures the immunoglobulins IgM, IgG, and IgA.How the Test is Performed
+
+A blood sample is needed.How to Prepare for the Test
+
+You may be asked not to eat or drink anything for 4 hours before the test.How the Test will Feel
+
+When the needle is inserted to draw blood, some people feel moderate pain. Others feel only a prick or stinging. Afterward, there may be some throbbing or slight bruising. This soon goes away.Why the Test is Performed
+
+The test provides a rapid and accurate measurement of the amounts of the immunoglobulins IgM, IgG, and IgA.Normal Results
+
+Normal results for the three immunoglobulins are:IgG: 650 to 1600 milligrams per deciliter (mg/dL), or 6.5 to 16.0 grams per liter (g/L)IgM: 54 to 300 mg/dL, or 540 to 3000 mg/LIgA: 40 to 350 mg/dL, or 400 to 3500 mg/LThe examples above show the common measurements for these test results. Normal value ranges may vary slightly among different laboratories. Talk to your doctor about the meaning of your specific test results. Some labs use different measurements or test different samples.What Abnormal Results Mean
+
+An increased level of IgG may be due to:Chronic infection or inflammationHyperimmunization (higher than normal number of specific antibodies)IgG multiple myeloma (a type of blood cancer)Liver diseaseRheumatoid arthritisDecreased levels of IgG may be due to:Agammaglobulinemia (very low levels of immunoglobulins, a very rare disorder)Leukemia (blood cancer)Multiple myeloma (bone marrow cancer)Preeclampsia (high blood pressure during pregnancy)Treatment with certain chemotherapy drugs Increased levels of IgM may be due to:MononucleosisLymphoma (cancer of the lymph tissue)Waldenström macroglobulinemia (cancer of the white blood cells)Multiple myelomaRheumatoid arthritis InfectionDecreased levels of IgM may be due to:Agammaglobulinemia (very rare)LeukemiaMultiple myeloma Increased levels of IgA may be due to:Chronic infections, especially of the gastrointestinal tractInflammatory bowel disease, such as Crohn diseaseMultiple myeloma Decreased levels of IgA may be due to:Agammaglobulinemia (very rare)Hereditary IgA deficiencyMultiple myelomaGut disease that leads to protein lossOther tests are needed to confirm or diagnose any of the conditions above.Risks
+
+There is little risk involved with having your blood taken. Veins and arteries vary in size from one person to another and from one side of the body to the other. Taking blood from some people may be more difficult than from others.Other risks associated with having blood drawn are slight, but may include:Excessive bleedingFainting or feeling lightheadedMultiple punctures to locate veinsHematoma (blood accumulating under the skin)Infection (a slight risk any time the skin is broken) Alternative Names
+
+Quantitative immunoglobulinsImages
+
+
+Blood test
+References
+
+Abraham RS. Assessment of functional immune responses in lymphocytes. In: Rich RR, Fleisher TA, Shearer WT, Schroeder HW, Few AJ, Weyand CM, eds. Clinical Immunology: Principles and Practice. 5th ed. Philadelphia, PA: Elsevier; 2019:chap 93.McPherson RA. Specific proteins. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 20.
+Review Date 4/29/2022
+
+
+Updated by: Todd Gersten, MD, Hematology/Oncology, Florida Cancer Specialists & Research Institute, Wellington, FL. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Immune System and Disorders
+Infectious Mononucleosis
+Liver Diseases
+Lymphoma
+Multiple Myeloma
+Rheumatoid Arthritis

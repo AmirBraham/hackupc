@@ -1,0 +1,33 @@
+source : https://medlineplus.gov/ency/article/000389.htm 
+ 
+ Exogenous Cushing syndrome is a form of Cushing syndrome that occurs in people taking glucocorticoid (also called corticosteroid, or steroid) hormones.Causes
+
+
+Cushing syndrome is a disorder that occurs when your body has a higher than normal level of the hormone cortisol. This hormone is normally made in the adrenal glands.Exogenous means caused by something outside the body. Exogenous Cushing syndrome occurs when a person takes man-made (synthetic) glucocorticoid medicines to treat a disease. These medicines act like cortisol in the body.Glucocorticoids are given for many diseases, such as lung diseases, skin conditions, inflammatory bowel disease, cancer, brain tumors, and joint disease. These medicines come in many forms, including pill, intravenous (IV), injection into a joint, enema, skin creams, inhalers, and eye drops.Symptoms
+
+Most people with Cushing syndrome have:Round, red, full face (moon face)Slow growth rate (in children)Weight gain with fat accumulation on the trunk, but fat loss from the arms, legs, and buttocks (central obesity) Skin changes that are often seen include:Skin infectionsPurple stretch marks (1/2 inch or 1 centimeter or more wide), called striae, on the skin of the abdomen, thighs, upper arms, and breastsThin skin with easy bruising Muscle and bone changes include:Backache, which occurs with routine activitiesBone pain or tendernessCollection of fat between the shoulders and above the collar boneRib and spine fractures caused by thinning of the bonesWeak muscles, especially of the hips and shoulders Body-wide (systemic) problems may include:Type 2 diabetesHigh blood pressureHigh cholesterol and triglyceridesWomen with Cushing syndrome may have:Excess hair growth on the face, neck, chest, abdomen, and thighsPeriods that become irregular or stopMen may have:Decreased or no desire for sex (low libido)Erection problemsOther symptoms that may occur include:
+   Mental changes, such as depression, anxiety, or changes in behaviorFatigueHeadacheIncreased thirst and urination Exams and Tests
+
+Your health care provider will perform a physical exam and ask about your symptoms and the medicines you are taking. Tell the provider about all medicines you have been taking for the past several months. Also, tell the provider about shots that you received at a provider's office.If you use cortisone, prednisone, or other corticosteroids, the following test results may suggest exogenous Cushing syndrome:Low ACTH levelLow cortisol level (or high cortisol level) in the blood or urine, depending on the medicine you are takingAbnormal response to a cosyntropin (ACTH) stimulation testHigher than normal fasting glucose levelLow blood potassium levelLow bone density, as measured by bone mineral density testHigh cholesterol, particularly high triglycerides and low high-density lipoprotein (HDL) A method called high performance liquid chromatography (HPLC) can show a high level of the suspected medicine in the urine.Treatment
+
+Treatment is to decrease and eventually stop taking any corticosteroids. This may be done slowly or quickly, depending on why you are being treated with corticosteroid. Do not stop taking any medicine without first talking to your provider. Suddenly stopping corticosteroids after taking them for a long time (usually more than 2 weeks) can result in a life-threatening condition called adrenal crisis. If you cannot stop taking the medicine because of the disease it is treating (for example, you need glucocorticoid medicine to treat severe asthma), follow your provider's instructions on how to reduce the possibility of developing complications, including:Treating high blood sugar with diet, oral medicines, or insulin.Treating high cholesterol with diet or medicines.Taking medicines to prevent bone loss. This can help reduce the risk for fractures if you develop osteoporosis. Taking other medicines to decrease the amount of glucocorticoid medicine that you need.Outlook (Prognosis)
+
+Slowly tapering the medicine that is causing the condition can help reverse the effects of adrenal gland shrinkage (atrophy). This may take months to as long as a year. During this time, you may need to restart or increase the dosage of your steroids in times of stress or illness.Possible Complications
+
+Health problems that may result from exogenous Cushing syndrome include any of the following:Low immune system, which may lead to frequent infectionsDamage to the eyes, kidneys, and nerves due to untreated high blood sugarDiabetesHigh cholesterol levelsIncreased risk for heart attack from untreated diabetes and high cholesterolIncreased risk for blood clotsWeak bones (osteoporosis) and increased risk for fracturesThese complications can generally be prevented with proper treatment.When to Contact a Medical Professional
+
+Contact for an appointment with your provider if you are taking a corticosteroid and you develop symptoms of Cushing syndrome.Prevention
+
+If you take a corticosteroid, know the signs and symptoms of Cushing syndrome. Getting treated early can help prevent any long-term effects of Cushing syndrome. If you use inhaled steroids, you can decrease your exposure to the steroids by using a spacer and by rinsing your mouth after breathing in the steroids.Alternative Names
+
+Cushing syndrome - corticosteroid induced; Corticosteroid-induced Cushing syndrome; Iatrogenic Cushing syndrome; Exogenous Cushing's syndromeReferences
+
+Fragaso MCBV, Berthon A, Bertherat J. Adrenocorticotropic hormone–independent Cushing syndrome. In: Robertson RP, ed. DeGroot's Endocrinology. 8th ed. Philadelphia, PA: Elsevier; 2023:chap 97.Newell-Price JDC, Auchus RJ. The adrenal cortex. In: Melmed S, Auchus RJ, Goldfine AB, Koenig RJ, Rosen CJ, eds. Williams Textbook of Endocrinology. 14th ed. Philadelphia, PA: Elsevier; 2020:chap 15.Nieman LK, Biller BM, Findling JW, et al. Treatment of Cushing's syndrome: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab. 2015;100(8):2807-2831. PMID: 26222757 pubmed.ncbi.nlm.nih.gov/26222757/.
+Review Date 5/12/2023
+
+
+Updated by: Sandeep K. Dhaliwal, MD, board-certified in Diabetes, Endocrinology, and Metabolism, Springfield, VA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.   
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Cushing's Syndrome

@@ -1,0 +1,41 @@
+source : https://medlineplus.gov/ency/article/000674.htm 
+ 
+ Progressive multifocal leukoencephalopathy (PML) is a rare infection that damages the material (myelin) that covers and protects nerves in the white matter of the brain.Causes
+
+The John Cunningham virus, or JC virus (JCV), causes PML. JCV is also known as human polyomavirus 2. By age 10, most people have been infected with JCV, but it rarely causes symptoms. The virus remains in the body, but normally is inactive and causes no problems. But people with a weakened immune system are at risk of developing PML. Causes of a weakened immune system include:HIV/AIDS (less common now because of better management of HIV/AIDS).Medicines that suppress the immune system called monoclonal antibodies. These medicines are used to prevent organ transplant rejection or to treat multiple sclerosis, rheumatoid arthritis and other autoimmune disorders, and related conditions.Cancers, such as leukemia and Hodgkin lymphoma.Symptoms
+
+Symptoms may include any of the following:
+   Loss of coordination, clumsiness
+   
+   Loss of language ability (aphasia)
+   
+   Memory loss
+   
+   Vision problems
+   
+   Weakness of the legs and arms that gets worse
+   Personality changesExams and Tests
+
+The health care provider will perform a physical exam and ask about symptoms.Tests may include:Brain biopsy (in rare cases)Cerebrospinal fluid and blood test for the JCVCT scan of the brainElectroencephalogram (EEG)MRI of the brainTreatment
+
+In people with HIV/AIDS, treatment to strengthen the immune system can lead to recovery from the symptoms of PML. No other treatments have proved effective for PML. Medicines to treat PML are being developed and may be available in the near future.Outlook (Prognosis)
+
+PML is a life-threatening condition. Depending on how severe the infection is, up to one half of people diagnosed with PML die within the first few months.Talk to your provider about care decisions.Alternative Names
+
+PML; John Cunningham virus; JCV; Human polyomavirus 2; JC virusImages
+
+
+Gray and white matter of the brain
+Leukoencephalopathy
+References
+
+Berger JR, Nath A. Cytomegalovirus, Epstein-Barr virus, and slow virus infections of the central nervous system. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 346.Tan CS, Koralnik IJ. JC, BK, and other polyomaviruses: progressive multifocal leukoencephalopathy (PML). In: Bennett JE, Dolin R, Blaser MJ, eds. Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases. 9th ed. Philadelphia, PA: Elsevier; 2020:chap 144.
+Review Date 1/23/2022
+
+
+Updated by: Joseph V. Campellone, MD, Department of Neurology, Cooper Medical School at Rowan University, Camden, NJ. Review provided by VeriMed Healthcare Network. Also reviewed by David Zieve, MD, MHA, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Degenerative Nerve Diseases
+HIV and Infections

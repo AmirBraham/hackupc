@@ -1,0 +1,35 @@
+source : https://medlineplus.gov/ency/article/000460.htm 
+ 
+ Central diabetes insipidus is a rare condition that involves extreme thirst and excessive urination. Causes
+
+Diabetes insipidus (DI) is an uncommon condition in which the kidneys are unable to prevent the excretion of water. DI is a different disease than diabetes, though both share common symptoms of excessive urination and thirst.Central diabetes insipidus is a form of DI that occurs when the body has a lower than normal amount of antidiuretic hormone (ADH). ADH is also called vasopressin. ADH is produced in a part of the brain called the hypothalamus. ADH is then stored and released from the pituitary gland. This is a small gland at the base of the brain.ADH controls the amount of water excreted in urine. Without ADH, the kidneys do not work properly to keep enough water in the body. The result is a rapid loss of water from the body in the form of dilute urine. This results in the need to drink large amounts of water due to extreme thirst and to make up for excessive water loss in the urine (10 to 15 liters a day).The reduced level of ADH may be caused by damage to the hypothalamus or pituitary gland. This damage may be due to surgery, infection, inflammation, tumor, or injury to the brain.In rare cases, central diabetes insipidus is caused by a genetic problem.Symptoms
+
+Symptoms of central diabetes insipidus include:Increased urine productionExcessive thirstConfusion and changes in alertness due to dehydration and higher than normal sodium level in the body, if the person is unable to drink Exams and Tests
+
+The health care provider will ask about your medical history and symptoms.Tests that may be ordered include:Blood sodium and osmolarityDesmopressin (DDAVP) challengeMRI of the headUrinalysisUrine concentration Urine outputTreatment
+
+The cause of the underlying condition will be treated.Vasopressin (desmopressin, DDAVP) is given either as a nasal spray, tablets, or injections. This controls urine output and fluid balance and prevents dehydration.In mild cases, drinking more water may be all that is needed. If the body's thirst control is not working (for example, if the hypothalamus is damaged), a prescription for a certain amount of water intake may also be needed to ensure proper hydration.Outlook (Prognosis)
+
+Outcome depends on the cause. If treated, central diabetes insipidus usually does not cause severe problems or result in early death.Possible Complications
+
+Not drinking enough fluids can lead to dehydration and electrolyte imbalance.When taking vasopressin and your body's thirst control is not normal, drinking more fluids than your body needs can cause dangerous electrolyte imbalance. When to Contact a Medical Professional
+
+Contact your provider if you develop symptoms of central diabetes insipidus.If you have central diabetes insipidus, contact your provider if frequent urination or extreme thirst returns.Prevention
+
+Many of the cases may not be preventable. Prompt treatment of infections, tumors, and injuries may reduce risk.Alternative Names
+
+Diabetes insipidus - central; Neurogenic diabetes insipidusImages
+
+
+Hypothalamus hormone production
+References
+
+Moritz ML, Ayus JC. Diabetes insipidus and syndrome of inappropriate antidiuretic hormone. In: Singh AK, Williams GH, eds. Textbook of Nephro-Endocrinology. 2nd ed. Philadelphia, PA: Elsevier; 2018:chap 8.Thompson CJ, Verbalis JG. Posterior pituitary. In: Melmed S, Auchus, RJ, Goldfine AB, Koenig RJ, Rosen CJ, eds. Williams Textbook of Endocrinology. 14th ed. Philadelphia, PA: Elsevier; 2020:chap 10.Verbalis JG. Posterior pituitary. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 212.
+Review Date 10/31/2021
+
+
+Updated by: Walead Latif, MD, Nephrologist and Clinical Associate Professor, Rutgers Medical School, Newark, NJ. Review provided by VeriMed Healthcare Network. Also reviewed by David Zieve, MD, MHA, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.  
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Diabetes Insipidus

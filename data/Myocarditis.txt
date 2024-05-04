@@ -1,0 +1,37 @@
+source : https://medlineplus.gov/ency/article/000149.htm 
+ 
+ Myocarditis is inflammation of the heart muscle.The condition is called pediatric myocarditis when it occurs in children.Causes
+
+Myocarditis is an uncommon disorder. Most of the time, it is caused by an infection that reaches the heart. When you have an infection, your immune system produces special cells to fight off disease. If the infection affects your heart, the disease-fighting cells enter the heart. However, the chemicals made by these cells can also damage the heart muscle. As a result, the heart can become thick, swollen, and weak.Many cases are caused by a virus that reaches the heart. These can include the SARS-CoV-2 virus (the virus that causes COVID-19), influenza (flu) virus, coxsackievirus, parvovirus, cytomegalovirus, adenovirus, and others. It may also be caused by bacterial infections such as Lyme disease, streptococcus, mycoplasma, and chlamydia.Other causes of myocarditis include:Reactions to certain medicines, such as certain chemotherapy drugsExposure to chemicals in the environment, such as heavy metalsInfections due to fungus or parasitesRadiationAutoimmune disorders that cause inflammation throughout the body Myocarditis following COVID-19 vaccination has been reported, but is very rareSometimes the exact cause may not be discovered. Symptoms
+
+There may be no symptoms. Symptoms may be similar to the flu. If symptoms occur, they may include:Chest pain that may resemble a heart attackFatigue or listlessnessFever and other signs of infection including headache, muscle aches, sore throat, diarrhea, or rashesJoint pain or swellingLeg swellingPale, cool hands and feet (a sign of poor circulation)Rapid breathingRapid heart rate Shortness of breathOther symptoms that may occur with this disease:Fainting, often related to irregular heart rhythmsLow urine outputExams and Tests
+
+Myocarditis can be hard to diagnose because the signs and symptoms often mimic those of other heart and lung diseases, or a bad case of the flu.The health care provider may hear a rapid heartbeat or abnormal heart sounds while listening to the person's chest with a stethoscope. A physical exam may detect fluid in the lungs and swelling in the legs.There may be signs of infection, including fever and rashes.A chest x-ray can show enlargement (swelling) of the heart. If the provider suspects myocarditis based on the exam and chest x-ray, an electrocardiogram may also be done to help make the diagnosis. Heart biopsy is the most accurate way to confirm the diagnosis, but it is not always needed. Also, a heart biopsy may not reveal the diagnosis if the small piece of heart tissue that is removed does not contain the suspected organism or other indicators.Other tests that may be needed include:Blood cultures to check for infectionBlood tests to look for antibodies against viruses or the heart muscle itselfBlood tests to check liver and kidney functionComplete blood countSpecial tests to check for the presence of viruses in the blood (viral PCR) Treatment
+
+Treatment is aimed at the cause of the problem, and may involve:Antibiotics to fight bacterial infectionMedicines called steroids to reduce swelling Intravenous immunoglobulin (IVIG), a medicine made of substances (called antibodies) that the body produces to fight infection, to control the inflammatory processDiuretics to remove excess water from the body Low-salt diet Reduced activity If the heart muscle is weak, your provider will prescribe medicines to treat heart failure. Abnormal heart rhythms may require the use of other medicines. You may also need a device such as a pacemaker, or implantable cardioverter-defibrillator to correct a dangerous abnormal heartbeat. If a blood clot is in the heart chamber, you will also receive blood thinning medicine.Rarely, a heart transplant may be needed if the heart muscle has become too weak to function.Outlook (Prognosis)
+
+The outcome can vary, depending on the cause of the problem and a person’s overall health. Some people may recover completely. Others may have lasting heart failure.Possible Complications
+
+Complications may include:CardiomyopathyHeart failureHeart rhythm problemsPericarditisWhen to Contact a Medical Professional
+
+Contact your provider if you have symptoms of myocarditis, especially after a recent infection.Seek medical help right away if:Your symptoms are severe.You have been diagnosed with myocarditis, and you have increased chest pain, swelling, or breathing problems. Prevention
+
+Treat conditions that cause myocarditis promptly to reduce the risk.Alternative Names
+
+Inflammation - heart muscleImages
+
+
+Myocarditis
+Heart - section through the middle
+Heart - front view
+References
+
+Centers for Disease Control and Prevention. Safety of COVID-19 vaccines. www.cdc.gov/coronavirus/2019-ncov/vaccines/safety/safety-of-vaccines.html. Updated August 22, 2022. Accessed August 24, 2022.Cooper LT, Knowlton KU. Myocarditis. In: Libby P, Bonow RO, Mann DL, Tomaselli GF, Bhatt DL, Solomon SD, eds. Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine. 12th ed. Philadelphia, PA: Elsevier; 2022:chap 55.Knowlton KU, Anderson JL, Savoia MC, Oxman MN. Myocarditis and pericarditis. In: Bennett JE, Dolin R, Blaser MJ, eds. Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases. 9th ed. Philadelphia, PA: Elsevier; 2020:chap 84.McKenna WJ, Elliott PM. Diseases of the myocardium and endocardium. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 54. 
+Review Date 1/9/2022
+
+
+Updated by: Michael A. Chen, MD, PhD, Associate Professor of Medicine, Division of Cardiology, Harborview Medical Center, University of Washington Medical School, Seattle, WA. Also reviewed by David Zieve, MD, MHA, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team. Editorial update 08/24/2022.  
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Cardiomyopathy

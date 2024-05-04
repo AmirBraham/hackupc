@@ -1,0 +1,35 @@
+source : https://medlineplus.gov/ency/article/000410.htm 
+ 
+ Cushing syndrome is a disorder that occurs when your body has a high level of the hormone cortisol. Causes
+
+The most common cause of Cushing syndrome is taking too much glucocorticoid or corticosteroid medicine. This form of Cushing syndrome is called exogenous Cushing syndrome. Prednisone, dexamethasone, and prednisolone are examples of this type of medicine. Glucocorticoids mimic the action of the body's natural hormone cortisol. These drugs are used to treat many conditions such as asthma, skin inflammation, cancer, bowel disease, joint pain, and rheumatoid arthritis.Other people develop Cushing syndrome because their body produces too much cortisol. This hormone is made in the adrenal glands. Causes of too much cortisol are:Cushing disease, which occurs when the pituitary gland makes too much of the hormone adrenocorticotrophic hormone (ACTH). ACTH then signals the adrenal glands to produce too much cortisol. A pituitary gland tumor can cause this condition.Tumor of the adrenal glandTumor elsewhere in the body that produces corticotropin-releasing hormone (CRH)Tumor elsewhere in the body that produces ACTH (ectopic Cushing syndrome) Symptoms
+
+Not everyone with Cushing syndrome has the same symptoms. Some people have many symptoms while others have hardly any symptoms. Symptoms usually get worse over time.Most people with Cushing syndrome have:Round, red, full face (moon face)Slow growth rate (in children)Weight gain with fat accumulation on the trunk, but fat loss from the arms, legs, and buttocks (central obesity) Skin changes can include:Skin infectionsPurple stretch marks (1/2 inch or 1 centimeter or more wide) called striae on the skin of the abdomen, upper arms, thighs, and breastsThin skin with easy bruising (especially on the arms and hands) Muscle and bone changes include:Backache, which occurs with routine activitiesBone pain or tendernessCollection of fat between the shoulders and above collar bonesRib and spine fractures caused by thinning of the bonesWeak muscles, especially of the hips and shoulders Body-wide (systemic) changes include:Type 2 diabetes mellitusHigh blood pressure (hypertension)Increased cholesterol and triglycerides (hyperlipidemia)Women with Cushing syndrome may have:Excess hair growth on the face, neck, chest, abdomen, and thighsPeriods that become irregular or stop Men may have:Decreased or no desire for sex (low libido)Erection problemsOther symptoms that may occur with this disease:Mental changes, such as depression, anxiety, or changes in behaviorFatigueHeadacheIncreased thirst and urination Exams and Tests
+
+Your health care provider will perform a physical exam and ask about your symptoms and the medicines you are taking. Tell your provider about all medicines you have been taking for the past several months. Also, tell your provider about shots that you received at a provider's office.Laboratory tests that may be done to diagnose Cushing syndrome and identify the cause are:Blood cortisol levelBlood sugarSaliva cortisol levelDexamethasone suppression test24-hour urine for cortisol and creatinineACTH levelACTH stimulation test (in rare cases) Tests to determine the cause or complications may include:Abdominal CTPituitary MRIBone mineral densityMaking the diagnosis of Cushing syndrome may be complicated. Usually, you will be asked to see a hormone specialist (endocrinologist).Treatment
+
+Treatment depends on the cause.Cushing syndrome caused by corticosteroid use:Your provider will instruct you to slowly decrease the medicine dosage. Stopping the medicine suddenly can be dangerous.If you cannot stop taking the medicine because of the disease it is treating, your high blood sugar, high cholesterol levels, and bone thinning or osteoporosis should be closely monitored and treated. With Cushing syndrome caused by a pituitary tumor that releases too much ACTH (Cushing disease), you may need:Surgery to remove the tumorRadiation after removal of the pituitary tumor (in some cases)Cortisol replacement therapy after surgeryMedicines to replace pituitary hormones that become deficientMedicines to prevent the body from making too much cortisol With Cushing syndrome due to a pituitary tumor, adrenal tumor, or other tumors:You may need surgery to remove the tumor.If the tumor cannot be removed, you may need medicines to help block the release of cortisol or the ability of cortisol to signal. Outlook (Prognosis)
+
+Removing the tumor may lead to full recovery, but there is a chance that the condition will return.Survival for people with Cushing syndrome caused by tumors depends on the tumor type. Untreated, Cushing syndrome can be life threatening.Possible Complications
+
+Health problems that may result from Cushing syndrome include any of the following:DiabetesEnlargement of pituitary tumorBone fractures due to osteoporosisHigh blood pressureKidney stonesSerious infectionsWhen to Contact a Medical Professional
+
+Contact your provider if you have symptoms of Cushing syndrome.Prevention
+
+If you take a corticosteroid, know the signs and symptoms of Cushing syndrome. Getting treated early can help prevent any long-term effects of Cushing syndrome. If you use inhaled steroids, you can decrease your exposure to the steroids by using a spacer and by rinsing your mouth after breathing in the steroids.Alternative Names
+
+Hypercortisolism; Cortisol excess; Glucocorticoid excess - Cushing syndrome; Cushing's syndromeImages
+
+
+Endocrine glands
+References
+
+Fragaso MCBV, Berthon A, Bertherat J. Adrenocorticotropic hormone–independent Cushing syndrome. In: Robertson RP, ed. DeGroot's Endocrinology. 8th ed. Philadelphia, PA: Elsevier; 2023:chap 97.Newell-Price JDC, Auchus RJ. The adrenal cortex. In: Melmed S, Auchus RJ, Goldfine AB, Koenig RJ, Rosen CJ, eds. Williams Textbook of Endocrinology. 14th ed. Philadelphia, PA: Elsevier; 2020:chap 15.Nieman LK, Biller BM, Findling JW, et al; Endocrine Society. Treatment of Cushing's syndrome: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab. 2015;100(8):2807-2831. PMID: 26222757 pubmed.ncbi.nlm.nih.gov/26222757/.
+Review Date 5/12/2023
+
+
+Updated by: Sandeep K. Dhaliwal, MD, board-certified in Diabetes, Endocrinology, and Metabolism, Springfield, VA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.   
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Cushing's Syndrome

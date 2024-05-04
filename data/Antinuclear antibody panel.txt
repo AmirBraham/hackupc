@@ -1,0 +1,36 @@
+source : https://medlineplus.gov/ency/article/003535.htm 
+ 
+ The antinuclear antibody panel is a blood test that looks at antinuclear antibodies (ANA).ANA are antibodies produced by the immune system that bind to the body's own tissues.The antinuclear antibody test looks for antibodies that bind to a part of the cell called the nucleus. If the test is positive, a panel of tests may be done to identify specific antibodies. This is the ANA antibody panel. How the Test is Performed
+
+Blood is drawn from a vein. Most often, a vein on the inside of the elbow or the back of the hand is used. The site is cleaned with germ-killing medicine (antiseptic). The health care provider wraps an elastic band around the upper arm to apply pressure to the area and make the vein swell with blood.Next, the provider gently inserts a needle into the vein. The blood collects into an airtight vial or tube attached to the needle. The elastic band is removed from your arm.Once the blood has been collected, the needle is removed, and the puncture site is covered to stop any bleeding.In infants or young children, a sharp tool called a lancet may be used to puncture the skin and make it bleed. The blood collects into a small glass tube called a pipette, or onto a slide or test strip. A bandage may be placed over the area if there is any bleeding.Depending on the laboratory, the test may be processed in different ways. One method requires a technician to examine a blood sample under a microscope using ultraviolet light. The other uses an automated instrument to record the results.How to Prepare for the Test
+
+No special preparation is needed. However, certain drugs, including birth control pills, procainamide, and thiazide diuretics, affect the accuracy of this test. Make sure your provider knows about all the medicines you take.How the Test will Feel
+
+When the needle is inserted to draw blood, some people feel moderate pain. Others may feel only a prick or stinging sensation. Afterward, there may be some throbbing.Why the Test is Performed
+
+You may need this test if you have signs of an autoimmune disorder, such as unexplained symptoms including arthritis, rashes, fevers or chest pain. Suspected systemic lupus erythematosus may be the most common reason why the test is done.Normal Results
+
+ANA test results are most often reported in 2 parts: the level or titer and the pattern.Titres are reported in ratios, most often 1:40, 1:80, 1:160, 1:320, and 1:640. Some, but not all labs will report a titre above 1:160 as positive.Patterns that are reported include, homogeneous, speckled, centromere, and others.Normal value ranges may vary slightly among different laboratories. Talk to your provider about the meaning of your specific test results.The examples above show the common measurements for results for these tests. Some laboratories use different measurements or may test different specimens.Further tests can be run on blood with a positive ANA test to get more information.What Abnormal Results Mean
+
+A positive ANA is not enough to make a diagnosis. To diagnose any disease related to a positive ANA, it is important to have:A full assessment by a doctor who specializes in any of the illnesses listed belowFurther antibody testing, for certain illnessesTo make the diagnosis of SLE, the following must be presentCertain clinical featuresPositive ANA results (a lack of ANA makes the diagnosis much less likely)Certain specific ANA antibodies, which help to confirm the diagnosisOther disorders besides SLE where positive ANA results strongly suggest a diagnosis include:Systemic sclerosis (scleroderma)Sjögren syndrome (primary)Myositis (inflammatory muscle disease)Drug-induced lupus erythematosusOther common diseases that ANA testing can help diagnose include:Mixed connective tissue diseasePolymyositis/dermatomyositisAutoimmune hepatitisEB virusHepatitis CHIVLymphomasRheumatoid arthritisThyroid diseaseParvovirusRisks
+
+Veins and arteries vary in size from one person to another, and from one side of the body to the other. Obtaining blood from some people may be more difficult than from others.Other risks associated with having blood drawn are slight, but may include:Excessive bleedingFainting or feeling lightheadedHematoma (blood accumulating under the skin)Infection (a slight risk any time the skin is broken)Considerations
+
+The ANA can be positive in relatives of people with SLE who do not have SLE themselves.There is a very low chance of developing SLE at some time later in life if the only finding is a low titer of ANA.Alternative Names
+
+ANA; ANA panel; ANA reflexive panel; SLE - ANA; Systemic lupus erythematosus - ANAImages
+
+
+Blood test
+References
+
+American College of Rheumatology website. Antinuclear antibodies (ANA). rheumatology.org/patients/antinuclear-antibodies-ana. Updated February 2023. Accessed October 03, 2023.Peng SL, Craft JE. Anti-nuclear antibodies. In: Firestein GS, Budd RC, Gabriel SE, Koretzky GA, McInnes IB, O'Dell JR, eds. Firestein & Kelley's Textbook of Rheumatology. 11th ed. Philadelphia, PA: Elsevier; 2021:chap 58.von Mühlen AC, Chan EKL, Ceribelli A, Fritzler MJ. Clinical and laboratory evaluation of systemic autoimmune rheumatic diseases. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 53.
+Review Date 1/25/2023
+
+
+Updated by: Neil J. Gonter, MD, Assistant Professor of Medicine, Columbia University, NY and private practice specializing in Rheumatology at Rheumatology Associates of North Jersey, Teaneck, NJ. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team. Editorial update 10/03/2023.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Autoimmune Diseases
+Lupus

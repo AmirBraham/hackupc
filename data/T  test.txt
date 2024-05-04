@@ -1,0 +1,38 @@
+source : https://medlineplus.gov/ency/article/003687.htm 
+ 
+ Triiodothyronine (T3) is a thyroid hormone. It plays an important role in the body's control of metabolism (the many processes that control the rate of activity in cells and tissues).A laboratory test can be done to measure the amount of T3 in your blood.How the Test is Performed
+
+A blood sample is needed. How to Prepare for the Test
+
+Your health care provider will tell you if you need to stop taking any medicines before the test that may affect your test result. DO NOT stop taking any medicine without first talking to your provider.Drugs that can increase T3 measurements include:Birth control pillsClofibrateEstrogensMethadoneCertain herbal remedies Drugs that can decrease T3 measurements include:AmiodaroneAnabolic steroidsAndrogensAntithyroid drugs (for example, propylthiouracil and methimazole)LithiumPhenytoinPropranolol How the Test will Feel
+
+When the needle is inserted to draw blood, some people feel moderate pain. Others feel only a prick or stinging. Afterward, there may be some throbbing or a slight bruise. This soon goes away.Why the Test is Performed
+
+This test is done to check your thyroid function. Thyroid function depends on the action of T3 and other hormones, including thyroid-stimulating hormone (TSH) and T4.Sometimes it can be useful to measure both T3 and T4 when evaluating thyroid function.The total T3 test measures the T3 that is both attached to proteins and floating free in the blood.The free T3 test measures only the T3 that is floating free in the blood. The tests for free T3 are generally less accurate than for total T3.Your provider may recommend this test if you have signs of a thyroid disorder, including:
+  The pituitary gland does not produce normal amounts of some or all of its hormone (hypopituitarism)
+  Overactive thyroid gland (hyperthyroidism)
+  Underactive thyroid gland (hypothyroidism)Taking medicines for hypothyroidismNormal Results
+
+The range for normal values are:Total T3 -- 60 to 180 nanograms per deciliter (ng/dL), or 0.9 to 2.8 nanomoles per liter (nmol/L)Free T3 -- 130 to 450 picograms per deciliter (pg/dL), or 2.0 to 7.0 picomoles per liter (pmol/L)Normal value ranges may vary slightly among different laboratories. Some labs use different measurements or test different specimens. Talk to your provider about the meaning of your specific test results.Normal values are age specific for people less than age 20. Check with your provider about your specific results.What Abnormal Results Mean
+
+A higher-than-normal level of T3 may be a sign of:Overactive thyroid gland (for example, Graves disease)T3 thyrotoxicosis (rare)Toxic nodular goiterTaking thyroid medicines or certain supplements (common)Liver disease A high level of T3 may occur in pregnancy (especially with morning sickness at the end of the first trimester) or with the use of birth control pills or estrogen.A lower-than-normal level may be due to:Severe short-term or some long-term illnessesThyroiditis (swelling or inflammation of the thyroid gland -- Hashimoto disease is the most common type)StarvationUnderactive thyroid gland Selenium deficiency causes a decrease in the conversion of T4 to T3, but it is not clear that this results in lower than normal T3 levels in people.Risks
+
+There is little risk involved with having your blood taken. Veins and arteries vary in size from one person to another and from one side of the body to the other. Obtaining a blood sample from some people may be more difficult than from others.Other risks associated with having blood drawn are slight, but may include:Excessive bleedingFainting or feeling lightheadedMultiple punctures to locate veinsHematoma (blood buildup under the skin)Infection (a slight risk any time the skin is broken)Alternative Names
+
+Triiodothyronine; T3 radioimmunoassay; Toxic nodular goiter - T3; Thyroiditis - T3; Thyrotoxicosis - T3; Graves disease - T3Images
+
+
+Blood test
+References
+
+Guber HA, Oprea M, Rusell YX. Evaluation of endocrine function. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 25.Kim G, Nandi-Munshi D, Diblasi CC. Disorders of the thyroid gland. In: Gleason CA, Juul SE, eds. Avery's Diseases of the Newborn. 10th ed. Philadelphia, PA: Elsevier; 2018:chap 98.Salvatore D, Cohen R, Kopp PA, Larsen PR. Thyroid pathophysiology and diagnostic evaluation. In: Melmed S, Auchus RJ, Goldfine AB, Koenig RJ, Rosen CJ, eds. Williams Textbook of Endocrinology. 14th ed. Philadelphia, PA: Elsevier; 2020:chap 11.Weiss RE, Refetoff S. Thyroid function testing. In: Jameson JL, De Groot LJ, de Kretser DM, et al, eds. Endocrinology: Adult and Pediatric. 7th ed. Philadelphia, PA: Elsevier Saunders; 2016:chap 78.
+Review Date 1/9/2022
+
+
+Updated by: Robert Hurd, MD, Professor of Endocrinology and Health Care Ethics, Xavier University, Cincinnati, OH. Review provided by VeriMed Healthcare Network. Also reviewed by David Zieve, MD, MHA, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.  
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Hyperthyroidism
+Thyroid Diseases
+Thyroid Tests

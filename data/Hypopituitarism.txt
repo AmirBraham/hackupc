@@ -1,0 +1,39 @@
+source : https://medlineplus.gov/ency/article/000343.htm 
+ 
+ Hypopituitarism is a condition in which the pituitary gland does not produce normal amounts of some or all of its hormones.Causes
+
+The pituitary gland is a small structure that is located just below the brain. It is attached by a stalk to the hypothalamus. The hypothalamus is the area of the brain that controls the pituitary gland's function.The hormones released by the pituitary gland (and their functions) are:Adrenocorticotropic hormone (ACTH) -- stimulates the adrenal gland to release cortisol; cortisol helps to maintain blood pressure and blood sugarAntidiuretic hormone (ADH) -- controls water loss by the kidneysFollicle-stimulating hormone (FSH) -- controls sexual function and fertility in males and femalesGrowth hormone (GH) -- stimulates growth of tissues and boneLuteinizing hormone (LH) -- controls sexual function and fertility in males and femalesOxytocin -- stimulates the uterus to contract during labor and the breasts to release milkProlactin -- stimulates female breast development and milk productionThyroid-stimulating hormone (TSH) -- stimulates the thyroid gland to release hormones that affect the body's metabolismWatch this video about:Pituitary glandIn hypopituitarism, there is a lack of one or more pituitary hormones. Lack of a hormone leads to loss of function in the gland or organ the hormone controls. For example, lack of TSH leads to loss of normal function of the thyroid gland.Hypopituitarism may be caused by:Brain surgeryBrain tumorHead trauma (traumatic brain injury)Infections or inflammation of the brain and the tissues that support the brainDeath of an area of tissue in the pituitary gland (pituitary apoplexy)Radiation therapy to the brainStroke (rare)Subarachnoid hemorrhage (from a burst aneurysm)Tumors of the pituitary gland or hypothalamus Sometimes, hypopituitarism is due to uncommon immune system or metabolic diseases, such as:Too much iron in the body (hemochromatosis)Abnormal increase in immune cells called histiocytes (histiocytoses)Autoimmune condition that causes inflammation of the pituitary (lymphocytic hypophysitis)Sarcoidosis, a condition that causes inflammation of various tissues and organsInfections of the pituitary, such as primary pituitary tuberculosisHypopituitarism is also a rare complication caused by severe bleeding during pregnancy. The loss of blood leads to tissue death in the pituitary gland. This condition is called Sheehan syndrome.Certain medicines can also suppress pituitary function. The most common medicines are glucocorticoids (such as prednisone and dexamethasone), which are taken for inflammatory and immune conditions. Medicines used to treat prostate cancer can also lead to low pituitary function.Symptoms
+
+Symptoms of hypopituitarism include any of the following (multiple symptoms are common):Abdominal painDecreased appetite
+   Lack of sex drive (libido) in men or womenDizziness or faintingErection problemsExcessive urination and thirst (including frequent urination at night)Failure to release milk (in women)Fatigue, weaknessHeadacheInfertilityIrregular or absent menstrual periodsLoss of armpit or pubic hairLoss of the body or facial hair (in men)Low blood pressureLow blood sugarSensitivity to coldShort height (less than 5 feet or 1.5 meters) if onset is during the childhood growth periodSlowed growth and sexual development (in children)Vision problemsWeight lossSymptoms may develop slowly and may vary greatly, depending upon:The number of hormones that are missing and the organs they affectThe severity of the disorder Other symptoms that may occur with this condition:Face swellingHair lossHoarseness or changing voiceJoint stiffnessWeight gainExams and Tests
+
+To diagnose hypopituitarism, there must be low hormone levels due to a problem with the pituitary gland. The diagnosis must also rule out diseases of the organ that is affected by this hormone.Tests may include:Brain CT scanPituitary MRIACTHCortisolEstradiol (estrogen)Follicle-stimulating hormone (FSH)Insulin-like growth factor 1 (IGF-1)Luteinizing hormone (LH)Osmolality tests for blood and urineTestosterone levelThyroid-stimulating hormone (TSH)Thyroid hormone (T4)Biopsy of the pituitary The level of a pituitary hormone may be high in the bloodstream if you have a pituitary tumor that is producing too much of that hormone. The tumor may compress other cells of the pituitary, leading to low levels of other hormones.Treatment
+
+If hypopituitarism is caused by a tumor, you may need surgery to remove the tumor. Radiation therapy may also be needed.You will need lifelong hormone medicines to replace hormones that are no longer made by organs under the control of the pituitary gland. These may include:Corticosteroids (cortisol)Growth hormoneSex hormones (testosterone for men and estrogen for women)Thyroid hormoneDesmopressinMedicines are also available to treat related infertility in men and women.If you take glucocorticoid medicines for pituitary ACTH deficiency, be sure you know when to take a stress dose of your medicine. Discuss this with your health care provider.Always carry a medical ID (card, bracelet, or necklace) that says you have adrenal insufficiency. The ID should also say the type of medicine and dosage you need in case of an emergency caused by adrenal insufficiency.Outlook (Prognosis)
+
+Hypopituitarism is usually permanent. It requires lifelong treatment with one or more medicines. But you can expect a normal life span.In children, hypopituitarism due to a tumor may improve if the tumor is removed by surgery.Possible Complications
+
+Side effects of medicines to treat hypopituitarism can develop. However, do not stop any medicine on your own without talking with your provider first.When to Contact a Medical Professional
+
+Contact your provider if you develop symptoms of hypopituitarism.Prevention
+
+In most cases, the disorder is not preventable. Awareness of risk, such as from taking certain medicines, may allow early diagnosis and treatment.Alternative Names
+
+Pituitary insufficiency; PanhypopituitarismImages
+
+
+Endocrine glands
+Pituitary gland
+Gonadotropins
+Pituitary and TSH
+References
+
+Clemmons DR, Nieman LK. Approach to the patient with endocrine disease. In: Goldman L, Cooney KA, eds. Goldman-Cecil Medicine. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 202.Fleseriu M, Hashim IA, Karavitaki N, et al. Hormonal replacement in hypopituitarism in adults: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab. 2016;101(11):3888-3921. PMID: 27736313 pubmed.ncbi.nlm.nih.gov/27736313/.Johannsson G, Ragnarsson O. Hypopituitarism including growth hormone deficiency. In: Robertson RP, ed. DeGroot's Endocrinology. 8th ed. Philadelphia, PA: Elsevier; 2023:chap 5.Kaiser U, Ho K. Pituitary physiology and diagnostic evaluation. In: Melmed S, Auchus RJ, Goldfine AB, Koenig RJ, Rosen CJ, eds. Williams Textbook of Endocrinology. 14th ed. Philadelphia, PA: Elsevier; 2020:chap 8.
+Review Date 5/12/2023
+
+
+Updated by: Sandeep K. Dhaliwal, MD, board-certified in Diabetes, Endocrinology, and Metabolism, Springfield, VA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.  
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Pituitary Disorders

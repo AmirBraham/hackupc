@@ -1,0 +1,36 @@
+source : https://medlineplus.gov/ency/article/001091.htm 
+ 
+ Pulmonary atresia is a form of heart disease in which the pulmonary valve does not form properly. It is present from birth (congenital heart disease). The pulmonary valve is an opening on the right side of the heart that regulates blood flow from the right ventricle (right side pumping chamber) to the lungs.In pulmonary atresia, the valve leaflets are fused. This causes a solid sheet of tissue to form where the valve opening should be. Normal blood flow to the lung is blocked as a result. Because of this defect, blood from the right side of the heart is restricted from reaching the lungs to pick up oxygen.Causes
+
+As with most congenital heart diseases, there is no known cause of pulmonary atresia. The condition is linked with another type of congenital heart defect called a patent ductus arteriosus (PDA).Pulmonary atresia may occur with or without a ventricular septal defect (VSD).If the person does not have a VSD, the condition is called pulmonary atresia with intact ventricular septum (PA/IVS).If the person has both problems, the condition is called pulmonary atresia with VSD. This is an extreme form of tetralogy of Fallot.Although both conditions are called pulmonary atresia, they are, in fact, different defects. This article discusses pulmonary atresia without a VSD.People with PA/IVS may also have a poorly developed tricuspid valve. They may also have an underdeveloped or very thick right ventricle, and abnormal blood vessels feeding the heart. Less commonly, structures in the left ventricle, aortic valve, and right atrium are involved.Symptoms
+
+Symptoms most often occur in the first few hours of life, although it may take up to a few days.Symptoms may include:Bluish color to the skin (cyanosis) due to low oxygen level in the bloodFast breathingFatiguePoor eating habits (babies may get tired while nursing or sweat during feedings)Shortness of breathExams and Tests
+
+The health care provider will use a stethoscope to listen to the heart and lungs. People with a PDA have a heart murmur that can be heard with a stethoscope.The following tests may be ordered:Chest x-rayEchocardiogramElectrocardiogram (ECG)Heart catheterizationPulse oximetry -- shows the amount of oxygen in the bloodTreatment
+
+A medicine called prostaglandin E1 is usually used to help the blood move (circulate) into the lungs. This medicine keeps a blood vessel open between the pulmonary artery and aorta. The vessel is called a PDA.Multiple treatments are possible, but which one is selected depends on the extent of the heart abnormalities that accompany the pulmonary valve defect. Potential invasive treatments include:Biventricular repair -- This surgery separates the blood flow to the lungs from the circulation to the rest of the body by creating two pumping ventricles.Univentricular palliation -- This surgery separates the blood flow to the lungs from the circulation to the rest of the body by constructing one pumping ventricle.Heart transplant.Outlook (Prognosis)
+
+Most cases can be helped with surgery. How well a baby does depends on:Size and connections of the pulmonary artery (the artery that takes blood to the lungs)How well the heart is beatingHow well the other heart valves are formed or how much they are leakingOutcome varies because of the different forms of this defect. A baby may need only a single procedure or could need three or more surgeries and have only a single working ventricle.Possible Complications
+
+Complications may include:Delayed growth and developmentSeizuresStrokeInfectious endocarditisHeart failureDeath When to Contact a Medical Professional
+
+Contact your provider if the baby has:Problems breathingSkin, nails, or lips that appear blue (cyanosis)Prevention
+
+There is no known way to prevent this condition.Women who plan to become pregnant should be immunized against rubella if they are not already immune. Rubella infection in a pregnant woman can cause congenital heart disease.Women who are pregnant should get good prenatal care:Avoid alcohol and illegal drugs during pregnancy.Tell your provider that you are pregnant before taking any new medicines.Have a blood test early in your pregnancy to see if you are immune to rubella. If you are not immune, avoid any possible exposure to rubella and get vaccinated right after delivery.Pregnant women who have diabetes should try to get good control over their blood sugar level.Some inherited factors may play a role in congenital heart disease. Many family members may be affected. If you are planning to get pregnant, talk to your provider about screening for genetic diseases.If the defect is found before birth, medical specialists (such as a pediatric cardiologist, cardiothoracic surgeon, and neonatologist) can be present at the birth, and ready to help as needed. This preparation can mean the difference between life and death for some babies.Alternative Names
+
+Pulmonary atresia - intact ventricular septum; PA/IVS; Congenital heart disease - pulmonary atresia; Cyanotic heart disease - pulmonary atresia; Valve - disorder pulmonary atresiaImages
+
+
+Heart - section through the middle
+Heart - front view
+References
+
+Valente AM, Dorfman AL, Babu-Narayan SV, Kreiger EV. Congenital heart disease in the adolescent and adult. In: Libby P, Bonow RO, Mann DL, Tomaselli GF, Bhatt DL, Solomon SD, eds. Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine. 12th ed. Philadelphia, PA: Elsevier; 2022:chap 82.Well A, Fraser CD. Congenital heart disease. In: Townsend CM Jr, Beauchamp RD, Evers BM, Mattox KL, eds. Sabiston Textbook of Surgery. 21st ed. St Louis, MO: Elsevier; 2022:chap 59.
+Review Date 10/23/2023
+
+
+Updated by: Michael A. Chen, MD, PhD, Associate Professor of Medicine, Division of Cardiology, Harborview Medical Center, University of Washington Medical School, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Congenital Heart Defects

@@ -1,0 +1,45 @@
+source : https://medlineplus.gov/ency/article/001101.htm 
+ 
+ An arrhythmia is a disorder of the heart rate (pulse) or heart rhythm. The heart can beat too fast (tachycardia), too slow (bradycardia), or irregularly.An arrhythmia can be harmless, a sign of other heart problems, or an immediate danger to your health.Causes
+
+Normally, your heart works as a pump that brings blood to the lungs and the rest of the body.To help this happen, your heart has an electrical system that makes sure it contracts (squeezes) in an orderly way.The electrical impulse that signals your heart to contract begins in an area of the heart called the sinoatrial node (also called the sinus node or SA node). This is your heart's natural pacemaker.The signal leaves the SA node and travels through the heart along a set electrical pathway.Different nerve messages signal your heart to beat slower or faster. Arrhythmias are caused by problems with the heart's electrical conduction system. Abnormal extra signals may occur.Electrical signals may be blocked or slowed.Electrical signals travel in new or different pathways through the heart. Some common causes of abnormal heartbeats are:Abnormal levels of potassium, magnesium, or other substances in the bodyHeart attack, or a damaged heart muscle from a past heart attackHeart disease that is present at birth (congenital)Heart failure or an enlarged heartOveractive thyroid gland Watch this video about:ArrhythmiasArrhythmias may also be caused by some substances or drugs, including:Alcohol or stimulant drugsCertain medicinesCigarette smoking (nicotine)Some of the more common abnormal heart rhythms are:Atrial fibrillation or flutterAtrioventricular nodal reentry tachycardia (AVNRT)Heart block or atrioventricular blockMultifocal atrial tachycardiaParoxysmal supraventricular tachycardiaSick sinus syndromeVentricular fibrillation or ventricular tachycardiaWolff-Parkinson-White syndromeSymptoms
+
+When you have an arrhythmia, your heartbeat may be:Too slow (bradycardia)Too quick (tachycardia)Irregular, uneven, possibly with extra or skipped beats An arrhythmia may be present all of the time or it may come and go. You may or may not feel symptoms when the arrhythmia is present. Or, you may only notice symptoms when you are more active.Symptoms can be very mild, or they may be severe or even life threatening.Common symptoms that may occur when the arrhythmia is present could include:Chest painFaintingLightheadedness, dizzinessPalenessPalpitations (feeling your heart beat fast or irregularly)Shortness of breathSweating Exams and Tests
+
+The health care provider will listen to your heart with a stethoscope and feel your pulse. Your blood pressure may be low or normal or even high as a result of being uncomfortable.An ECG will be the first test done. Heart monitoring devices are often used to identify the rhythm problem, such as a: Holter monitor (where you wear a device that records and stores your heart rhythm for 24 or more hours)Event monitor or loop recorder (worn for 2 weeks or longer, where you record your heart rhythm when you feel an abnormal rhythm)Other long-term monitoring options An echocardiogram is sometimes ordered to examine the size or structure of your heart.
+In selected cases, coronary angiography may be performed to see how blood flows through the arteries in your heart.A special test, called an electrophysiology study (EPS), is sometimes done to take a closer look at the heart's electrical system.Treatment
+
+When an arrhythmia is serious, you may need urgent treatment to restore a normal rhythm. This may include:Electrical therapy (defibrillation or cardioversion)Implanting a short-term heart pacemakerMedicines given through a vein or by mouth Sometimes, better treatment for your angina or heart failure will lower your chance of having an arrhythmia.Medicines called anti-arrhythmic drugs may be used: To prevent an arrhythmia from happening againTo keep your heart rate from becoming too fast or too slow Some of these medicines can have side effects. Take them as prescribed by your provider. Do not stop taking the medicine or change the dose without first talking to your provider.Other treatments to prevent or treat abnormal heart rhythms include:Cardiac ablation, used to target areas in your heart that may be causing your heart rhythm problemsAn implantable cardioverter defibrillator, placed in people who are at high risk of sudden cardiac deathPermanent pacemaker, a device that senses when your heart is beating too slowly. It sends a signal to your heart that makes your heart beat at the correct pace. Outlook (Prognosis)
+
+The outcome depends on several factors:The kind of arrhythmia you have. Whether you have coronary artery disease, heart failure, or valvular heart disease.When to Contact a Medical Professional
+
+Call your provider if:You develop any of the symptoms of a possible arrhythmia.You have been diagnosed with an arrhythmia and your symptoms worsen or do not improve with treatment.Prevention
+
+Taking steps to prevent coronary artery disease may reduce your chance of developing an arrhythmia.Alternative Names
+
+Abnormal heart rhythms; Bradycardia; Tachycardia; FibrillationPatient Instructions
+
+Atrial fibrillation - discharge 
+Heart pacemaker - discharge
+Taking warfarin (Coumadin, Jantoven) - what to ask your doctor
+Images
+
+
+Heart - section through the middle
+Heart - front view
+Normal heart rhythm
+Bradycardia
+Ventricular tachycardia
+Atrioventricular block - ECG tracing
+Conduction system of the heart
+References
+
+Al-Khatib SM, Stevenson WG, Ackerman MJ, et al. 2017 AHA/ACC/HRS guideline for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: Executive summary: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society. Heart Rhythm. 2018;15(10):e190-e252. PMID: 29097320 pubmed.ncbi.nlm.nih.gov/29097320/.Olgin JE. Approach to the patient with suspected arrhythmia. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 56.Nattel S, Tomaselli GF. Mechanisms of cardiac arrhythmias. In: Libby P, Bonow RO, Mann DL, Tomaselli GF, Bhatt DL, Solomon SD, eds. Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine. 12th ed. Philadelphia, PA: Elsevier; 2022:chap 62.Tracy CM, Epstein AE, Darbar D, et al. 2012 ACCF/AHA/HRS focused update of the 2008 guidelines for device-based therapy of cardiac rhythm abnormalities: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines. J Am Coll Cardiol. 2012;60(14):1297-1313. PMID: 22975230 pubmed.ncbi.nlm.nih.gov/22975230/.
+Review Date 5/8/2022
+
+
+Updated by: Fang JC, O'Gara PT. History and physical examination: an evidence-based approach. In: Libby P, Bonow RO, Mann DL, Tomaselli GF, Bhatt DL, Solomon SD, eds. Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine. 12th ed. Philadelphia, PA: Elsevier Saunders; 2022: chap 13.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Arrhythmia

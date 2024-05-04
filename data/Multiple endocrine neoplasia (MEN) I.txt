@@ -1,0 +1,41 @@
+source : https://medlineplus.gov/ency/article/000398.htm 
+ 
+ Multiple endocrine neoplasia (MEN) type I is a disease in which one or more of the endocrine glands are overactive or forms a tumor. It is passed down through families.Endocrine glands most commonly involved include:
+  Pancreas
+  
+  Parathyroid
+  
+  Pituitary
+  Causes
+
+MEN I is caused by a defect in a gene that carries the code for a protein called menin. The condition causes tumors of various glands to appear in the same person, but not necessarily at the same time.The disorder may occur at any age, and it affects men and women equally. A family history of this disorder raises your risk.Symptoms
+
+Symptoms vary from person to person, and depend on which gland is involved. They may include:Abdominal painAnxietyBlack, tarry stoolsBloated feeling after mealsBurning, aching, or hunger discomfort in the upper abdomen or lower chest that is relieved by antacids, milk, or foodDecreased sexual interestFatigueHeadacheLack of menstrual periods (in women)Loss of appetiteLoss of body or facial hair (in men)Mental changes or confusionMuscle painNausea and vomitingSensitivity to the coldUnintentional weight lossVision problemsWeaknessExams and Tests
+
+The health care provider will perform a physical exam and ask questions about your medical history and symptoms. The following tests may be done:Blood cortisol levelCT scan of the abdomenCT scan of the headFasting blood sugarGenetic testingInsulin testMRI of the abdomenMRI of the head  Serum adrenocorticotropic hormoneSerum calciumSerum follicle stimulating hormoneSerum gastrinSerum glucagonSerum luteinizing hormoneSerum parathyroid hormoneSerum prolactinSerum thyroid stimulating hormoneUltrasound of the neck Treatment
+
+Surgery to remove the diseased gland is often the treatment of choice. A medicine called bromocriptine may be used instead of surgery for pituitary tumors that release the hormone prolactin.The parathyroid glands, which control calcium production, can be removed. However, it is difficult for the body to regulate calcium levels without these glands, so a total parathyroid removal is not done first in most cases. Medicine is available to decrease the excess stomach acid production caused by some tumors (gastrinomas), and to reduce the risk of ulcers.Hormone replacement therapy is given when entire glands are removed or do not produce enough hormones.Outlook (Prognosis)
+
+Pituitary and parathyroid tumors are usually noncancerous (benign), but some pancreatic tumors may become cancerous (malignant) and spread to the liver. These can lower life expectancy.The symptoms of peptic ulcer disease, low blood sugar, excess calcium in the blood, and pituitary dysfunction usually respond well to appropriate treatment.Possible Complications
+
+The tumors can keep coming back. Symptoms and complications depend on which glands are involved. Regular check-ups by your provider are essential.When to Contact a Medical Professional
+
+Contact your provider if you notice symptoms of MEN I or have a family history of this condition.Prevention
+
+Screening close relatives of people affected with this disorder is recommended.Alternative Names
+
+Wermer syndrome; MEN IImages
+
+
+Endocrine glands
+References
+
+National Comprehensive Cancer Network website. Clinical practice guidelines in oncology (NCCN guidelines): neuroendocrine and adrenal tumors. Version 1.2022. www.nccn.org/professionals/physician_gls/pdf/neuroendocrine.pdf. Updated May 23, 2022. Accessed August 23, 2022.Newey PJ, Thakker RV. Multiple endocrine neoplasia. In: Melmed S, Auchus RJ, Goldfine AB, Koenig RJ, Rosen CJ, eds. Williams Textbook of Endocrinology. 14th ed. Philadelphia, PA: Elsevier; 2020:chap 42.Nieman LK, Spiegel AM. Polyglandular disorders. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 218.Thakker RV. Multiple endocrine neoplasia type 1. In: Jameson JL, De Groot LJ, de Kretser DM, et al, eds. Endocrinology: Adult and Pediatric. 7th ed. Philadelphia, PA: Elsevier Saunders; 2016:chap 148.
+Review Date 1/25/2022
+
+
+Updated by: Todd Gersten, MD, Hematology/Oncology, Florida Cancer Specialists & Research Institute, Wellington, FL. Review provided by VeriMed Healthcare Network. Also reviewed by David Zieve, MD, MHA, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.   
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Endocrine Diseases

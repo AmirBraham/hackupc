@@ -1,0 +1,34 @@
+source : https://medlineplus.gov/ency/article/003526.htm 
+ 
+ CSF coccidioides complement fixation is a test that checks for infection due to the fungus Coccidioides in the cerebrospinal (CSF) fluid. This is the fluid surrounding the brain and spinal cord. The name of this infection is coccidioidomycosis, or valley fever. When the infection involves the covering of the brain and spinal cord (the meninges), it is called coccidioidal meningitis.How the Test is Performed
+
+A sample of spinal fluid is needed for this test. The sample is usually obtained by lumbar puncture (spinal tap).The sample is sent to a laboratory. There, it is examined for Coccidioides antibodies using a laboratory method called complement fixation. This technique checks if your body has produced substances called antibodies to a specific foreign substance (antigen), in this case Coccidioides.Antibodies are specialized proteins that defend your body against bacteria, viruses, and fungi. If the antibodies are present, they stick, or "fix" themselves, to the antigen. This is why the test is called "fixation."How to Prepare for the Test
+
+Follow your health care provider's instructions on how to prepare for the test. Expect to be in the hospital for several hours afterward. How the Test Will Feel
+
+During the test:You lie on your side with knees pulled up toward your chest and chin tucked downward. Or, you sit up, but bent forward.After your back is cleaned, the doctor injects a local numbing medicine (anesthetic) into your lower spine.A spinal needle is inserted, usually into the lower back area.Once the needle is properly positioned, CSF pressure is measured, and a sample is collected.The needle is removed, the area is cleaned, and a bandage is placed over the needle site.You are taken to a recovery area where you rest for several hours to prevent any CSF leakage.Why the Test is Performed
+
+This test checks if your central nervous system has an active infection from Coccidioides.Normal Results
+
+The absence of fungus (a negative test) is normal.What Abnormal Results Mean
+
+If the test is positive for fungus, there may be an active infection in the central nervous system.An abnormal spinal fluid test means that the central nervous system is infected. During the early stage of an illness, few antibodies may be detected. Antibody production increases during the course of an infection. For this reason, this test may be repeated several weeks after the first test.Risks
+
+Risks of lumbar puncture include:Bleeding into the spinal canalDiscomfort during the testHeadache after the testHypersensitivity (allergic) reaction to the anestheticInfection introduced by the needle going through the skinDamage to the nerves in the spinal cord, occurs more commonly if the person moves during the testAlternative Names
+
+Coccidioides antibody test - spinal fluidImages
+
+
+Lumbar puncture (spinal tap)
+Blood test
+References
+
+Galgiani JN. Coccidioidomycosis (Coccidioides species). In: Bennett JE, Dolin R, Blaser MJ, eds. Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases. 9th ed. Philadelphia, PA: Elsevier; 2020:chap 265.
+Review Date 5/19/2023
+
+
+Updated by: Jatin M. Vyas, MD, PhD, Associate Professor in Medicine, Harvard Medical School; Associate in Medicine, Division of Infectious Disease, Department of Medicine, Massachusetts General Hospital, Boston, MA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Valley Fever

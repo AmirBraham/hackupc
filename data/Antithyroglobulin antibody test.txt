@@ -1,0 +1,36 @@
+source : https://medlineplus.gov/ency/article/003557.htm 
+ 
+ Antithyroglobulin antibody is a test to measure antibodies to a protein called thyroglobulin. This protein is found in thyroid cells, but a small amount leaks out into the bloodstream. Sometimes the immune system produces antibodies against this protein.How the Test is Performed
+
+A blood sample is needed. How to Prepare for the Test
+
+You may be told not to eat or drink anything for several hours (usually overnight). Your health care provider may monitor you or tell you to stop taking certain medicines for a short time before the test because they may affect the test results. DO NOT stop taking any medicine without first talking to your provider.How the Test will Feel
+
+When the needle is inserted to draw blood, some people feel moderate pain. Others feel only a prick or stinging. Afterward, there may be some throbbing or a slight bruise. This soon goes away.Why the Test is Performed
+
+This test helps detect possible thyroid problems. Antithyroglobulin antibodies can be a sign of thyroid gland damage caused by the immune system. They may be measured if thyroiditis is suspected.Measuring thyroglobulin antibody levels after treatment for thyroid cancer can help your provider decide what the best test is to monitor you for a recurrence of the cancer.Normal Results
+
+A negative test result is a normal result. It means no antibodies to thyroglobulin are found in your blood.Normal value ranges may vary slightly among different laboratories. Some labs use different measurements or test different samples. Talk to your provider about the meaning of your specific test results.What Abnormal Results Mean
+
+A positive test means antithyroglobulin antibodies are found in your blood. They may be present with:Graves disease or overactive thyroidHashimoto thyroiditisSubacute thyroiditisUnderactive thyroidSystemic lupus erythematosusType 1 diabetesPregnant women and relatives of those with autoimmune thyroiditis may also test positive for these antibodies.If you have a positive test for antithyroglobulin antibodies, this may make it harder to measure your thyroglobulin level accurately. Thyroglobulin level is an important blood test to determine risk that thyroid cancer will recur.Risks
+
+There is little risk involved with having your blood taken.Veins and arteries vary in size from one person to another and from one side of the body to the other. Obtaining a blood sample from some people may be more difficult than from others.Other risks associated with having blood drawn are slight, but may include:Excessive bleedingFainting or feeling lightheadedMultiple punctures to locate veinsHematoma (blood buildup under the skin)Infection (a slight risk any time the skin is broken)Alternative Names
+
+Thyroglobulin antibody; Thyroiditis - thyroglobulin antibody; Hypothyroidism - thyroglobulin antibody; Thyroiditis - thyroglobulin antibody; Graves disease - thyroglobulin antibody; Underactive thyroid - thyroglobulin antibodyImages
+
+
+Blood test
+References
+
+Guber HA, Oprea M, Russell YX. Evaluation of endocrine function. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 25.Salvatore D, Cohen R, Kopp PA, Larsen PR. Thyroid pathophysiology and diagnostic evaluation. In: Melmed S, Auchus RJ, Goldfine AB, Koenig RJ, Rosen CJ, eds. Williams Textbook of Endocrinology. 14th ed. Philadelphia, PA: Elsevier; 2020:chap 11.Weiss RE, Refetoff S. Thyroid function testing. In: Jameson JL, De Groot LJ, de Kretser DM, et al, eds. Endocrinology: Adult and Pediatric. 7th ed. Philadelphia, PA: Elsevier Saunders; 2016:chap 78.
+Review Date 1/9/2022
+
+
+Updated by: Robert Hurd, MD, Professor of Endocrinology and Health Care Ethics, Xavier University, Cincinnati, OH. Review provided by VeriMed Healthcare Network. Also reviewed by David Zieve, MD, MHA, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Diabetes Type 1
+Lupus
+Thyroid Diseases
+Thyroid Tests

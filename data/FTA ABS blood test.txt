@@ -1,0 +1,33 @@
+source : https://medlineplus.gov/ency/article/003512.htm 
+ 
+ The FTA-ABS test is used to detect antibodies to the bacteria Treponema pallidum, which causes syphilis.How the Test is Performed
+
+A blood sample is needed.How to Prepare for the Test
+
+No special preparation is necessary.How the Test will Feel
+
+When the needle is inserted to draw blood, some people feel moderate pain. Others feel only a prick or stinging. Afterward, there may be some throbbing or a slight bruise. This soon goes away.Why the Test is Performed
+
+This test is done routinely to confirm whether a positive screening test for syphilis (either VDRL or RPR) means you have a current syphilis infection.It may also be done when other syphilis tests are negative, to check for a possible false-negative result.Normal Results
+
+A negative or nonreactive result means that you do not have a current or past infection with syphilis.Normal value ranges may vary slightly among different laboratories. Some labs use different measurements or test different samples. Talk to your health care provider about the meaning of your specific test results.What Abnormal Results Mean
+
+A positive FTA-ABS is often a sign of a syphilis infection (past or present). This test result will remain positive for life even if syphilis has been adequately treated. Therefore, it cannot be used to monitor the treatment of syphilis or determine that you have active syphilis.Other illnesses, such as yaws and pinta (two other kinds of skin diseases), may also result in positive FTA-ABS results. Sometimes, there can be a false-positive result, most often in women with lupus.Risks
+
+There is little risk involved with having your blood taken. Veins and arteries vary in size from one person to another and from one side of the body to the other. Taking blood from some people may be more difficult than from others.Other risks associated with having blood drawn are slight, but may include:Excessive bleedingFainting or feeling lightheadedMultiple punctures to locate veinsHematoma (blood accumulating under the skin)Infection (a slight risk any time the skin is broken)Alternative Names
+
+Fluorescent treponemal antibody absorption testImages
+
+
+Blood test
+References
+
+Radolf JD, Tramont EC, Salazar JC. Syphilis (Treponema pallidum). In: Bennett JE, Dolin R, Blaser MJ, eds. Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases. 9th ed. Philadelphia, PA: Elsevier; 2020:chap 237.US Preventive Services Task Force, Mangione CM, Barry MJ, et al. Screening for syphilis infection in nonpregnant adolescents and adults: US Preventive Services Task Force Reaffirmation Recommendation Statement. JAMA. 2022;328(12):1243-1249. PMID: 36166020 pubmed.ncbi.nlm.nih.gov/36166020/.
+Review Date 8/26/2023
+
+
+Updated by: Jatin M. Vyas, MD, PhD, Associate Professor in Medicine, Harvard Medical School; Associate in Medicine, Division of Infectious Disease, Department of Medicine, Massachusetts General Hospital, Boston, MA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.  
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Syphilis

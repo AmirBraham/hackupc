@@ -1,0 +1,33 @@
+source : https://medlineplus.gov/ency/article/003518.htm 
+ 
+ B-cell leukemia/lymphoma panel is a blood test that looks for certain proteins on the surface of white blood cells called B-lymphocytes. The proteins are markers that may help diagnose leukemia or lymphoma.How the Test is Performed
+
+A blood sample is needed.In some cases, white blood cells are removed during a bone marrow biopsy. The sample may also be taken during a lymph node biopsy or other biopsy when lymphoma is suspected.The blood sample is sent to a laboratory, where a specialist checks the cell type and characteristics. This procedure is called immunophenotyping. The test is often done using a technique called flow cytometry.How to Prepare for the Test
+
+No special preparation is usually necessary.How the Test will Feel
+
+When the needle is inserted to draw blood, some people feel moderate pain. Others feel only a prick or stinging. Afterward, there may be some throbbing or a slight bruise. This soon goes away.Why the Test is Performed
+
+This test may be done for the following reasons:When other tests (such as a blood smear) show signs of abnormal white blood cellsWhen leukemia or lymphoma is suspectedTo find out the type of leukemia or lymphoma What Abnormal Results Mean
+
+Abnormal results usually indicate either:B-cell lymphocytic leukemiaLymphomaRisks
+
+There is little risk involved with having your blood taken. Veins and arteries vary in size from one person to another and from one side of the body to the other. Taking blood from some people may be more difficult than from others.Other risks associated with having blood drawn are slight, but may include:Excessive bleedingFainting or feeling lightheadedMultiple punctures to locate veinsHematoma (blood accumulating under the skin)Infection (a slight risk any time the skin is broken) Alternative Names
+
+B lymphocyte cell surface markers; Flow cytometry - leukemia/lymphoma immunophenotypingImages
+
+
+Blood test
+References
+
+Appelbaum FR, Walter RB. The acute leukemias. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 173.Bierman PJ, Armitage JO. Non-Hodgkin lymphomas. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 176.Connors JM. Hodgkin lymphoma. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 177.Kussick SJ. Flow cytometric principles in hematopathology. In: Hsi ED, ed. Hematopathology. 3rd ed. Philadelphia, PA: Elsevier; 2018:chap 23.
+Review Date 1/25/2022
+
+
+Updated by: Todd Gersten, MD, Hematology/Oncology, Florida Cancer Specialists & Research Institute, Wellington, FL. Review provided by VeriMed Healthcare Network. Also reviewed by David Zieve, MD, MHA, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Chronic Lymphocytic Leukemia
+Leukemia
+Lymphoma

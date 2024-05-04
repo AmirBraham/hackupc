@@ -1,0 +1,36 @@
+source : https://medlineplus.gov/ency/article/000385.htm 
+ 
+ Hypoparathyroidism is a disorder in which the parathyroid glands in the neck do not produce enough parathyroid hormone (PTH).Causes
+
+There are 4 tiny parathyroid glands in the neck, located near or attached to the back side of the thyroid gland.The parathyroid glands help control calcium absorption, use, and removal by the body. They do this by producing parathyroid hormone (PTH). PTH helps control calcium, phosphorus, and vitamin D levels in the blood and bone. It is important for healthy bones.Hypoparathyroidism occurs when the glands produce too little PTH. The blood calcium level falls, and the phosphorus level rises.The most common cause of hypoparathyroidism is injury to the parathyroid glands during thyroid or neck surgery. It may also be caused by any of the following:Autoimmune attack on the parathyroid glands (common)Very low magnesium level in the blood (reversible)Radioactive iodine treatment for hyperthyroidism (very rare)DiGeorge syndrome is a disease in which hypoparathyroidism occurs because all the parathyroid glands are missing at birth. This disease includes other health problems besides hypoparathyroidism. It is usually diagnosed in childhood.Familial hypoparathyroidism occurs with other endocrine diseases such as adrenal insufficiency in a syndrome called type I polyglandular autoimmune syndrome (PGA I).Symptoms
+
+Onset of the disease is very gradual and symptoms can be mild. Many people diagnosed with hypoparathyroidism have had symptoms for years before they are diagnosed. Symptoms may be so mild that the diagnosis is made after a screening blood test that shows low calcium.Symptoms may include any of the following:Tingling lips, fingers, and toes (most common)Muscle cramps (most common)Muscle spasms called tetany (can affect the larynx, causing breathing difficulties)Abdominal painAbnormal heart rhythmBrittle nailsCataractsCalcium deposits in some tissues Decreased consciousnessDry hairDry, scaly skinPain in the face, legs, and feetPainful menstruationSeizuresTeeth that do not grow in on time, or at allWeakened tooth enamel (in children)Exams and Tests
+
+The health care provider will do a physical exam and ask about symptoms.Tests that will be done include:PTH blood testCalcium blood testMagnesium24-hour urine calcium testOther tests that may be ordered include:Electrocardiogram (ECG) to check for an abnormal heart rhythmComputed tomography (CT) scan to check for calcium deposits in the brainTreatment
+
+The goal of treatment is to reduce symptoms and restore the calcium and mineral balance in the body.Treatment involves calcium carbonate and vitamin D supplements. These usually must be taken for life. Blood levels are measured regularly to make sure that the dose is correct. A high-calcium, low-phosphorous diet is recommended.Injections of PTH may be recommended for some people. Your doctor can tell you if this medicine is right for you. 
+ People who have life-threatening attacks of low calcium levels or prolonged muscle contractions are given calcium through a vein (IV). Precautions are taken to prevent seizures or larynx spasms. The heart is monitored for abnormal rhythms until the person is stable. When the life-threatening attack has been controlled, treatment continues with medicine taken by mouth.Outlook (Prognosis)
+
+The outcome is likely to be good if the diagnosis is made early. But changes in the teeth, cataracts, and brain calcifications cannot be reversed in children who have undiagnosed hypoparathyroidism during development.Possible Complications
+
+Hypoparathyroidism in children may lead to poor growth, abnormal teeth, and slow mental development.Too much treatment with vitamin D and calcium can cause high blood calcium (hypercalcemia) or high urine calcium (hypercalciuria). Excess treatment may sometimes interfere with kidney function, or even cause kidney failure.Hypoparathyroidism increases the risk for: Addison disease (only if the cause is autoimmune)CataractsParkinson diseasePernicious anemia (only if the cause is autoimmune)
+   When to Contact a Medical Professional
+
+Contact your provider if you develop any symptoms of hypoparathyroidism.Seizures or breathing problems are an emergency. Call 911 or the local emergency number right away.Alternative Names
+
+Parathyroid-related hypocalcemiaImages
+
+
+Endocrine glands
+Parathyroid glands
+References
+
+Clarke BL, Brown EM, Collins MT, et al. Epidemiology and diagnosis of hypoparathyroidism. J Clin Endocrinol Metab. 2016;101(6):2284-2299. PMID: 26943720 pubmed.ncbi.nlm.nih.gov/26943720/.Reid LM, Kamani D, Randolph GW. Management of parathyroid disorders. In: Flint PW, Francis HW, Haughey BH, et al, eds. Cummings Otolaryngology: Head and Neck Surgery. 7th ed. Philadelphia, PA: Elsevier; 2021:chap 123.Thakker RV. The parathyroid glands, hypercalcemia and hypocalcemia. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 232.
+Review Date 4/29/2022
+
+
+Updated by: Sandeep K. Dhaliwal, MD, board-certified in Diabetes, Endocrinology, and Metabolism, Springfield, VA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.   
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Parathyroid Disorders

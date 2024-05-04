@@ -1,0 +1,33 @@
+source : https://medlineplus.gov/ency/article/003590.htm 
+ 
+ The stool C difficile toxin test detects harmful substances produced by the bacterium Clostridioides difficile (C difficile). This infection is a common cause of diarrhea after antibiotic use.How the Test is Performed
+
+A stool sample is needed. It is sent to a lab to be analyzed. There are several ways to detect C difficile toxin in the stool sample.Enzyme immunoassay (EIA) is most often used to detect substances produced by the bacteria. This test is faster than older tests, and simpler to perform. The results are ready in a few hours. However, it is slightly less sensitive than earlier methods. Several stool samples may be needed to get an accurate result.A newer method is to use polymerase chain reaction (PCR) to detect the toxin genes. This is the most sensitive and specific test. Results are ready within 1 hour. Only one stool sample is needed.How to Prepare for the Test
+
+There are many ways to collect the samples. You can catch the stool on plastic wrap that is loosely placed over the toilet bowl and held in place by the toilet seat. Then you put the sample in a clean container. A test kit is available that supplies a special toilet tissue that you use to collect the sample. After collecting the sample, you put it in a container.Do not mix urine, water, or toilet tissue with the sample.For children wearing diapers:Line the diaper with plastic wrap. Position the plastic wrap so that it will prevent urine and stool from mixing. This will provide a better sample.Why the Test is Performed
+
+You may have this test if your health care provider thinks that diarrhea is caused by the antibiotic medicines you have taken recently. Antibiotics change the balance of bacteria in the colon. This sometimes leads to too much growth of C difficile.Diarrhea caused by C difficile after antibiotic use often occurs in people who are in the hospital. It also can occur in people who have not recently taken antibiotics. This can lead to a condition called pseudomembranous colitis.Normal Results
+
+No C difficile toxin is detected.Note: Normal value ranges may vary slightly among different laboratories. Talk to your provider about the meaning of your specific test results.What Abnormal Results Mean
+
+Abnormal results mean that toxins produced by C difficile are seen in the stool and are causing diarrhea.Risks
+
+There are no risks associated with testing for C difficile toxin.Considerations
+
+Several stool samples may be needed to detect the condition. This is particularly true if the older EIA for toxin test is used.Alternative Names
+
+Antibiotic associated colitis - toxin; Colitis - toxin; Pseudomembranous colitis - toxin; Necrotizing colitis - toxin; C difficile - toxinImages
+
+
+Clostridioides difficile organism
+References
+
+Burnham C-A D, Storch GA. Diagnostic microbiology. In: Kliegman RM, St. Geme JW, Blum NJ, Shah SS, Tasker RC, Wilson KM, eds. Nelson Textbook of Pediatrics. 21st ed. Philadelphia, PA: Elsevier; 2020:chap 195.Gerding DN, Johnson S. Clostridial infections. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 280.Gerding DN, Young VB, Donskey CJ. Clostridioides difficile (formerly Clostridium difficle) infection. In: Bennett JE, Dolin R, Blaser MJ, eds. Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases. 9th ed. Philadelphia, PA: Elsevier; 2020:chap 243.Plourde AR, Beavis KG. Specimen collection and handling for diagnosis of infectious diseases. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 66.Siddiqi HA, Rabinowitz S, Axiotis CA..Laboratory diagnosis of gastrointestinal and pancreatic disorders. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA : Elsevier; 2022:chap 22.
+Review Date 5/4/2022
+
+
+Updated by: Michael M. Phillips, MD, Emeritus Professor of Medicine, The George Washington University School of Medicine, Washington, DC. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.  
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+C. diff Infections

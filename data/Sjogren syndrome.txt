@@ -1,0 +1,36 @@
+source : https://medlineplus.gov/ency/article/000456.htm 
+ 
+ Sjögren syndrome is an autoimmune disorder in which the glands that produce tears and saliva are destroyed. This causes dry mouth and dry eyes. The condition may affect other parts of the body, including the kidneys and lungs.Causes
+
+The cause of Sjögren syndrome is unknown. It is an autoimmune disorder. This means the body attacks healthy tissue by mistake. The syndrome occurs most often in women ages 40 to 50. It is rare in children.Primary Sjögren syndrome is defined as dry eyes and dry mouth without another autoimmune disorder.Secondary Sjögren syndrome occurs along with another autoimmune disorder, such as:Rheumatoid arthritis (RA)Systemic lupus erythematosusSclerodermaPolymyositisHepatitis C can affect the salivary glands and looks like Sjögren syndromeIgG4 disease can look like Sjögren syndrome and should be consideredSymptoms
+
+Dry eyes and dry mouth are the most common symptoms of this syndrome.Eye symptoms:Itching eyesBurning sensation in eyesFeeling that something is in the eyeMouth and throat symptoms:Difficulty swallowing or eating dry foodsLoss of sense of tasteProblems speakingThick or stringy salivaMouth sores or painTeeth decay and gum inflammationHoarsenessOther symptoms may include:FatigueFeverChange in the color of hands or feet with cold exposure (Raynaud phenomenon)Joint pain or joint swellingSwollen glandsSkin rash
+   
+Numbness and pain due to neuropathyCough and shortness of breath due to lung diseaseIrregular heartbeat Nausea and heartburnVaginal dryness or painful urinationExams and Tests
+
+A complete physical exam will be done. The exam reveals dry eyes and dry mouth. There may be mouth sores, decayed teeth or gum inflammation. This occurs because of the mouth dryness. Your health care provider will look in your mouth for fungus infection (candida). Skin may show a rash, the lung exam may be abnormal, the abdomen will be palpated for liver enlargement. The joints will be examined for arthritis. The neurologic exam will look for deficits due to nerve damage.You may have the following tests done:Complete blood chemistry with liver enzymes
+   Complete blood count with differentialUrinalysisAntinuclear antibodies (ANA) testAnti-Ro/SSA and anti-La/SSB antibodiesRheumatoid factorAnti-cyclic citrullinated peptide (CCP) antibodyTest for cryoglobulinsComplement levelsProtein electrophoresisTest for hepatitis C and HIV (if at risk)Thyroid testsSchirmer test of tear productionImaging of the salivary gland: by ultrasound or by MRISalivary gland biopsySkin biopsy if a rash is presentExamination of the eyes by an ophthalmologistChest x-rayTreatment
+
+The goal is to relieve symptoms.Dry eyes may be treated with artificial tears, eye-lubricating ointments, or cyclosporine liquid.If Candida is present, it may be treated with sugar-free miconazole or nystatin preparations.Tiny plugs can be placed in the tear drainage ducts to help the tears stay on the surface of the eye.Oral medicines such as pilocarpine or cevimeline that cause increased saliva production can be useful in dryness when local therapy is not helping.Disease-modifying antirheumatic drugs (DMARDs) similar to those used for RA may improve the symptoms of Sjögren syndrome. These include Rituximab and tumor necrosis factor (TNF) inhibiting drugs such as etanercept (Enbrel), adalimumab (Humira) or infliximab (Remicade).Some things you can do to ease symptoms include:Sip water throughout the dayChew sugarless gumAvoid medicines that can cause mouth dryness, such as antihistamines and decongestantsAvoid alcoholTalk with your dentist about:Mouth rinses to replace minerals in your teethSaliva substitutesDrugs that help your salivary glands make more salivaTo prevent dental decay caused by mouth dryness:Brush and floss your teeth oftenVisit the dentist for regular checkups and cleaningsOutlook (Prognosis)
+
+The disease is most often not life threatening. The outcome depends on what other diseases you have.There is a higher risk for lymphoma and early death when Sjögren syndrome has been very active for a long time, as well as in people with vasculitis, low complements, and cryoglobulins.Possible Complications
+
+Complications may include:Damage to the eyeDental cavitiesKidney failure (rare)LymphomaPulmonary diseaseVasculitis (rare)NeuropathyBladder inflammationWhen to Contact a Medical Professional
+
+Contact your provider if you develop symptoms of Sjögren syndrome.Alternative Names
+
+Xerostomia - Sjögren syndrome; Keratoconjunctivitis sicca - Sjögren; Sicca syndrome; Sjögren syndrome; Sjögren's syndromeImages
+
+
+Antibodies
+References
+
+Baer AN, Verstappen GM. Sjögren syndrome. In: Hochberg MC, Gravallese EM, Smolen JS, van der Heijde D, Weinblatt ME, Weisman MH, eds. Rheumatology. 8th ed. Philadelphia, PA: Elsevier; 2023:chap 146.Mariette X, Nocuturne C. Sjogren syndrome. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 252.Seror R, Bootsma H, Saraux A, et al. Defining disease activity states and clinically meaningful improvement in primary Sjögren's syndrome with EULAR primary Sjögren's syndrome disease activity (ESSDAI) and patient-reported indexes (ESSPRI). Ann Rheum Dis. 2016;75(2):382-389. PMID: 25480887 pubmed.ncbi.nlm.nih.gov/25480887/.Singh AG, Singh S, Matteson EL. Rate, risk factors and causes of mortality in patients with Sjögren's syndrome: a systematic review and meta-analysis of cohort studies. Rheumatology (Oxford). 2016;55(3):450-460. PMID: 26412810 pubmed.ncbi.nlm.nih.gov/26412810/.Turner MD. Oral manifestations of systemic diseases. In: Flint PW, Francis HW, Haughey BH, et al, eds. Cummings Otolaryngology: Head and Neck Surgery. 7th ed. Philadelphia, PA: Elsevier; 2021:chap 12.
+Review Date 4/30/2023
+
+
+Updated by: Neil J. Gonter, MD, Assistant Professor of Medicine, Columbia University, New York, NY, and private practice specializing in Rheumatology at Rheumatology Associates of North Jersey, Teaneck, NJ. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.  
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Sjogren's Syndrome

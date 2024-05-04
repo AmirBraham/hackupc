@@ -1,0 +1,34 @@
+source : https://medlineplus.gov/ency/article/003747.htm 
+ 
+ Nasopharyngeal culture is a test that examines a sample of secretions from the uppermost part of the throat, behind the nose, to detect organisms that can cause disease.How the Test is Performed
+
+You will be asked to cough before the test begins and then tilt your head back. A sterile cotton-tipped swab is gently passed through a nostril and into your nasopharynx. This is the part of the pharynx that covers the roof of the mouth. The swab is quickly rotated and removed. The sample is sent to a laboratory. There, it is placed in a special dish (culture). It is then watched to see if bacteria, viruses, or other disease-causing organisms grow.How to Prepare for the Test
+
+No special preparation is needed.How the Test will Feel
+
+You may have slight discomfort and may gag.Why the Test is Performed
+
+The test identifies viruses and bacteria that cause upper respiratory tract symptoms. These include:Bordetella pertussis, the bacteria that cause whooping coughNeisseria meningitidis, the bacteria that cause meningococcal meningitisStaphylococcus aureus, the bacteria that cause staph infectionsMethicillin-resistant Staphylococcus aureus (MRSA)Viral infections such as influenza or respiratory syncytial virus or SARS-CoV-2 (COVID-19); this is the most common reason the test is usedThe culture may be used to help determine which antibiotic is appropriate to treat an infection due to bacteria.Normal Results
+
+The presence of organisms commonly found in the nasopharynx is normal.What Abnormal Results Mean
+
+The presence of any disease-causing virus, bacteria, or fungus means these organisms may be causing your infection. Sometimes, organisms like Staphylococcus aureus can be present without causing disease. This test can help identify resistant strains of this organism (MRSA) so that people can be isolated when necessary.Risks
+
+A minor nose bleed can occur, but it is rare.Alternative Names
+
+Culture - nasopharyngeal; Swab for respiratory viruses; Swab for staph carriageImages
+
+
+Nasopharyngeal culture
+References
+
+L'Huillier AG, Torriani G, Pigny F, Kaiser L, Eckerle I. Culture-competent SARS-CoV-2 in nasopharynx of symptomatic neonates, children, and adolescents. Emerg Infect Dis. 2020;26(10):2494-2497. PMID: 32603290 pubmed.ncbi.nlm.nih.gov/32603290/.Patel R. The clinician and the microbiology laboratory: test ordering, specimen collection, and result interpretation. In: Bennett JE, Dolin R, Blaser MJ, eds. Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases. 9th ed. Philadelphia, PA: Elsevier; 2020:chap 16.Roginski MA, Atchinson PR. Upper respiratory tract infections. In: Walls RM, ed. Rosen's Emergency Medicine: Concepts and Clinical Practice. 10th ed. Philadelphia, PA: Elsevier; 2023:chap 61.
+Review Date 11/25/2023
+
+
+Updated by: Denis Hadjiliadis, MD, MHS, Paul F. Harron Jr. Professor of Medicine, Pulmonary, Allergy, and Critical Care, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Respiratory Syncytial Virus Infections
+Staphylococcal Infections

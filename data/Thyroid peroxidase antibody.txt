@@ -1,0 +1,38 @@
+source : https://medlineplus.gov/ency/article/003556.htm 
+ 
+ Thyroid peroxidase is a type of protein (called an enzyme) that cells in the thyroid gland use to make thyroid hormone. If these enzymes leak out into the bloodstream (as when thyroid cells are damaged) the immune system makes antibodies against these proteins. The thyroid peroxidase antibody test measures these antibodies in the blood.How the Test is Performed
+
+A blood sample is needed. How the Test will Feel
+
+When the needle is inserted to draw blood, some people feel moderate pain. Others feel only a prick or stinging. Afterward, there may be some throbbing or a slight bruise. This soon goes away.Why the Test is Performed
+
+This test is done to confirm the cause of thyroid problems, including Hashimoto thyroiditis.The test is also used to find out if an immune or autoimmune disorder is damaging the thyroid.Normal Results
+
+A negative test means the result is normal.Normal value ranges may vary slightly among different laboratories. Some labs use different measurements or may test different specimens. Talk to your health care provider about the meaning of your specific test results.What Abnormal Results Mean
+
+A positive test may be due to:Granulomatous or subacute thyroiditis (an immune reaction of the thyroid gland that often follows an upper respiratory infection)
+  Hashimoto thyroiditis (a reaction of the immune system against the thyroid gland)High levels of these antibodies have also been linked with an increased risk of:MiscarriagePreeclampsia (high blood pressure and protein in the urine after the 20th week of pregnancy)Premature birthIn vitro fertilization failure Important: A positive result does not always mean that you have a thyroid condition or that you need treatment for your thyroid. A positive result may mean that you have a higher chance of developing thyroid disease in the future. This is often associated with a family history of thyroid disease.Antithyroid microsomal antibodies may be seen in your blood if you have other autoimmune conditions, including:Autoimmune hemolytic anemiaAutoimmune hepatitisAutoimmune adrenal diseaseRheumatoid arthritisSjögren syndromeSystemic lupus erythematosusRisks
+
+There is little risk involved with having your blood taken. Veins and arteries vary in size from one person to another and from one side of the body to the other. Obtaining a blood sample from some people may be more difficult than from others.Other risks associated with having blood drawn are slight, but may include:Excessive bleedingFainting or feeling lightheadedMultiple punctures to locate veinsHematoma (blood buildup under the skin)Infection (a slight risk any time the skin is broken)Alternative Names
+
+Thyroid antimicrosomal antibody; Antimicrosomal antibody; Microsomal antibody; Antithyroid microsomal antibody; TPOAb; Anti-TPO antibodyImages
+
+
+Blood test
+References
+
+Chang AY, Auchus RJ. Endocrine disturbances affecting reproduction. In: Strauss JF, Barbieri RL, eds. Yen & Jaffe's Reproductive Endocrinology. 8th ed. Philadelphia, PA: Elsevier; 2019:chap 24.Chernecky CC, Berger BJ. Thyroid peroxidase (TPO, antimicrosomal antibody, antithyroid microsomal antibody) antibody - blood. In: Chernecky CC, Berger BJ, eds. Laboratory Tests and Diagnostic Procedures. 6th ed. St Louis, MO: Elsevier Saunders; 2013:1080-1081.Guber HA, Oprea M, Russell YX. Evaluation of endocrine function. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 25.Salvatore D, Cohen R, Kopp PA, Larsen PR. Thyroid pathophysiology and diagnostic evaluation. In: Melmed S, Auchus RJ, Goldfine AB, Koenig RJ, Rosen CJ, eds. Williams Textbook of Endocrinology. 14th ed. Philadelphia, PA: Elsevier; 2020:chap 11.Weiss RE, Refetoff S. Thyroid function testing. In: Jameson JL, De Groot LJ, de Kretser DM, et al, eds. Endocrinology: Adult and Pediatric. 7th ed. Philadelphia, PA: Elsevier Saunders; 2016:chap 78.
+Review Date 1/9/2022
+
+
+Updated by: Robert Hurd, MD, Professor of Endocrinology and Health Care Ethics, Xavier University, Cincinnati, OH. Review provided by VeriMed Healthcare Network. Also reviewed by David Zieve, MD, MHA, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Autoimmune Diseases
+Hepatitis
+Lupus
+Rheumatoid Arthritis
+Sjogren's Syndrome
+Thyroid Diseases
+Thyroid Tests

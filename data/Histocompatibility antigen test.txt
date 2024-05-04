@@ -1,0 +1,31 @@
+source : https://medlineplus.gov/ency/article/003550.htm 
+ 
+ A histocompatibility antigen blood test looks at proteins called human leukocyte antigens (HLAs). These are found on the surface of almost all cells in the human body. HLAs are found in large amounts on the surface of white blood cells. They help the immune system tell the difference between body tissue and substances that are not from your own body.How the Test is Performed
+
+Blood is drawn from a vein. You may feel slight pain or a sting when the needle is inserted. Afterward, there may be some throbbing.How to Prepare for the Test
+
+You do not need to prepare for this test.Why the Test is Performed
+
+The results from this test can be used to identify good matches for tissue grafts and organ transplants. These may include kidney transplant or bone marrow transplant.It may also be used to:Diagnose certain autoimmune disorders. Drug-induced hypersensitivity is an example.Determine relationships between children and parents when such relationships are in question.Monitor treatment with some medicines.Normal Results
+
+You have a small set of HLAs that are passed down from your parents. Children, on average, will have half of their HLAs match half of their mother's and half of their HLAs match half of their father's.
+It is unlikely that two unrelated people will have the same HLA makeup. However, identical twins may match each other.
+Some HLA types are more common in certain autoimmune diseases. For example, HLA-B27 antigen is found in many people (but not all) with ankylosing spondylitis and Reiter syndrome.Risks
+
+There is little risk involved with having your blood taken. Veins and arteries vary in size from one person to another and from one side of the body to the other. Taking blood from some people may be more difficult than from others.Other risks associated with having blood drawn are slight, but may include:Fainting or feeling lightheadedMultiple punctures to locate veinsHematoma (blood buildup under the skin)Excessive bleedingInfection (a slight risk any time the skin is broken)Alternative Names
+
+HLA typing; Tissue typingImages
+
+
+Blood test
+References
+
+Bray R, Sullivan C, Krummey S, Gebel HM. Human leukocyte antigen: the major histocompatibility complex of humans. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 50.Monos DS, Rajalingam R. The major histocompatibility complex. In: Rich RR, Fleisher TA, Schroeder HW, Weyand CM, Corry DB, Puck JM, eds. Clinical Immunology: Principles and Practice. 6th ed. Philadelphia, PA: Elsevier; 2023:chap 5.Wang E, Adams S, Stroncek DF, Marincola FM. Human leukocyte antigen and human neutrophil antigen systems. In: Hoffman R, Benz EJ, Silberstein LE et al, eds. Hematology: Basic Principles and Practice. 8th ed. Philadelphia, PA: Elsevier; 2023:chap 114.
+Review Date 1/24/2023
+
+
+Updated by: Anna C. Edens Hurst, MD, MS, Associate Professor in Medical Genetics, The University of Alabama at Birmingham, Birmingham, AL. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Organ Transplantation

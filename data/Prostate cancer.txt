@@ -1,0 +1,49 @@
+source : https://medlineplus.gov/ency/article/000380.htm 
+ 
+ Prostate cancer is cancer that starts in the prostate gland. The prostate is a small, walnut-shaped structure that makes up part of a man's reproductive system. It wraps around the urethra, the tube that carries urine out of the body.Causes
+
+Prostate cancer is the most common cause of death from cancer in men over age 75. Prostate cancer is rarely found in men younger than 40.People who are at high risk include:African American men, who are also more likely to develop this cancer at every ageMen age 60 years and aboveMen who have a father or brother with prostate cancer Other people at risk include:Men who have been exposed to Agent OrangeMen who eat a diet high in fat, especially animal fatObese menProstate cancer is less common in people who do not eat meat (vegetarians).A common problem in almost all men as they grow older is an enlarged prostate that affects their urinary function. This is called benign prostatic hyperplasia, or BPH. It does not raise your risk for prostate cancer. But, it can increase your prostate-specific antigen (PSA) blood test result.Symptoms
+
+With early prostate cancer, there are often no symptoms.The PSA blood test may be done to screen men for prostate cancer. Often, the PSA level rises before there are any symptoms. The symptoms listed below can occur with prostate cancer as it grows larger in the prostate. These symptoms can also be caused by other prostate problems:Delayed or slowed start of urinary streamDribbling or leakage of urine, most often after urinatingSlow urinary streamStraining when urinating, or not being able to empty all of the urineBlood in the urine or semenWhen the cancer has spread, there may be bone pain or tenderness, most often in the lower back and pelvic bones.Exams and Tests
+
+An abnormal prostate gland felt during a digital rectal exam may be the only sign of prostate cancer. A biopsy is needed to tell if you have prostate cancer. A biopsy is a procedure to remove a sample of tissue from the prostate. The sample is sent to a lab for examination. It will be done in your doctor's office.Your doctor may recommend a biopsy if:You have a high PSA levelA digital rectal exam reveals that your prostate is hard or has an uneven surface The biopsy result is reported using what is called a Gleason grade and a Gleason score.The Gleason grade tells you how fast the cancer might spread. It grades tumors on a scale of 1 through 5. You may have different grades of cancer in one biopsy sample. The two most common grades are added together. This gives you the Gleason score. The higher your Gleason score, the more likely the cancer can spread beyond the prostate:Scores 2 through 6: Low-grade prostate cancer.Score 7: Intermediate- (or in the middle) grade cancer. Most prostate cancers fall into this group.Scores 8 through 10: High-grade cancer. Another grading system, the 5 Grade Group System does a better job of describing how a cancer will behave and respond to treatment:Grade group 1: Gleason score 6 or lower (low-grade cancer)Grade group 2: Gleason score 3 + 4 = 7 (medium-grade cancer)Grade group 3: Gleason score 4 + 3 = 7 (medium-grade cancer)Grade group 4: Gleason score 8 (high-grade cancer)Grade group 5: Gleason score 9 to 10 (high-grade cancer)A lower group indicates a better chance for successful treatment than a higher group. A higher group means that more of the cancer cells look different from normal cells. A higher group also means that it is more likely that the tumor will spread aggressively.The following tests may be done to determine whether the cancer has spread:CT scanBone scanMRI scanThe PSA blood test will also be used to monitor your cancer after treatment. Treatment
+
+Treatment depends on many things, including your Gleason score and your overall health. Your doctor will discuss your treatment options with you.If the cancer has not spread outside the prostate gland, common treatments include: Surgery (radical prostatectomy)Radiation therapy, including brachytherapy, external beam therapy, and proton therapyIf you are older, your doctor may recommend simply monitoring the cancer with PSA tests and biopsies. This is called active surveillance.Hormone therapy is mainly used for cancer that has spread beyond the prostate. It helps relieve symptoms and prevents further growth and spread of the cancer. But it does not cure the cancer.If prostate cancer spreads even after hormone therapy, surgery, or radiation has been tried, treatment may include:ChemotherapyImmunotherapy (medicine to trigger the immune system to attack and kill cancer cells) Surgery, radiation therapy, and hormone therapy can affect your sexual performance. Problems with urine control are possible after surgery and radiation therapy. Discuss your concerns with your health care provider.After treatment for prostate cancer, you will be closely watched to make sure the cancer does not spread. This involves routine checkups, including PSA blood tests (usually every 3 months to 1 year). Support Groups
+
+You can ease the stress of illness by joining a prostate cancer support group. Sharing with others who have common experiences and problems can help you not feel alone.Outlook (Prognosis)
+
+How well you do depends on whether the cancer has spread outside the prostate gland and how abnormal the cancer cells are (the Gleason score) when you are diagnosed.A cure is possible if the cancer has not spread. Hormone treatment can improve survival, even if a cure is not possible.When to Contact a Medical Professional
+
+Discuss the advantages and disadvantages of PSA screening with your provider.Prevention
+
+Talk with your provider about possible ways to lower your risk for prostate cancer. These may include lifestyle measures, such as diet and exercise. There are no medicines approved by the FDA for preventing prostate cancer.Alternative Names
+
+Cancer - prostate; Biopsy - prostate; Prostate biopsy; Gleason scorePatient Instructions
+
+Pelvic radiation - discharge
+Prostate brachytherapy - discharge 
+Radiation therapy - questions to ask your doctor
+Radical prostatectomy - discharge
+Images
+
+
+Male reproductive anatomy
+Male urinary tract
+BPH
+Prostate cancer
+PSA blood test
+Prostatectomy  - Series
+Transurethral resection of the prostate (TURP) - Series
+References
+
+National Cancer Institute website. Prostate cancer treatment (PDQ) health professional version. www.cancer.gov/types/prostate/hp/prostate-treatment-pdq. Updated February 13, 2023. Accessed July 17, 2023.National Comprehensive Cancer Network website. NCCN clinical practice guidelines in oncology (NCCN guidelines): Prostate cancer. Version 4.2023. www.nccn.org/professionals/physician_gls/pdf/prostate.pdf. Updated September 7, 2023. Accessed October 6, 2023.Nelson WG, Antonarakis ES, Carter HB, De Marzo AM, DeWeese TL. Prostate cancer. In: Niederhuber JE, Armitage JO, Kastan MB, Doroshow JH, Tepper JE, eds. Abeloff's Clinical Oncology. 6th ed. Philadelphia, PA: Elsevier; 2020:chap 81.Stephenson AJ, Abouassaly R, Klein EA. Epidemiology, etiology, and prevention of prostate cancer. In: Partin AW, Dmochowski RR, Kavoussi LR, Peters CA, eds. Campbell-Walsh-Wein Urology. 12th ed. Philadelphia, PA: Elsevier; 2021:chap 148.US Preventive Services Task Force; Grossman DC, Curry SJ, et al. Screening for prostate cancer: US Preventive Services Task Force recommendation statement. JAMA. 2018;319(18):1901-1913. PMID: 29801017 pubmed.ncbi.nlm.nih.gov/29801017/.Wei JT, Barocas D, Carlsson S, et al. Early detection of prostate cancer: AUA/SUO guideline part I: prostate cancer screening. J Urol. 2023;210(1):45-53. www.auanet.org/guidelines-and-quality/guidelines/early-detection-of-prostate-cancer-guidelines.Wei JT, Barocas D, Carlsson S, et al. Early detection of prostate cancer: AUA/SUO guideline part II: considerations for a prostate biopsy. J Urol. 2023;210(1):54-63. www.auanet.org/guidelines-and-quality/guidelines/early-detection-of-prostate-cancer-guidelines.
+Test Your Knowledge
+
+Prostate Cancer Myths & Facts QuizReview Date 7/1/2023
+
+
+Updated by: Kelly L. Stratton, MD, FACS, Associate Professor, Department of Urology, University of Oklahoma Health Sciences Center, Oklahoma City, OK. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Prostate Cancer

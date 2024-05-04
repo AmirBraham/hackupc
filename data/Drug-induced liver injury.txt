@@ -1,0 +1,37 @@
+source : https://medlineplus.gov/ency/article/000226.htm 
+ 
+ Drug-induced liver injury (DILI) is an injury of the liver that may occur when you take certain medicines.Other types of liver injury include:Viral hepatitisAlcoholic hepatitisAutoimmune hepatitisIron overload Fatty liverCauses
+
+The liver helps the body break down certain medicines. These include some drugs that you buy over-the-counter or your health care provider prescribes for you. However, the process is slower in some people. This can make you more likely to get liver damage.Some drugs can cause hepatitis with small doses, even if the liver breakdown system is normal. Large doses of many medicines can damage a normal liver.Many different drugs can cause drug-induced hepatitis.Painkillers and fever reducers that contain acetaminophen are a common cause of liver injury, particularly when taken in doses greater than those recommended. People who drink alcohol to excess are more likely to have this problem.Nonsteroidal anti-inflammatory drugs (NSAIDs), such as ibuprofen, diclofenac, and naproxen, may also cause drug-induced hepatitis.Other drugs that can lead to liver injury include:
+   AmiodaroneAnabolic steroidsBirth control pillsChlorpromazineErythromycinHalothane (a type of anesthesia)MethyldopaIsoniazidMethotrexateStatinsSulfa drugsTetracyclinesAmoxicillin-clavulanateSome anti-seizure medicinesDisulfiramNiacinAzathoaprineKetoconazoleSymptoms
+
+Symptoms may include:Abdominal painDark urineDiarrheaFatigueFeverHeadacheJaundiceLoss of appetiteNausea and vomitingRashWhite or clay-colored stools Exams and Tests
+
+You will have blood tests to check liver function. Liver enzymes will be higher if you have the condition.Your provider will do a physical exam to check for an enlarged liver and abdominal tenderness in the right upper part of the belly area. A rash or fever may be part of some drug reactions that affect the liver.Treatment
+
+The only specific treatment for most cases of liver damage caused by taking a drug is to stop taking the drug that caused the problem.However, if you took high doses of acetaminophen, you should get treated for liver injury in the emergency department or other acute treatment setting as soon as possible as there is a specific antidote for acetaminophen poisoning.If symptoms are severe, you should rest and avoid heavy exercise, alcohol, acetaminophen, and any other substances that might harm the liver. You may need to get fluids through a vein if nausea and vomiting are severe.Outlook (Prognosis)
+
+Drug-induced liver injury most often goes away within days or weeks after you stop taking the drug that caused it.Possible Complications
+
+Rarely, drug-induced liver injury can lead to liver failure.When to Contact a Medical Professional
+
+Contact your provider if:You develop symptoms of liver injury after you start taking a new medicine.You have been diagnosed with drug-induced liver injury and your symptoms do not get better after you stop taking the medicine.You develop any new symptoms. Prevention
+
+Never use more than the recommended dose of over-the-counter medicines containing acetaminophen (Tylenol).Do not take these medicines if you drink heavily or regularly. Talk to your provider about safe doses.Always tell your provider about all the medicines you take, including over-the-counter drugs and herbal or supplemental preparations. This is very important if you have liver disease. Talk to your provider about other medicines you may need to avoid. Your provider can tell you which medicines are safe for you.Alternative Names
+
+Toxic hepatitis; Drug-induced hepatitis; DILIImages
+
+
+Digestive system
+Hepatomegaly
+References
+
+Chalasani NP, Hayashi PH, Bonkovsky HL, et al. ACG Clinical Guideline: the diagnosis and management of idiosyncratic drug-induced liver injury. Am J Gastroenterol. 2014;109(7):950-966. PMID: 24935270/ pubmed.ncbi.nlm.nih.gov/24935270/.Chitturi S, Teoh NC, Farrell GC. Liver disease caused by drugs. In: Feldman M, Friedman LS, Brandt LJ, eds. Sleisenger and Fordtran's Gastrointestinal and Liver Disease. 11th ed. Philadelphia, PA: Elsevier; 2021:chap 88.Devarbhavi H, Bonkovsky HL, Russo M, Chalasani N. Drug-induced liver injury. In: Sanyal AJ, Boyer TD, Lindor KD, Terrault NA, eds. Zakim and Boyer's Hepatology. 7th ed. Philadelphia, PA: Elsevier; 2018:chap 56.Gill RM, Kakar S. Liver and gallbladder. In: Kumar V, Abbas AK, Aster JC, eds. Robbins and Cotran Pathologic Basis of Disease. 10th ed. Philadelphia, PA: Elsevier; 2021:chap 18.
+Review Date 10/31/2022
+
+
+Updated by: Michael M. Phillips, MD, Emeritus Professor of Medicine, The George Washington University School of Medicine, Washington, DC. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Hepatitis

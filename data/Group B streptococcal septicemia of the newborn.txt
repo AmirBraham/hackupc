@@ -1,0 +1,33 @@
+source : https://medlineplus.gov/ency/article/001366.htm 
+ 
+ Group B streptococcal (GBS) septicemia is a severe bacterial infection that affects newborn infants.Causes
+
+Septicemia is an infection in the bloodstream (also called bacteremia) that may travel to different body organs. GBS septicemia is caused by the bacterium Streptococcus agalactiae, which is commonly called group B strep, or GBS.GBS is commonly found in adults and older children and usually does not cause infection. But it can make newborn babies very sick. There are two ways in which GBS can be passed to a newborn baby:The baby can become infected while passing through the birth canal. In this case, babies become ill between birth and 6 days of life (most often in the first 24 hours). This is called early-onset GBS disease.The infant may also become infected after delivery by coming into contact with people who carry the GBS germ. In this case, symptoms appear later, when the baby is 7 days to 3 months or more old. This is called late-onset GBS disease. GBS septicemia now occurs less often, because there are methods to screen and treat pregnant women whose babies are at risk.The following increase an infant's risk for GBS septicemia:Being born more than 3 weeks before the due date (prematurity), especially if the mother goes into labor early (preterm labor) and has not been screened for GBSMother who has already given birth to a baby with GBS sepsisMother who has a fever of 100.4°F (38°C) or higher during labor and has not been screened for GBSMother who has GBS in her gastrointestinal, reproductive, or urinary tractRupture of membranes (water breaks) more than 18 hours before the baby is delivered in a mother who has not been screened for GBSSymptoms
+
+The baby may have any of the following signs and symptoms:Blue appearance (cyanosis)Breathing difficulties, such as flaring of the nostrils, grunting noises, rapid breathing, and short periods without breathingIrregular or abnormal (fast or very slow) heart rateLethargyPale appearance (pallor) with cold skinPoor feedingUnstable body temperature (low or high) Exams and Tests
+
+To diagnose GBS septicemia, GBS bacteria must be found in a sample of blood (blood culture) taken from a sick newborn.Other tests that may be done include:Blood clotting tests -- for example, prothrombin time (PT) and partial thromboplastin time (PTT)Blood gases (to see if the baby needs help with breathing)Complete blood countCSF culture (to check for meningitis)Urine cultureX-ray of the chestTreatment
+
+The baby is given antibiotics through a vein (IV).Other treatment measures may involve: Breathing help (respiratory support)Fluids given through a veinMedicines to reverse shockMedicines or procedures to correct blood clotting problemsOxygen therapy A therapy called extracorporeal membrane oxygenation (ECMO) may be used in very severe cases. ECMO involves using a pump to circulate blood through an artificial lung back into the bloodstream of the baby.Outlook (Prognosis)
+
+This disease can be life threatening without prompt treatment.Possible Complications
+
+Possible complications include:Disseminated intravascular coagulation (DIC): A serious disorder in which the proteins that control blood clotting are abnormally active.Hypoglycemia, or low blood sugar.Meningitis: Swelling (inflammation) of the membranes covering the brain and spinal cord caused by infection.When to Contact a Medical Professional
+
+This disease is usually diagnosed shortly after birth, often while the baby is still in the hospital.However, if you have a newborn at home who shows symptoms of this condition, seek immediate emergency medical help or call 911 or the local emergency number.Parents should watch for symptoms in their baby's first 6 weeks. The early stages of this disease can produce symptoms that are hard to spot.Prevention
+
+To help reduce the risk for GBS, pregnant women should get tested for the bacteria at 35 to 37 weeks into their pregnancy. If the bacteria are detected, women are given antibiotics through a vein during labor. If the mother goes into premature labor before 37 weeks and GBS test results are unavailable, she should be treated with antibiotics. Of note, a negative screen for the mother does not mean the baby has no risk for GBS septicemia, because the bacteria are not always detectable by screening.Newborns who are at high risk are observed and sometimes tested for GBS infection, depending on their clinical status. They may receive antibiotics through a vein during the first 30 to 48 hours of life until test results are available. They should not be sent home from the hospital before 36 to 48 hours of age.In all cases, proper hand washing by nursery caregivers, visitors, and parents can help prevent the spread of the bacteria after the infant is born.Early diagnosis can help decrease the risk for some complications.Alternative Names
+
+Group B strep; GBS; Group B streptococcal bacteremia; Neonatal sepsis - strepReferences
+
+Aagaard K, Luna RA, Versalovic J. The human microbiome of local body sites and their unique biology. In: Bennett JE, Dolin R, Blaser MJ, eds. Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases. 9th ed. Philadelphia, PA: Elsevier; 2020:chap 2.Centers for Disease Control and Prevention website. Group B strep (GBS). www.cdc.gov/groupbstrep/clinicians/index.html. Updated October 18, 2022. Accessed January 13, 2023.Lachenauer CS, Wessels MR. Group B streptococcus. In: Kliegman RM, St. Geme JW, Blum NJ, Shah SS, Tasker RC, Wilson KM, eds. Nelson Textbook of Pediatrics. 21st ed. Philadelphia, PA: Elsevier; 2020:chap 211.Puopolo KM, Lynfield R, Cummings JJ; Committee on Fetus and Newborn; Committee on Infectious Diseases. Management of Infants at Risk for Group B Streptococcal Disease. Pediatrics. 2019;144(2):e20191881. PMID: 31285392 pubmed.ncbi.nlm.nih.gov/31285392/.
+Review Date 11/5/2022
+
+
+Updated by: Mary J. Terrell, MD, IBCLC, Neonatologist, Cape Fear Valley Medical Center, Fayetteville, NC. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Infections and Pregnancy
+Sepsis
+Streptococcal Infections

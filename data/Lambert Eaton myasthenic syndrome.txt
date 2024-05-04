@@ -1,0 +1,42 @@
+source : https://medlineplus.gov/ency/article/000710.htm 
+ 
+ Lambert-Eaton myasthenic syndrome (LEMS) is a rare disorder in which faulty communication between nerves and muscles leads to muscle weakness.Causes
+
+LEMS is an autoimmune disorder. This means your immune system mistakenly targets healthy cells and tissues in the body. With LEMS, antibodies produced by the immune system attack nerve cells. This makes nerves cells unable to release enough of a chemical called acetylcholine. This chemical transmits impulses between nerves and muscles. The result is muscle weakness.LEMS may occur with cancers such as small cell lung cancer or autoimmune disorders such as vitiligo, which leads to a loss of skin pigment.LEMS affects men more often than women. The most common age of occurrence is around age 60 years. LEMS is rare in children.Symptoms
+
+Weakness or loss of movement that can be more or less severe, including:Difficulty climbing stairs, walking, or lifting thingsMuscle painDrooping of the headThe need to use the hands to get up from a sitting or lying positionProblems talkingProblems chewing or swallowing, which may include gagging or chokingVision changes, such as blurry vision, double vision, and problem keeping a steady gazeWeakness is generally mild in LEMS. Leg muscles are mostly affected. Weakness may improve after exercise, but continuous exertion causes fatigue in some cases.Symptoms related to the other parts of the nervous system often occur, and include:Blood pressure changesDizziness upon standingDry mouthErectile dysfunctionDry eyesConstipationDecreased sweatingExams and Tests
+
+The health care provider will perform a physical exam and ask about the symptoms. The exam may show:
+   Decreased reflexes
+   
+   Possible loss of muscle tissue
+   
+   Weakness or paralysis that gets slightly better with activity
+   Tests to help diagnose and confirm LEMS may include:Blood tests to look for the antibodies that attack the nervesElectromyography (EMG) to test the health of the muscle fibers
+   Nerve conduction velocity (NCV) to test the speed of electrical activity along nerves
+   CT scan and MRI of the chest and the abdomen, followed by bronchoscopy for smokers may be done to evaluate for cancer. PET scan may also be done if a lung tumor is suspected. You may be referred to an oncologist (cancer specialist) to determine if other cancer testing is needed.Treatment
+
+The main goals of treatment are to:Identify and treat any underlying disorders, such as lung cancerGive treatment to help with the weaknessPlasma exchange, or plasmapheresis, is a treatment that helps remove from the body any harmful proteins (antibodies) that are interfering with nerve function. This involves removing blood plasma that contains the antibodies. Other proteins (such as albumin) or donated plasma are then infused into the body.Another procedure involves using intravenous immunoglobulin (IVIg) to infuse a large amount of helpful antibodies directly into the bloodstream.Medicines that may also be tried include:Drugs that suppress the immune system's responseAnticholinesterase drugs to improve muscle tone (although these are not very effective when given alone)Drugs that increase the release of acetylcholine from nerve cellsOutlook (Prognosis)
+
+Symptoms of LEMS may improve by treating the underlying disease, suppressing the immune system, or removing the antibodies. However, paraneoplastic LEMS may not respond as well to treatment. (Paraneoplastic LEMS symptoms are due to an altered immune system response to a tumor). Death is due to underlying malignancy.Possible Complications
+
+Complications of LEMS may include:Difficulty breathing, including respiratory failure (less common)Difficulty swallowingInfections, such as pneumoniaInjuries from falls and problems with coordinationWhen to Contact a Medical Professional
+
+Call your provider if symptoms of LEMS develop.Alternative Names
+
+Myasthenic syndrome; Eaton-Lambert syndrome; Lambert-Eaton syndrome; LESImages
+
+
+Superficial anterior muscles
+References
+
+Evoli A, Vincent A. Disorders of neuromuscular transmission. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 394.Guptill JT, Sanders DB. Disorders of neuromuscular transmission. In: Jankovic J, Mazziotta JC, Pomeroy SL, Newman NJ, eds. Bradley and Daroff's Neurology in Clinical Practice. 8th ed. Philadelphia, PA: Elsevier; 2022:chap 108.Moss HE. Eyelid and facial nerve disorders. In: Liu GT, Volpe NJ, Galetta SL, eds. Liu, Volpe, and Galetta's Neuro-Ophthalmology. 3rd ed. Philadelphia, PA: Elsevier; 2019:chap 14.
+Review Date 4/25/2022
+
+
+Updated by: Joseph V. Campellone, MD, Department of Neurology, Cooper University Hospital, Camden, NJ. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Autoimmune Diseases
+Neuromuscular Disorders

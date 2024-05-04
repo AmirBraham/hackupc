@@ -1,0 +1,40 @@
+source : https://medlineplus.gov/ency/article/003374.htm 
+ 
+ The TBG blood test measures the level of a protein that moves thyroid hormone throughout your body. This protein is called thyroxine-binding globulin (TBG).How the Test is Performed
+
+A blood sample is taken and then sent to a laboratory for testing.How to Prepare for the Test
+
+Certain drugs and medicines can affect test results. Your health care provider may tell you to stop taking a certain medicine for a short time before the test. Never stop taking any medicine without first talking to your provider.These medicines and drugs can increase TBG level:Estrogens, found in birth control pills and estrogen replacement therapyHeroinMethadone and opioidsPhenothiazines (certain antipsychotic drugs)The following medicines can decrease TBG levels:
+Depakote or depakene (also called valproic acid)Dilantin (also called phenytoin) and carbamazepineHigh doses of salicylates, including aspirinMale hormones, including androgens and testosteronePrednisone or other glucocorticoids (steroids)How the Test will Feel
+
+When the needle is inserted to draw blood, some people feel moderate pain. Others feel only a prick or stinging. Afterward, there may be some throbbing or slight bruising. This soon goes away.Why the Test is Performed
+
+This test may be done to diagnose problems with your thyroid.Normal Results
+
+Normal range is 13 to 39 micrograms per deciliter (mcg/dL), or 150 to 360 nanomoles per liter (nmol/L).Normal value ranges may vary slightly among different laboratories. Some labs use different measurements or may test different samples. Talk to your provider about the meaning of your specific test results.What Abnormal Results Mean
+
+An increased TBG level may be due to:Acute intermittent porphyria (a rare metabolic disorder)Hypothyroidism (underactive thyroid)Liver disease, such as hepatitisPregnancy (TBG levels normally increased during pregnancy) Note: TBG levels are normally high in newborns.Decreased TBG levels may be due to:Acute illnessAcromegaly (disorder caused by too much growth hormone)Hyperthyroidism (overactive thyroid)MalnutritionNephrotic syndrome (symptoms that show kidney damage is present)Stress from surgery High or low TBG levels affect the relationship between total T4 and free T4 blood tests. A change in TBG blood levels can alter the appropriate dose of levothyroxine replacement for persons with hypothyroidism.Risks
+
+There is little risk involved with having your blood taken. Veins and arteries vary in size from one person to another and from one side of the body to the other. Obtaining a blood sample from some people may be more difficult than from others.Other risks of having blood drawn are slight, but may include:Excessive bleedingFainting or feeling lightheadedMultiple punctures to locate veinsHematoma (blood buildup under the skin)Infection (a slight risk any time the skin is broken)Alternative Names
+
+Serum thyroxine binding globulin; TBG level; Serum TBG level; Hypothyroidism - TBG; Hyperthyroidism - TBG; Underactive thyroid - TBG; Overactive thyroid - TBG thyroid hormone binding globulinImages
+
+
+Blood test
+References
+
+Guber HA, Oprea M, Russell YX. Evaluation of endocrine function. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 25.Kruse JA. Thyroid disorders. In: Parrillo JE, Dellinger RP, eds. Critical Care Medicine: Principles of Diagnosis and Management in the Adult. 5th ed. Philadelphia, PA: Elsevier; 2019:chap 57.Salvatore D, Cohen R, Kopp PA, Larsen PR. Thyroid pathophysiology and diagnostic evaluation. In: Melmed S, Auchus RJ, Goldfine AB, Koenig RJ, Rosen CJ, eds. Williams Textbook of Endocrinology. 14th ed. Philadelphia, PA: Elsevier; 2020:chap 11.
+Review Date 1/9/2022
+
+
+Updated by: Robert Hurd, MD, Professor of Endocrinology and Health Care Ethics, Xavier University, Cincinnati, OH. Review provided by VeriMed Healthcare Network. Also reviewed by David Zieve, MD, MHA, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Hyperthyroidism
+Kidney Tests
+Liver Diseases
+Pituitary Disorders
+Porphyria
+Thyroid Diseases
+Thyroid Tests

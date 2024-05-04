@@ -1,0 +1,36 @@
+source : https://medlineplus.gov/ency/article/000723.htm 
+ 
+ Subacute combined degeneration (SCD) is a disorder of the spine, brain, and nerves. It causes weakness, abnormal sensations, mental problems, and vision difficulties.Causes
+
+SCD is caused by vitamin B12 deficiency. It mainly affects the spinal cord. But its effects on the brain and the peripheral (body) nerves are the reason for the term "combined." At first, the nerve covering (myelin sheath) is damaged. Later, the entire nerve cell is affected.Doctors do not know exactly how a lack of vitamin B12 damages the nerves. It is possible that the lack of this vitamin causes abnormal fatty acids to form around cells and nerves.People are at high risk for this condition if vitamin B12 cannot be absorbed from their intestine or if they have:Pernicious anemia, a condition in which the body does not have enough healthy red blood cells due to vitamin B12 deficiencyDisorders of the small intestine, including Crohn diseaseProblems absorbing nutrients, which can occur after gastrointestinal surgery, including weight loss surgeryUse of nitrous oxide (laughing gas), especially if used as a recreational drugSymptoms
+
+Symptoms include:Abnormal sensations (tingling and numbness)Weakness of the legs, arms, or other areas These symptoms slowly get worse and are usually felt on both sides of the body.As the disease worsens, symptoms may include any of the following:Clumsiness, stiff or awkward movements.Mental changes, which can range from mild memory problems, irritability, apathy, and confusion, to severe dementia and psychosis. Severe dementia is uncommon, but in some cases it's the first symptom of the disorder.Decreased vision.Depression.Sleepiness.Unsteady gait and loss of balance.Falls due to poor balance.Exams and Tests
+
+Your health care provider will perform a physical exam. The exam usually shows muscle weakness and sensation problems on both sides of the body, especially in the legs. Knee jerk reflexes are often decreased or lost. Muscles may have spasticity. There may be reduced senses of touch, pain, and temperature.Tests may be needed to determine why you are deficient in vitamin B12.Nerve conduction studies and electromyography may be done to test for nerve damage in the extremities.An eye exam may show damage to the optic nerve, a condition called optic neuropathy. There may also be abnormal pupil responses, loss of sharp vision, and other changes.Blood tests that may be ordered include:Complete blood count (CBC)Vitamin B12 blood levelMethylmalonic acid and homocysteine blood levelTreatment
+
+Vitamin B12 is given, usually by injection into a muscle. Injections are often given once a day for a week, then weekly for about 1 month, and then monthly. Vitamin B12 supplements, either by injection or high-dose pills, must continue throughout life to prevent symptoms from returning.Outlook (Prognosis)
+
+Early treatment improves the chance of a good outcome.How well a person does depends on how long they had symptoms before receiving treatment. If treatment is received within a few weeks, complete recovery may be expected. If treatment is delayed for longer than 1 or 2 months, full recovery may not be possible.Untreated, SCD results in continued and permanent damage to the nervous system.When to Contact a Medical Professional
+
+Contact your provider if abnormal sensations, muscle weakness, or other symptoms of SCD develop. This is particularly important if you or a family member has had pernicious anemia or other risk factors.Prevention
+
+Some vegetarian diets, especially vegan, may be low in vitamin B12. Taking a supplement can help prevent SCD.Alternative Names
+
+Subacute combined degeneration of the spinal cord; SCD Images
+
+
+Central nervous system and peripheral nervous system
+Central nervous system
+References
+
+Pytel P, Anthony DC. Peripheral nerves and skeletal muscles. In: Kumar V, Abbas AK, Aster JC, eds. Robbins and Cotran Pathologic Basis of Disease. 10th ed. Philadelphia, PA: Elsevier; 2021:chap 27.So YT. Deficiency diseases of the nervous system. In: Jankovic J, Mazziotta JC, Pomeroy SL, Newman NJ, eds. Bradley and Daroff's Neurology in Clinical Practice. 8th ed. Philadelphia, PA: Elsevier; 2022:chap 85.
+Review Date 4/29/2023
+
+
+Updated by: Joseph V. Campellone, MD, Department of Neurology, Cooper Medical School of Rowan University, Camden, NJ. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Anemia
+B Vitamins
+Spinal Cord Diseases

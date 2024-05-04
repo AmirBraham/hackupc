@@ -1,0 +1,35 @@
+source : https://medlineplus.gov/ency/article/003388.htm 
+ 
+ Electroretinography is a test to measure the electrical response of the eye's light-sensitive cells, called rods and cones. These cells are part of the retina (the back part of the eye).How the Test is Performed
+
+While you are in a sitting position, the health care provider places numbing drops into your eyes, so you will not have any discomfort during the test. Your eyes are held open with a small device called a speculum. An electrical sensor (electrode) is placed on each eye.The electrode measures the electrical activity of the retina in response to light. A light flashes, and the electrical response travels from the electrode to a TV-like screen, where it can be viewed and recorded. The normal response pattern has waves called A and B.The provider will take the readings in normal room light and then again in the dark, after allowing 20 minutes for your eyes to adjust.How to Prepare for the Test
+
+No special preparation is necessary for this test.How the Test will Feel
+
+The probes that rest on your eye may feel a little scratchy. The test takes about 1 hour to perform.Why the Test is Performed
+
+This test is done to detect disorders of the retina. It is also useful for determining if retinal surgery is recommended.Normal Results
+
+Normal test results will show a normal A and B pattern in response to each flash.What Abnormal Results Mean
+
+The following conditions may cause abnormal results:Arteriosclerosis with damage to the retinaCongenital night blindnessCongenital retinoschisis (splitting of the retinal layers)Giant cell arteritisMedicines (chloroquine, hydroxychloroquine)MucopolysaccharidosisRetinal detachmentRod-cone dystrophy (retinitis pigmentosa)TraumaVitamin A deficiencyRisks
+
+The cornea may get a temporary scratch on the surface from the electrode. Otherwise, there are no risks with this procedure.Considerations
+
+You should not rub your eyes for an hour after the test, as this could injure the cornea. Your provider will talk to you about the results of the test and what they mean for you.Alternative Names
+
+ERG; Electrophysiologic testingImages
+
+
+Contact lens electrode on eye
+References
+
+Baloh RW, Jen JC. Neuro-ophthalmology. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 396.Reichel E, Klein K. Retinal electrophysiology. In: Yanoff M, Duker JS, eds. Ophthalmology. 5th ed. Philadelphia, PA: Elsevier; 2019:chap 6.9.Tsang SH, Holder GE. Clinical electrophysiology. In: Sadda SVR, Sarraf D, Freund B, et al, eds. Ryan's Retina. 7th ed. Philadelphia, PA: Elsevier; 2023:chap 9.
+Review Date 8/22/2022
+
+
+Updated by: Franklin W. Lusby, MD, Ophthalmologist, Lusby Vision Institute, La Jolla, CA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Retinal Disorders

@@ -1,0 +1,40 @@
+source : https://medlineplus.gov/ency/article/003657.htm 
+ 
+ The blood differential test measures the percentage of each type of white blood cell (WBC) that you have in your blood. It also reveals if there are any abnormal or immature cells.How the Test is Performed
+
+A blood sample is needed.A laboratory specialist takes a drop of blood from your sample and smears it onto a glass slide. The smear is stained with a special dye, which helps tell the difference between various types of white blood cells.Five types of white blood cells, also called leukocytes, normally appear in the blood:NeutrophilsLymphocytes (B cells and T cells)MonocytesEosinophilsBasophilsA special machine counts the number of each type of cell. The test shows if the number of cells are in proper proportion with one another, and if there is more or less of one cell type.How to Prepare for the Test
+
+No special preparation is necessary.How the Test will Feel
+
+When the needle is inserted to draw blood, some people feel moderate pain. Others feel only a prick or stinging. Afterward, there may be some throbbing or slight bruising. This soon goes away.Why the Test is Performed
+
+This test is done to diagnose an infection, anemia, or leukemia. It may also be used to monitor one of these conditions or to see if treatment is working.Normal Results
+
+The different types of white blood cells are given as a percentage of all white cells: Neutrophils: 40% to 60%Lymphocytes: 20% to 40%Monocytes: 2% to 8%Eosinophils: 1% to 4%Basophils: 0.5% to 1%Band (young neutrophil): 0% to 3% What Abnormal Results Mean
+
+Any infection or acute stress increases your number of white blood cells. High white blood cell counts may be due to inflammation, an immune response, or blood diseases such as leukemia. Abnormal or immature white blood cells may indicate leukemia or bone marrow invasion by cancer or infection.It is important to realize that an abnormal increase in one type of white blood cell can cause a decrease in the percentage of other types of white blood cells.An increased percentage of neutrophils may be due to:Acute infectionInflammationAcute stressEclampsia (seizures or coma in a pregnant woman)Gout (type of arthritis due to uric acid buildup in the blood)Acute or chronic forms of leukemia
+   Myeloproliferative diseases
+   Rheumatoid arthritisRheumatic fever (disease due to an infection with group A streptococcus bacteria)Thyroiditis (a thyroid disease)Trauma Cigarette smoking
+   A decreased percentage of neutrophils may be due to:Aplastic anemiaChemotherapyInfluenza (flu)Radiation therapy or exposureViral infectionWidespread severe bacterial infection (sepsis)An increased percentage of lymphocytes may be due to:Chronic bacterial infection
+   Infectious hepatitis (liver swelling and inflammation from bacteria or viruses)Infectious mononucleosis, or mono (viral infection that causes fever, sore throat, and swollen lymph glands)TuberculosisLymphocytic leukemia (a type of blood cancer)Multiple myeloma (a type of blood cancer)Viral infection (such as mumps or measles) A decreased percentage of lymphocytes may be due to:ChemotherapyHIV/AIDS infectionLeukemiaRadiation therapy or exposureSepsis (severe, inflammatory response to bacteria or other germs)Steroid use An increased percentage of monocytes may be due to:Chronic inflammatory diseaseLeukemiaParasitic infectionTuberculosis, or TB (bacterial infection that involves the lungs)Viral infection (for example, infectious mononucleosis, mumps, or measles) An increased percentage of eosinophils may be due to:Addison disease (adrenal glands do not produce enough hormones)Allergic reactionCancerChronic myelogenous leukemiaCollagen vascular diseaseHypereosinophilic syndromesParasitic infection An increased percentage of basophils may be due to:After splenectomyAllergic reactionChronic myelogenous leukemia (a type of bone marrow cancer)Collagen vascular diseaseMyeloproliferative diseases (group of bone marrow diseases)ChickenpoxA decreased percentage of basophils may be due to:Acute infectionCancerSevere injury Risks
+
+There is little risk involved with having your blood taken. Veins and arteries vary in size from one person to another, and from one side of the body to the other. Taking blood from some people may be more difficult than from others.Other risks associated with having blood drawn are slight, but may include:Excessive bleedingFainting or feeling lightheadedMultiple punctures to locate veinsHematoma (blood accumulating under the skin)Infection (a slight risk any time the skin is broken)Alternative Names
+
+Differential; Diff; White blood cell differential countImages
+
+
+Basophil (close-up)
+Formed elements of blood
+White blood cell count  - series
+References
+
+Bain BJ. The peripheral blood smear. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 148.Nasr MR, Hutchison RE. Leukocytic disorders. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 34.
+Review Date 2/2/2023
+
+
+Updated by: Mark Levin, MD, Hematologist and Oncologist, Monsey, NY. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Blood Count Tests
+Blood Disorders

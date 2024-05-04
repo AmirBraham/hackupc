@@ -1,0 +1,41 @@
+source : https://medlineplus.gov/ency/article/000581.htm 
+ 
+ Non-Hodgkin lymphoma (NHL) is cancer of the lymph tissue. Lymph tissue is found in the lymph nodes, spleen, and other organs of the immune system.White blood cells, called lymphocytes, are found in lymph tissue. They help prevent infections. Most lymphomas start in a type of white blood cell called the B lymphocyte, or B cell.Causes
+
+For most people, the cause of NHL is unknown. But lymphomas may develop in people with weakened immune systems, including people who have had an organ transplant or people with HIV infection or Epstein-Barr virus infection.NHL most often affects adults. Men develop NHL more often than women. Children can also develop some forms of NHL.There are many types of NHL. One classification (grouping) is by how fast the cancer spreads. The cancer may be low grade (slow growing), intermediate grade, or high grade (fast growing). NHL is further grouped by how the cells look under the microscope, what type of white blood cell it originates from, what special tests show about it, and whether there are certain DNA changes in the tumor cells themselves.Symptoms
+
+Symptoms depend on what area of the body is affected by the cancer and how fast the cancer is growing.Symptoms may include:Drenching night sweatsFever and chills that come and goItchingSwollen lymph nodes in the neck, underarms, groin, or other areasWeight lossCoughing or shortness of breath if the cancer affects the thymus gland or lymph nodes in the chest, putting pressure on the windpipe (trachea) or its branchesAbdominal pain or swelling, leading to loss of appetite, constipation, nausea, and vomitingHeadache, concentration problems, personality changes, or seizures if the cancer affects the brain Exams and Tests
+
+The health care provider will perform a physical exam and check body areas with lymph nodes to feel if they are swollen.The disease is usually diagnosed after biopsy of suspected tissue, usually a lymph node biopsy.Other tests that may be done include:Blood test to check protein levels, liver function, kidney function, and uric acid levelComplete blood count (CBC)CT scans of the chest, abdomen and pelvisBone marrow biopsyPET scanIf tests show you have NHL, more tests may be done to see how far it has spread. This is called staging. Staging helps guide future treatment and follow-up.Treatment
+
+Treatment depends on:The specific type of NHLThe stage when you are first diagnosedYour age and overall healthSymptoms, including weight loss, fever, and night sweatsYou may receive chemotherapy, radiation therapy, or both. Or you may not need immediate treatment. Your provider can tell you more about your specific treatment.Radioimmunotherapy may be used in some cases. This involves linking a radioactive substance to an antibody that targets the cancerous cells and injecting the substance into the body.A type of chemotherapy called targeted therapy may be tried. It uses a drug to focus on specific targets (molecules) in or on cancer cells. Using these targets, the drug disables the cancer cells so they cannot spread.High-dose chemotherapy may be given when NHL recurs or fails to respond to the first treatment administered. This is followed by an autologous stem cell transplant (using your own stem cells) to rescue the bone marrow after the high-dose chemotherapy. Stem cells from donors can also be used. With certain types of NHL, these treatment steps are used at first remission to try and achieve a cure. CAR-T cell therapy (a form of immunotherapy) can be used if lymphoma comes back or does not respond to other treatments.Blood transfusions or platelet transfusions may be required if blood counts are low.You and your provider may need to manage other concerns during your leukemia treatment, including:Having chemotherapy at homeManaging your pets during chemotherapyBleeding problemsDry mouthEating enough caloriesSupport Groups
+
+You can ease the stress of illness by joining a cancer support group. Sharing with others who have common experiences and problems can help you not feel alone.Outlook (Prognosis)
+
+Low-grade NHL often cannot be cured by chemotherapy alone. Low-grade NHL progresses slowly and may take many years before the disease gets worse or even requires treatment. The need for treatment is usually determined by the type of lymphoma, symptoms, and how fast the disease is progressing.Chemotherapy may cure many types of high-grade lymphomas. If the cancer does not respond to chemotherapy, the disease can cause rapid death.Possible Complications
+
+NHL itself and its treatments can lead to health problems. These include:Autoimmune hemolytic anemia, a condition in which red blood cells are destroyed by the immune systemInfectionSide effects of chemotherapy drugs Keep following up with a provider who knows about monitoring and preventing these complications.When to Contact a Medical Professional
+
+Contact your provider if you develop symptoms of this disorder.If you have NHL, contact your provider if you experience persistent fever or other signs of infection.Alternative Names
+
+Lymphoma - non-Hodgkin; Lymphocytic lymphoma; Histiocytic lymphoma; Lymphoblastic lymphoma; Cancer - non-Hodgkin lymphoma; NHL; Non-Hodgkin's lymphomaPatient Instructions
+
+Bone marrow transplant - discharge
+Chemotherapy - what to ask your doctor
+Radiation therapy - questions to ask your doctor
+Images
+
+
+Lymphoma, malignant - CT scan
+Immune system structures
+References
+
+Abramson JS. Non-Hodgkin lymphomas. In: Niederhuber JE, Armitage JO, Kastan MB, Doroshow JH, Tepper JE, eds. Abeloff's Clinical Oncology. 6th ed. Philadelphia, PA: Elsevier; 2020:chap 103.National Cancer Institute website. Adult non-Hodgkin lymphoma treatment (PDQ) - health professional version. www.cancer.gov/types/lymphoma/hp/adult-nhl-treatment-pdq. Updated February 17, 2023. Accessed March 13, 2023.National Cancer Institute website. Childhood non-Hodgkin lymphoma treatment (PDQ) - health professional version. www.cancer.gov/types/lymphoma/hp/child-nhl-treatment-pdq. Updated February 24, 2023. Accessed March 13, 2023.
+Review Date 2/2/2023
+
+
+Updated by: Mark Levin, MD, Hematologist and Oncologist, Monsey, NY. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Lymphoma

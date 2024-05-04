@@ -1,0 +1,31 @@
+source : https://medlineplus.gov/ency/article/000589.htm 
+ 
+ Polycythemia vera (PV) is a bone marrow disease that leads to an abnormal increase in the number of blood cells. The red blood cells are the most affected blood cell type.Causes
+
+PV is a disorder of the bone marrow. It mainly causes too many red blood cells to be produced. The numbers of white blood cells and platelets may also be higher than normal.PV is a rare disorder that occurs more often in men than in women. It is not usually seen in people under age 40. The problem is often linked to a gene defect called JAK2V617F. The cause of this gene defect is unknown. This gene defect is not an inherited disorder.Symptoms
+
+In people with PV, there are too many red blood cells in the blood. This results in thicker blood, which can't flow through small blood vessels normally, leading to symptoms such as:Trouble breathing when lying downDizzinessFeeling tired all the timeFull feeling in the left upper abdomen (due to enlarged spleen)HeadacheItchiness, especially after a warm bathRed skin coloring, especially of the faceShortness of breathSymptoms of blood clots in veins near the skin surface (phlebitis) Vision problemsRinging in the ears (tinnitus)Joint painExams and Tests
+
+The health care provider will perform a physical exam. You may also have the following tests:Bone marrow biopsyComplete blood count with differentialComprehensive metabolic panelErythropoietin levelGenetic test for the JAK2V617F mutationOxygen saturation of the bloodVitamin B12 levelPV may also affect the results of the following tests:Erythrocyte sedimentation rate (ESR)Lactate dehydrogenase (LDH)Leukocyte alkaline phosphatasePlatelet aggregation testSerum uric acidPV must be distinguished from other causes of increased red cells.Treatment
+
+The goal of treatment is to reduce the thickness of the blood and prevent bleeding and clotting problems.A method called phlebotomy is used to decrease blood thickness. One unit of blood (about 1 pint, or 1/2 liter) is removed each week until the number of red blood cells drops. The treatment is continued as needed.Medicines that may be used include:Hydroxyurea to reduce the number of red blood cells made by the bone marrow. This drug may be used when the numbers of other blood cell types are also high.Interferon to lower blood counts.Anagrelide to lower platelet counts.Ruxolitinib (Jakafi) to reduce the number of red blood cells and reduce an enlarged spleen. This drug is prescribed when hydroxyurea and other treatments have failed.Taking aspirin to reduce the risk of blood clots may be an option for some people, but aspirin increases the risk for stomach bleeding.Ultraviolet-B light therapy can reduce the severe itching some people experience.Support Groups
+
+More information and support for people with polycythemia vera and their families can be found at:Leukemia and Lymphoma Society -- www.lls.org/myeloproliferative-neoplasms/polycythemia-veraMPN Research Foundation -- www.mpnresearchfoundation.org/living-with-an-mpn/National Organization for Rare Disorders -- rarediseases.org/rare-diseases/polycythemia-vera/NIH Genetic and Rare Diseases Information Center -- rarediseases.info.nih.gov/diseases/7422/polycythemia-veraOutlook (Prognosis)
+
+PV usually develops slowly. Most people do not have symptoms related to the disease at the time of diagnosis. The condition is often diagnosed before severe symptoms occur.Possible Complications
+
+Complications of PV may include:Acute myelogenous leukemia (AML)Bleeding from the stomach or other parts of the intestinal tractGout (painful swelling of a joint)Heart failureMyelofibrosis (disorder of the bone marrow in which the marrow is replaced by fibrous scar tissue)Thrombosis (blood clotting, which can cause a stroke, heart attack, or other body damage)When to Contact a Medical Professional
+
+Contact your provider if symptoms of PV develop.Alternative Names
+
+Primary polycythemia; Polycythemia rubra vera; P. Vera; Myeloproliferative disorder; Erythremia; Splenomegalic polycythemia; Vaquez's disease; Osler's disease; Polycythemia with chronic cyanosis; Erythrocytosis megalosplenica; Cryptogenic polycythemiaReferences
+
+Gotlib J. Polycythemia vera, essential thrombocythemia, and primary myelofibrosis. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 157.Kremyanskaya M, Najfeld V, Mascarenhas J, Hoffman R. The polycythemias. In: Hoffman R, Benz EJ, Silberstein LE, Heslop HE, Weitz JI, Salama ME, et al, eds. Hematology: Basic Principles and Practice. 8th ed. Philadelphia, PA: Elsevier; 2023:chap 70.National Cancer Institute website. Chronic myeloproliferative neoplasms treatment (PDQ) -- health professional version. www.cancer.gov/types/myeloproliferative/hp/chronic-treatment-pdq#link/. Updated November 4, 2020. Accessed March 13, 2023.
+Review Date 2/2/2023
+
+
+Updated by: Mark Levin, MD, Hematologist and Oncologist, Monsey, NY. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Bone Marrow Diseases

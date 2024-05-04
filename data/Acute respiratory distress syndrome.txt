@@ -1,0 +1,48 @@
+source : https://medlineplus.gov/ency/article/000103.htm 
+ 
+ Acute respiratory distress syndrome (ARDS) is a life-threatening lung condition that prevents enough oxygen from getting to the lungs and into the blood. Infants can also have respiratory distress syndrome.Causes
+
+ARDS can be caused by any major direct or indirect injury to the lung. Common causes include:Breathing vomit into the lungs (aspiration)
+   Inhaling chemicals
+   
+   Lung transplant
+   Pneumonia, including COVID-19 infectionSeptic shock (infection throughout the body)
+   Transfusions (multiple)
+   Trauma
+   Depending on the amount of oxygen in the blood and during breathing, the severity of ARDS is classified as:MildModerateSevereARDS leads to a buildup of fluid in the air sacs (alveoli). This fluid prevents enough oxygen from passing into the bloodstream.The fluid buildup also makes the lungs heavy and stiff. This decreases the lungs' ability to expand. The level of oxygen in the blood can stay dangerously low, even if the person receives oxygen from a breathing machine (ventilator) through a breathing tube (endotracheal tube).ARDS often occurs along with the failure of other organ systems, such as the heart, liver or kidneys. Cigarette smoking and heavy alcohol use may be risk factors for its development.Symptoms
+
+Symptoms usually develop within 24 to 48 hours of the injury or illness. Often, people with ARDS are so sick they cannot report symptoms. Symptoms can include any of the following:Shortness of breathFast heartbeatLow blood pressure and organ failureRapid breathingExams and Tests
+
+Listening to the chest with a stethoscope (auscultation) reveals abnormal breath sounds, such as crackles, which may be signs of fluid in the lungs. Often, blood pressure is low. Blue skin, lips, and nails caused by lack of oxygen to the tissues (cyanosis) is often seen.Tests used to diagnose ARDS include:Arterial blood gasBlood tests, including CBC (complete blood count) and blood chemistriesBlood and urine culturesBronchoscopy in some peopleChest x-ray or CT scanSputum cultures and analysisTests for possible infections An echocardiogram may be needed to rule out heart failure, which can look similar to ARDS on a chest x-ray.Treatment
+
+ARDS often needs to be treated in an intensive care unit (ICU).The goal of treatment is to provide breathing support and treat the cause of ARDS. This may involve medicines to treat infections, reduce inflammation, and remove fluid from the lungs.A ventilator is used to deliver high doses of oxygen and positive pressure to the damaged lungs. People often need to be deeply sedated with medicines. During treatment, your health care providers make every effort to protect your lungs from further damage. Certain ways of using the ventilator can protect your lungs better and improve chances of recovery. Treatment is mainly supportive until the lungs recover.Sometimes, a treatment called extracorporeal membrane oxygenation (ECMO) is done. During ECMO, blood is filtered through a machine to provide oxygen and remove carbon dioxide.Support Groups
+
+Many family members of people with ARDS are under extreme stress. They can often relieve this stress by joining support groups where members share common experiences and problems.Outlook (Prognosis)
+
+About one third of people with ARDS die of the disease. Those who live often get back most of their normal lung function, but many people have permanent (usually mild) lung damage.Many people who survive ARDS have memory loss or other quality-of-life problems after they recover. This is due to brain damage that occurred when the lungs were not working properly and the brain was not getting enough oxygen. Some people can also have post-traumatic stress after surviving ARDS.Possible Complications
+
+Problems that may result from ARDS or its treatment include:Failure of many organ systemsLung damage, such as a collapsed lung (also called pneumothorax) due to injury from the breathing machine needed to treat the diseasePulmonary fibrosis (scarring of the lung)Ventilator-associated pneumoniaWhen to Contact a Medical Professional
+
+ARDS most often occurs during another illness, for which the person is already in the hospital. In some cases, a healthy person has severe pneumonia that gets worse and becomes ARDS. If you have trouble breathing, call your local emergency number (such as 911) or go to the emergency room.Alternative Names
+
+Noncardiogenic pulmonary edema; Increased-permeability pulmonary edema; ARDS; Acute lung injuryPatient Instructions
+
+Colds and the flu - what to ask your doctor - adult
+Colds and the flu - what to ask your doctor - child
+When your baby or infant has a fever
+Images
+
+
+Lungs
+Respiratory system
+References
+
+Binnie A, Herridge MS, Lee WL. Acute respiratory distress syndrome. In: Broaddus VC, Ernst JD, King TE, et al, eds. Murray and Nadel's Textbook of Respiratory Medicine. 7th ed. Philadelphia, PA: Elsevier; 2022:chap 134.Matthay MA, Ware LB. Acute respiratory failure. In: Goldman L, Cooney KA, eds. Goldman-Cecil Medicine. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 90.Seigel TA, Johnson NJ. Mechanical ventilation and noninvasive ventilatory support. In: Walls RM, ed. Rosen's Emergency Medicine: Concepts and Clinical Practice. 10th ed. Philadelphia, PA: Elsevier; 2023:chap 2.
+Review Date 11/25/2023
+
+
+Updated by: Denis Hadjiliadis, MD, MHS, Paul F. Harron, Jr. Professor of Medicine, Pulmonary, Allergy, and Critical Care, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.  
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Respiratory Failure

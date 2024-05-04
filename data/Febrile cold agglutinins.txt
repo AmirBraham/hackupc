@@ -1,0 +1,35 @@
+source : https://medlineplus.gov/ency/article/003549.htm 
+ 
+ Agglutinins are antibodies that cause the red blood cells to clump together.Cold agglutinins are active at cold temperatures.Febrile (warm) agglutinins are active at normal body temperatures.This article describes the blood test that is used to measure the level of these antibodies in the blood.How the Test is Performed
+
+A blood sample is needed.How to Prepare for the Test
+
+There is no special preparation.How the Test will Feel
+
+When the needle is inserted to draw blood, some people feel moderate pain. Others feel only a prick or stinging. Afterward, there may be some throbbing where the needle was inserted.Why the Test is Performed
+
+This test is done to diagnose certain infections and find the cause of hemolytic anemia (a type of anemia that occurs when red blood cells are destroyed). Knowing whether there are warm or cold agglutinins can help explain why the hemolytic anemia is occurring and direct treatment.Normal Results
+
+Normal results are:Warm agglutinins: no agglutination in titers at or below 1:80Cold agglutinins: no agglutination in titers at or below 1:16The examples above are common measurements for results of these tests. Normal value ranges may vary slightly among different laboratories. Some labs use different measurements or test different samples. Talk to your doctor about the meaning of your specific test results.What Abnormal Results Mean
+
+An abnormal (positive) result means there were agglutinins in your blood sample.Warm agglutinins may occur with:Infections, including brucellosis, rickettsial disease, salmonella infection, and tularemiaInflammatory bowel diseaseLymphomaSystemic lupus erythematosusUse of certain medicines, including methyldopa, penicillin, and quinidine Cold agglutinins may occur with:Infections, such as infectious mononucleosis and mycoplasma pneumoniaChicken pox (varicella)Cytomegalovirus infectionCancer, including lymphoma and multiple myelomaListeria monocytogenesSystemic lupus erythematosusWaldenström macroglobulinemia Risks
+
+Risks are slight but may include:Excessive bleedingFainting or feeling lightheadedHematoma (blood accumulating under the skin)Infection (a slight risk any time the skin is broken)Considerations
+
+If a disease linked to cold agglutinin is suspected, the person needs to be kept warm.Alternative Names
+
+Cold agglutinins; Weil-Felix reaction; Widal test; Warm agglutinins; AgglutininsImages
+
+
+Blood test
+References
+
+Baum SG, Goldman DL. Mycoplasma infections. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 301.Elghetany MT, Banki K. Erythrocytic disorders. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 33.Michel M, Jäger U. Autoimmune hemolytic anemia. In: Hoffman R, Benz EJ, Silberstein LE, et al, eds. Hematology: Basic Principles and Practice. 7th ed. Philadelphia, PA: Elsevier; 2018:chap 46.Quanquin NM, Cherry JD. Mycoplasma and ureaplasma infections. In: Cherry JD, Harrison GJ, Kaplan SL, Steinbach WJ, Hotez PJ, eds. Feigin and Cherry's Textbook of Pediatric Infectious Diseases. 8th ed. Philadelphia, PA: Elsevier; 2019:chap 196.
+Review Date 5/4/2022
+
+
+Updated by: Michael M. Phillips, MD, Emeritus Professor of Medicine, The George Washington University School of Medicine, Washington, DC. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.  
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Anemia

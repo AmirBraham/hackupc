@@ -1,0 +1,18 @@
+source : https://medlineplus.gov/ency/article/002050.htm 
+ 
+ Sex-linked dominant is a rare way that a trait or disorder can be passed down through families. One abnormal gene on the X chromosome can cause a sex-linked dominant disease.Related terms and topics include:Autosomal dominantAutosomal recessiveChromosomeGeneHeredity and diseaseInheritanceSex-linked recessiveInformation
+
+Inheritance of a specific disease, condition, or trait depends on the type of chromosome that is affected. It can be either an autosomal chromosome or a sex chromosome. It also depends on whether the trait is dominant or recessive. Sex-linked diseases are inherited through one of the sex chromosomes, which are the X and Y chromosomes.Dominant inheritance occurs when an abnormal gene from one parent can cause a disease, even though a matching gene from the other parent is normal. The abnormal gene dominates the gene pair.For an X-linked dominant disorder: If the father carries the abnormal X gene, all of his daughters will inherit the disease and none of his sons will have the disease. That is because daughters always inherit their father's X chromosome. If the mother carries the abnormal X gene, half of all their children (daughters and sons) will inherit the disease tendency.For example, if there are four children (two boys and two girls) and the mother is affected (she has one abnormal X and has the disease) but the father does not have the abnormal X gene, the expected odds are:Two children (one girl and one boy) will have the diseaseTwo children (one girl and one boy) will not have the disease If there are four children (two boys and two girls) and the father is affected (he has one abnormal X and has the disease) but the mother is not, the expected odds are:Two girls will have the diseaseTwo boys will not have the disease These odds do not mean that the children who inherit the abnormal X will show severe symptoms of the disease. The chance of inheritance is new with each conception, so these expected odds may not be what actually occurs in a family. Some X-linked dominant disorders are so severe that males with the genetic disorder may die before birth. Therefore, there may be an increased rate of miscarriages in the family or fewer male children than expected.Alternative Names
+
+Inheritance - sex-linked dominant; Genetics - sex-linked dominant; X-linked dominant; Y-linked dominantImages
+
+
+Genetics
+References
+
+Feero WG, Zazove P, Chen F. Clinical genomics. In: Rakel RE, Rakel DP, eds. Textbook of Family Medicine. 9th ed. Philadelphia, PA: Elsevier; 2016:chap 43.Gregg AR, Kuller JA. Human genetics and patterns of inheritance. In: Resnik R, Lockwood CJ, Moore TR, Greene MF, Copel JA, Silver RM, eds. Creasy and Resnik's Maternal-Fetal Medicine: Principles and Practice. 8th ed. Philadelphia, PA: Elsevier; 2019:chap 1.Jorde LB, Carey JC, Bamshad MJ. Sex-linked and nontraditional modes of inheritance. In: Jorde LB, Carey JC, Bamshad MJ, eds. Medical Genetics. 6th ed. Philadelphia, PA: Elsevier; 2020:chap 5.Korf BR. Principles of genetics. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 35.
+Review Date 1/6/2022
+
+
+Updated by: Anna C. Edens Hurst, MD, MS, Associate Professor in Medical Genetics, The University of Alabama at Birmingham, Birmingham, AL. Review provided by VeriMed Healthcare Network. Also reviewed by David Zieve, MD, MHA, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team. 
+Learn how to cite this page

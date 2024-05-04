@@ -1,0 +1,38 @@
+source : https://medlineplus.gov/ency/article/003787.htm 
+ 
+ A lumbosacral spine CT is a computed tomography scan of the lower spine and surrounding tissues.How the Test is Performed
+
+You will be asked to lie on a narrow table that slides into the center of the CT scanner. You will need to lie on your back for this test.Once inside the scanner, the machine's x-ray beam rotates around you.Small detectors inside the scanner measure the amount of x-rays that make it through the part of the body being studied. A computer takes this information and uses it to create a number of images, called slices. These images can be stored, viewed on a monitor, printed on film or saved on a disk. Three-dimensional models of organs can be created by stacking the individual slices together.You must be still during the exam, because movement causes blurred images. You may be told to hold your breath for short periods of time.In some cases, an iodine-based dye, called contrast, may be injected into your vein before images are taken. Contrast can highlight specific areas inside the body, which creates a clearer image.In other cases, a CT of the lumbosacral spine is done after injecting contrast dye into the spinal canal during a lumbar puncture to further check for compression on the nerves. This is called a CT myelogram.The scan usually lasts a few minutes.How to Prepare for the Test
+
+You should remove all jewelry or other metal objects before the test. This is because they may cause inaccurate and blurry images.If you do need a lumbar puncture, you may be asked to stop your blood thinners or anti-inflammatory medicines (NSAIDs) several days before the procedure. Check with your health care provider ahead of time.How the Test will Feel
+
+The x-rays are painless. Some people may have discomfort from lying on the hard table.Contrast may cause a slight burning sensation, a metallic taste in the mouth, and a warm flushing of the body. These sensations are normal and usually go away within a few seconds.Why the Test is Performed
+
+CT rapidly creates detailed pictures of the body. A CT of the lumbosacral spine can evaluate fractures and changes in the spine, such as those due to arthritis or deformities.What Abnormal Results Mean
+
+CT of the lumbosacral spine may reveal the following conditions or diseases:CystHerniated diskSpinal stenosisInfectionCancer that has spread to the spineOsteoarthritisOsteomalacia (softening of the bones)Pinched nerveTumorVertebral fracture (broken spine bone)Risks
+
+The most common type of contrast given into a vein contains iodine. If a person with an iodine allergy is given this type of contrast, then hives, itching, nausea, breathing difficulty, or other symptoms may occur.If you have kidney problems, diabetes or are on kidney dialysis, talk to your provider before the test about your risks of having contrast studies.CT scans and other x-rays are strictly monitored and controlled to make sure they use the least amount of radiation. The risk associated with any individual scan is small. The risk increases when many more scans are performed.In some cases, a CT scan may still be done if the benefits greatly outweigh the risks. For example, it can be more risky not to have the exam if your provider thinks you might have cancer.Pregnant or breastfeeding women should consult their provider about the risk of CT scans to the baby. Radiation during pregnancy can affect the baby, and the dye used with CT scans can enter breast milk.Alternative Names
+
+Spinal CT; CT - lumbosacral spine; Low back pain - CT; LBP - CTImages
+
+
+CT scan
+Skeletal spine
+Vertebra, lumbar (low back)
+Vertebra, thoracic (mid back)
+Lumbar vertebrae
+References
+
+Reekers JA. Angiography: principles, techniques and complications. In: Adam A, Dixon AK, Gillard JH, Schaefer-Prokop CM, eds. Grainger & Allison's Diagnostic Radiology. 7th ed. Philadelphia, PA: Elsevier; 2021:chap 78.Van Thielen T, van den Hauwe L, Van Goethem JW, Parizel PM. Current status of imaging of the spine and anatomical features. In: Adam A, Dixon AK, Gillard JH, Schaefer-Prokop CM, eds. Grainger & Allison's Diagnostic Radiology. 7th ed. Philadelphia, PA: Elsevier; 2021:chap 47.
+Review Date 9/20/2022
+
+
+Updated by: C. Benjamin Ma, MD, Professor, Chief, Sports Medicine and Shoulder Service, UCSF Department of Orthopaedic Surgery, San Francisco, CA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+CT Scans
+Herniated Disk
+Osteoarthritis
+Spine Injuries and Disorders

@@ -1,0 +1,39 @@
+source : https://medlineplus.gov/ency/article/000701.htm 
+ 
+ Subarachnoid hemorrhage is bleeding in the area between the brain and the thin tissues that cover the brain. This area is called the subarachnoid space. Subarachnoid bleeding is an emergency and prompt medical attention is needed.Causes
+
+Subarachnoid hemorrhage can be caused by:Bleeding from a tangle of blood vessels called an arteriovenous malformation (AVM)Bleeding disorderBleeding from a cerebral aneurysm (weak area in the wall of a blood vessel that causes the blood vessel to bulge or balloon out)Head injuryUnknown cause (idiopathic)Use of blood thinnersSubarachnoid hemorrhage caused by head injury in older people is often due to falls. Among the young, the most common injury leading to subarachnoid hemorrhage is motor vehicle crashes. When caused by trauma, subarachnoid hemorrhage commonly occurs with other types of bleeding in the head.Risks include:
+   Unruptured aneurysm in the brain and other blood vesselsFibromuscular dysplasia (FMD) and other connective tissue and autoimmune disordersHigh blood pressureHistory of polycystic kidney diseaseSmokingUse of illicit drugs such as cocaine and methamphetamineUse of blood thinners such as warfarinA strong family history of aneurysms may also increase your risk.Symptoms
+
+The main symptom is a severe headache that starts suddenly (often called thunderclap headache). It is often worse near the back of the head. Many people often describe it as the "worst headache ever" and unlike any other type of headache pain. The headache may start after a popping or snapping feeling in the head.Other symptoms:Decreased consciousness and alertnessEye discomfort in bright light (photophobia)Mood and personality changes, including confusion and irritability 
+ Muscle aches (especially neck pain and shoulder pain)Nausea and vomitingNumbness in part of the bodySeizureStiff neck 
+ Vision problems, including double vision, blind spots, or temporary vision loss in one eyeOther symptoms that may occur with this disease:Eyelid droopingPupil size differenceSudden stiffening of back and neck, with arching of the back (opisthotonos; not very common)Exams and Tests
+
+Signs include:A physical exam may show a stiff neck.A brain and nervous system exam may show signs of decreased nerve and brain function (focal neurologic deficit).An eye exam may show decreased eye movements which may indicate damage to the cranial nerves (in milder cases, an eye exam may show no problems).If your doctor thinks you have a subarachnoid hemorrhage, a head CT scan (without contrast dye) will be done right away. In some cases, the scan is normal, especially if there has only been a small bleed. If the CT scan is normal, a lumbar puncture (spinal tap) may be done. Additional CT scans may be needed for further confirmation.Other tests that may be done include:Cerebral angiography of blood vessels of the brainCT scan angiography (using contrast dye)Transcranial Doppler ultrasound, to look at blood flow in the arteries of the brainMagnetic resonance imaging (MRI) and magnetic resonance angiography (MRA) (occasionally) Blood tests to check for bleeding disordersTreatment
+
+The goals of treatment are to:Save your lifeRepair the cause of bleedingRelieve symptomsPrevent complications such as permanent brain damage (stroke)Surgery may be done to:Remove large collections of blood or relieve pressure on the brain if the hemorrhage is due to an injuryRepair the aneurysm if the hemorrhage is due to an aneurysm ruptureIf the person is critically ill, surgery may have to wait until the person is more stable.Surgery may involve:Craniotomy (cutting a hole in the skull) and aneurysm clipping, to close the aneurysmEndovascular coiling: placing coils in the aneurysm and stents in the blood vessel to cage the coils reduces the risk of further bleedingIf no aneurysm is found, the person should be closely watched by a health care team and may need more imaging tests.Treatment for coma or decreased alertness includes:Draining tube placed in the brain to relieve pressureLife supportMethods to protect the airwaySpecial positioningSpecial medicines to decrease swelling in the skullA person who is conscious may need to be on strict bed rest. The person will be told to avoid activities that can increase pressure inside the head, including:Bending overStrainingSuddenly changing positionTreatment may also include:Medicines given through an IV line to control blood pressureMedicine to prevent artery spasmsPainkillers and anti-anxiety medicines to relieve headacheMedicines to prevent or treat seizuresStool softeners or laxatives to prevent straining during bowel movementsMedicines to prevent seizuresOutlook (Prognosis)
+
+How well a person with subarachnoid hemorrhage does depends on a number of different factors, including:Location and amount of bleedingComplications Older age and more severe symptoms can lead to a poorer outcome.People can recover completely after treatment. But some people die, even with treatment.Possible Complications
+
+Repeated bleeding is the most serious complication. If a cerebral aneurysm bleeds for a second time, the outlook is much worse.Changes in consciousness and alertness due to a subarachnoid hemorrhage may become worse and lead to coma or death.Other complications include:Complications of surgeryMedicine side effectsSeizuresStrokeWhen to Contact a Medical Professional
+
+Go to the emergency room or call 911 or the local emergency number if you or someone you know has symptoms of a subarachnoid hemorrhage.Prevention
+
+The following measures may help prevent subarachnoid hemorrhage:Stopping smokingTreating high blood pressureIdentifying and successfully treating an aneurysmNot using illicit drugsAlternative Names
+
+Hemorrhage - subarachnoid; Subarachnoid bleedingPatient Instructions
+
+Headache - what to ask your doctor 
+References
+
+Mayer SA. Hemorrhagic cerebrovascular disease. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 380.Szeder V, Tateshima S, Jahan R, Saver JL, Duckwiler GR. Intracranial aneurysms and subarachnoid hemorrhage. In: Jankovic J, Mazziotta JC, Pomeroy SL, Newman NJ, eds. Bradley and Daroff's Neurology in Clinical Practice. 8th ed. Philadelphia, PA: Elsevier; 2022:chap 67.
+Review Date 1/23/2023
+
+
+Updated by: Joseph V. Campellone, MD, Department of Neurology, Cooper Medical School of Rowan University, Camden, NJ. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Bleeding
+Brain Aneurysm
+Hemorrhagic Stroke

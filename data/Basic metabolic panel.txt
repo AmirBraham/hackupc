@@ -1,0 +1,28 @@
+source : https://medlineplus.gov/ency/article/003462.htm 
+ 
+ The basic metabolic panel is a group of blood tests that provides information about your body's metabolism.How the Test is Performed
+
+A blood sample is needed. Most of the time, blood is drawn from a vein located on the inside of the elbow or the back of the hand.How to Prepare for the Test
+
+Your health care provider may ask you to not eat or drink for 8 hours before the test.How the Test will Feel
+
+You may feel slight pain or a sting when the needle is inserted. You may also feel some throbbing at the site after the blood is drawn.Why the Test is Performed
+
+This test is done to evaluate:Kidney functionBlood acid/base balanceSodium and potassium levelsBlood sugar levelsBlood calcium levelNormal Results
+
+The basic metabolic panel typically measures these blood chemicals. The following are normal ranges for the substances tested:BUN: 6 to 20 mg/dL (2.14 to 7.14 mmol/L)CO2 (carbon dioxide): 23 to 29 mmol/LCreatinine: 0.8 to 1.2 mg/dL (70.72 to 106.08 micromol/L)Glucose: 64 to 100 mg/dL (3.55 to 5.55 mmol/L)Serum chloride: 96 to 106 mmol/LSerum potassium: 3.7 to 5.2 mEq/L (3.7 to 5.2 mmol/L)Serum sodium: 136 to 144 mEq/L (136 to 144 mmol/L)Serum calcium: 8.5 to 10.2 mg/dL (2.13 to 2.55 millimol/L)Key to abbreviations:L = literdL = deciliter = 0.1 litermg = milligrammmol = millimolemEq = milliequivalentsNormal value ranges may vary slightly among different laboratories. Talk to your provider about the meaning of your specific test results.The examples above show the common measurements for results for these tests. Some laboratories use different measurements or may test different specimens.What Abnormal Results Mean
+
+Abnormal results can be due to a variety of different medical conditions, including kidney disease, breathing problems, diabetes or diabetes-related complications, and medicine side effects. Talk to your provider about the meaning of your results from each test.Alternative Names
+
+SMAC7; Sequential multi-channel analysis with computer-7; SMA7; Metabolic panel 7; CHEM-7References
+
+Cohn SI. Preoperative evaluation. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 403.Oh MS, Briefel G, Pincus MR. Evaluation of renal function, water, electrolytes, and acid-base balance. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 15.
+Review Date 6/20/2023
+
+
+Updated by: Jacob Berman, MD, MPH, Clinical Assistant Professor of Medicine, Division of General Internal Medicine, University of Washington School of Medicine, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Fluid and Electrolyte Balance
+Kidney Tests

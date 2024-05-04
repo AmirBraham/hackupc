@@ -1,0 +1,39 @@
+source : https://medlineplus.gov/ency/article/000295.htm 
+ 
+ Shigellosis is a bacterial infection of the lining of the intestines. It is caused by a group of bacteria called Shigella.Causes
+
+There are several types of Shigella bacteria, including:Shigella sonnei, also called "group D" Shigella, is responsible for most cases of shigellosis in the United States.Shigella flexneri, or "group B" Shigella, causes almost all other cases.Shigella dysenteriae, or "group A" Shigella is rare in the United States. However, it can lead to deadly outbreaks in developing countries. People infected with the bacteria release it into their stool. They can spread the bacteria to water or food, or directly to another person. Getting just a little bit of the Shigella bacteria into your mouth is enough to cause infection.Outbreaks of shigellosis are linked with poor sanitation, contaminated food and water, and crowded living conditions.Shigellosis is common among travelers in developing countries and workers or residents in refugee camps.In the United States, the condition is most commonly seen in daycare centers and places where groups of people live, such as nursing homes.Symptoms
+
+Symptoms often develop about 1 to 7 days (average 3 days) after coming into contact with the bacteria.Symptoms include:Acute (sudden) abdominal pain or crampingAcute feverBlood, mucus, or pus in the stoolCrampy rectal painNausea and vomitingWatery and bloody diarrheaExams and Tests
+
+If you have symptoms of shigellosis, your health care provider will check for:Dehydration (not enough fluids in your body) with a fast heart rate and low blood pressureAbdominal tendernessElevated level of white blood cells in the bloodStool culture
+ to check for the presence of the bacteriaTreatment
+
+The goal of treatment is to replace fluids and electrolytes (salt and minerals) that are lost in diarrhea.Medicines that stop diarrhea are generally not given because they can cause the infection to take longer to go away.Self-care measures to avoid dehydration include drinking electrolyte solutions to replace the fluids lost by diarrhea. Several types of electrolyte solutions are available over-the-counter (without a prescription).Antibiotics can help shorten the length of the illness. These medicines also help prevent the illness from spreading to others in group living or daycare settings. They may also be prescribed for people with severe symptoms.If you have diarrhea and cannot drink fluids by mouth because of severe nausea, you may need medical care and intravenous (IV) fluids. This is more common in small children who have shigellosis.People who take diuretics ("water pills") may need to stop taking these medicines if they have acute Shigella enteritis. Never stop taking any medicine without first talking to your provider.Outlook (Prognosis)
+
+The infection can be mild and goes away on its own. Most people, except malnourished children and those with weakened immune systems, typically recover fully.Possible Complications
+
+Complications may include: Dehydration, severeHemolytic-uremic syndrome (HUS), a form of kidney failure with anemia and clotting problemsReactive arthritisAbout 1 in 10 children (under age 15) with severe Shigella enteritis develop nervous system problems. These may include febrile seizures (also called a "fever fit") when body temperature rises quickly and the child has seizures. A brain disease (encephalopathy) with headache, lethargy, confusion, and stiff neck can also develop.When to Contact a Medical Professional
+
+Contact your provider if diarrhea does not improve, if there is blood in the stool, or if there are signs of dehydration.Go to the emergency room if these symptoms occur in a person with shigellosis:ConfusionHeadache with stiff neckLethargySeizuresThese symptoms are most common in children.Prevention
+
+Prevention includes properly handling, storing, and preparing food, and good personal hygiene. Handwashing is the most effective way to prevent shigellosis. Avoid food and water that may be contaminated.Alternative Names
+
+Shigella gastroenteritis; Shigella enteritis; Enteritis - shigella; Gastroenteritis - shigella; Traveler's diarrhea - shigellosisImages
+
+
+Digestive system
+Digestive system organs
+Bacteria
+References
+
+Melia JMP, Sears CL. Infectious enteritis and proctocolitis. In: Feldman M, Friedman LS, Brandt LJ, eds. Sleisenger and Fordtran's Gastrointestinal and Liver Disease. 11th ed. Philadelphia, PA: Elsevier; 2021:chap 110.Keusch GT, Zaidi AKM. Shigellosis. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 293.Kotloff KL. Acute gastroenteritis in children. In: Kliegman RM, St. Geme JW, Blum NJ, Shah SS, Tasker RC, Wilson KM, eds. Nelson Textbook of Pediatrics. 21st ed. Philadelphia, PA: Elsevier; 2020:chap 366.Kotloff KL, Riddle MS, Platts-Mills JA, Pavlinac P, Zaidi AKM. Shigellosis. Lancet. 2018;391(10122):801-812. PMID: 29254859 pubmed.ncbi.nlm.nih.gov/29254859/.
+Review Date 3/10/2022
+
+
+Updated by: Jatin M. Vyas, MD, PhD, Associate Professor in Medicine, Harvard Medical School; Associate in Medicine, Division of Infectious Disease, Department of Medicine, Massachusetts General Hospital, Boston, MA. Also reviewed by David Zieve, MD, MHA, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Bacterial Infections
+Foodborne Illness

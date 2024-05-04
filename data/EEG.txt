@@ -1,0 +1,40 @@
+source : https://medlineplus.gov/ency/article/003931.htm 
+ 
+ An electroencephalogram (EEG) is a test to measure the electrical activity of the brain.How the Test is Performed
+
+The test is done by an electroencephalogram (EEG) technologist in your health care provider's office or at a hospital or laboratory.The test is done in the following way:You lie on your back on a bed or in a reclining chair.Flat metal disks called electrodes are placed on many spots on your scalp. The disks are held in place with a sticky paste. The electrodes are connected by wires to a recording machine. The machine changes the electrical signals into patterns that can be seen on a monitor or drawn on paper. These patterns look like wavy lines.You need to lie still during the test with your eyes closed. This is because movement can change the results. You may be asked to do certain things during the test, such as breathe fast and deeply for several minutes or look at a bright flashing light.You may be asked to sleep during the test. If your provider needs to monitor your brain activity for a longer period, an ambulatory EEG will be ordered. In addition to the electrodes, you will wear or carry a special recorder for up to 3 days. You will be able to go about your normal routine as the EEG is being recorded. Or, your provider may ask you to stay overnight in a special EEG monitoring unit where your brain activity will be monitored continuously. Video recording may be done at the same time to see what you are doing during the various electrical signals.How to Prepare for the Test
+
+Wash your hair the night before the test. Do not use conditioner, oils, sprays, or gel on your hair. If you have a hair weave, ask your provider for special instructions.Your provider may want you to stop taking certain medicines before the test. Do not change or stop taking any medicines without first talking to your provider. Bring a list of your medicines with you.Avoid all food and drinks containing caffeine for 8 hours before the test.You may need to sleep during the test. If so, you may be asked to reduce your sleep time the night before. If you are asked to sleep as little as possible before the test, do not eat or drink any caffeine, energy drinks, or other products that help you stay awake.Follow any other specific instructions you are given.How the Test will Feel
+
+The electrodes may feel sticky and strange on your scalp, but should not cause any other discomfort. You should not feel any discomfort during the test. Why the Test is Performed
+
+Brain cells communicate with each other by producing tiny electrical signals, called impulses. An EEG measures this activity. It can be used to diagnose or monitor the following health conditions:Seizures and epilepsyAbnormal changes in body chemistry that affect the brainBrain diseases, such as Alzheimer disease or certain infectionsConfusionFainting spells or periods of memory loss that cannot be explained otherwiseHead injuriesInfectionsTumors EEG is also used to:Evaluate problems with sleep (sleep disorders)Monitor the brain during brain surgery An EEG may be done to show that the brain has no activity, in the case of someone who is in a deep coma. It can be helpful when trying to decide if a person is brain dead.EEG cannot be used to measure intelligence.Normal Results
+
+Brain electrical activity has a certain number of waves per second (frequencies) that are normal for different levels of alertness. For example, brain waves are faster when you are awake and slower in certain stages of sleep.There are also normal patterns to these waves. Note: A normal EEG does not mean that a seizure did not occur.What Abnormal Results Mean
+
+Abnormal results on an EEG test may be due to:Abnormal bleeding (hemorrhage) in the brainAn abnormal structure in the brain (such as a brain tumor)Tissue death due to a blockage in blood flow (cerebral infarction, also called a stroke)Drug or alcohol abuseHead injuryMigraines (in some cases)Seizure disorder (such as epilepsy)Sleep disorder (such as narcolepsy)Swelling of the brain (edema) Brain infectionKidney or liver diseaseRisks
+
+An EEG test is very safe. The flashing lights or fast breathing (hyperventilation) required during the test may trigger seizures in those with seizure disorders. The provider performing the EEG is trained to take care of you if this happens.Alternative Names
+
+Electroencephalogram; Brain wave test; Epilepsy - EEG; Seizure - EEGImages
+
+
+Brain
+References
+
+Deluca GC, Griggs RC, Johnston C. Approach to the patient with neurologic disease. In: Goldman L, Cooney KA, eds. Goldman-Cecil Medicine. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 366.Hahn CD, Emerson RG. Electroencephalography and evoked potentials. In: Jankovic J, Mazziotta JC, Pomeroy SL, Newman NJ, eds. Bradley and Daroff's Neurology in Clinical Practice. 8th ed. Philadelphia, PA: Elsevier; 2022:chap 35.
+Review Date 1/23/2023
+
+
+Updated by: Joseph V. Campellone, MD, Department of Neurology, Cooper Medical School of Rowan University, Camden, NJ. Review provided by VeriMed Healthcare Network. Internal review and update on 02/23/24 by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.  
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Brain Diseases
+Coma
+Epilepsy
+Neurologic Diseases
+Seizures
+Sleep Disorders
+Stroke
+Traumatic Brain Injury

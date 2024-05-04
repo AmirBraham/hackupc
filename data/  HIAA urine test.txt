@@ -1,0 +1,29 @@
+source : https://medlineplus.gov/ency/article/003612.htm 
+ 
+ 5-HIAA is a urine test that measures the amount of 5-hydroxyindoleacetic acid (5-HIAA). 5-HIAA is a breakdown product of a hormone called serotonin.This test tells how much 5-HIAA the body is producing, which reflects how much serotonin is in the body.How the Test is Performed
+
+A 24-hour urine sample is needed. You'll need to collect your urine over 24 hours in a container provided by the laboratory. Your health care provider will tell you how to do this. Follow instructions exactly.How to Prepare for the Test
+
+Your provider will instruct you, if necessary, to stop taking medicines that may interfere with the test.Medicines that can increase 5-HIAA measurements include acetaminophen (Tylenol), acetanilide, phenacetin, glyceryl guaiacolate (found in many cough syrups), methocarbamol, and reserpine.Medicines that can decrease 5-HIAA measurements include heparin, isoniazid, levodopa, monoamine oxidase inhibitors, methenamine, methyldopa, phenothiazines, and tricyclic antidepressants.You will be told not to eat certain foods for 3 days before the test. Foods that can interfere with 5-HIAA measurements include plums, pineapples, bananas, eggplant, tomatoes, avocados, and walnuts.How the Test will Feel
+
+The test involves only normal urination, and there is no discomfort.Why the Test is Performed
+
+This test measures the level of 5-HIAA in the urine. It is often done to detect certain tumors in the digestive tract (carcinoid tumors) and to track a person's condition.Normal Results
+
+The normal range is 2 to 9 mg/24h (10.4 to 46.8 µmol/24h).Normal value ranges may vary slightly among different laboratories. Some labs use different measurements or test different samples. Talk to your provider about the meaning of your specific test results.What Abnormal Results Mean
+
+Abnormal results may be due to:Tumors of the endocrine system or carcinoid tumorsRisks
+
+There are no risks with this test.Alternative Names
+
+HIAA; 5-hydroxyindole acetic acid; Serotonin metaboliteReferences
+
+Chernecky CC, Berger BJ. H. In: Chernecky CC, Berger BJ, eds. Laboratory Tests and Diagnostic Procedures. 6th ed. Philadelphia, PA: Elsevier Saunders; 2013:660-661.Wolin EM, Jensen RT. Neuroendocrine tumors. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 219.
+Review Date 8/15/2022
+
+
+Updated by: Todd Gersten, MD, Hematology/Oncology, Florida Cancer Specialists & Research Institute, Wellington, FL. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Carcinoid Tumors

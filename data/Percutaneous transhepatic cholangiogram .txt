@@ -1,0 +1,41 @@
+source : https://medlineplus.gov/ency/article/003820.htm 
+ 
+ A percutaneous transhepatic cholangiogram (PTC) is an x-ray of the bile ducts. These are the tubes that carry bile from the liver to the gallbladder and small intestine.How the Test is Performed
+
+The test is performed in a radiology department by an interventional radiologist.You will be asked to lie on your back on the x-ray table. The provider will clean the upper right and middle area of your belly area and then apply a numbing medicine.X-rays and ultrasound are used to help the health care provider locate your liver and bile ducts. A long, thin, flexible needle is then inserted through the skin into the liver. The provider injects dye, called contrast medium, into the bile ducts. Contrast helps highlight certain areas so they can be seen. More x-rays are taken as the dye flows through the bile ducts into the small intestine. This can be seen on a video monitor.You will be given medicine to calm you (sedation) for this procedure. Rarely, you may receive general anesthesia, so you will be asleep.How to Prepare for the Test
+
+Inform your provider if you are pregnant or have a bleeding disorder.You will be given a hospital gown to wear and you will be asked to remove all jewelry.You will be asked not to eat or drink anything for 6 hours prior to the exam.Tell your provider if you are taking any blood thinners such as Warfarin (coumadin), Plavix (clopidogrel), Pradaxa, or Xarelto.How the Test will Feel
+
+There will be a sting as the anesthetic is given. You may have some discomfort as the needle is advanced into the liver. You will have sedation for this procedure.Why the Test is Performed
+
+This test can help diagnose the cause of a bile duct blockage. Bile is a liquid released by the liver. It contains cholesterol, bile salts, and waste products. Bile salts help your body break down (digest) fats. A blockage of the bile duct can lead to jaundice (yellow discoloration of the skin), itching of the skin, or infection of the liver, gallbladder or pancreas.When it is performed, PTC is most often the first part of a two-step process to relieve or treat a blockage.The PTC makes a "roadmap" of the bile ducts, which can be used to plan the treatment.After the roadmap is done, the blockage can be treated by either placing a stent or a thin tube called a drain.The drain or stent will help the body get rid of the bile from the body. That process is called percutaneous biliary drainage (PTBD). Normal Results
+
+The bile ducts are normal in size and appearance for the age of the person.What Abnormal Results Mean
+
+The results may show that the ducts are enlarged. This may mean the ducts are at least partially blocked. The blockage may be caused by scarring or stones. It may also indicate cancer in the bile ducts, liver, pancreas, or gallbladder.Risks
+
+There is a slight chance of an allergic reaction to the contrast medium (iodine). There is also a small risk for:Damage to nearby organsDamage to the liverExcessive blood lossBlood poisoning (sepsis)Inflammation of the bile ductsInfection Considerations
+
+Most of the time, this test is done after an endoscopic retrograde cholangiopancreatography (ERCP) test has been tried first. The PTC may be done if an ERCP test cannot be performed or has failed to clear the blockage.A magnetic resonance cholangiopancreatography (MRCP) is another, noninvasive imaging method, based on magnetic resonance imaging (MRI). It also provides views of the bile ducts, but it is not always possible to do this exam. Also, MRCP cannot be used to treat the blockage.Alternative Names
+
+PTC; Cholangiogram - PTC; PTC; PBD - Percutaneous biliary drainage; Percutaneous transhepatic cholangiographyImages
+
+
+Gallbladder anatomy
+Bile pathway
+References
+
+Cameron J. Gallbladder and biliary tree. In: Cameron J, ed. Current Surgical Therapy. 14th ed. Philadelphia, PA: Elsevier; 2023:chap 8.James TW, Baron TH. Endoscopic and radiologic treatment of biliary disease. In: Feldman M, Friedman LS, Brandt LJ, eds. Sleisenger and Fordtran's Gastrointestinal and Liver Disease. 11th ed. Philadelphia, PA: Elsevier; 2021:chap 70.Radkani P, Hawksworth J, Fishbein T. Biliary system. In: Townsend CM Jr, Beauchamp RD, Evers BM, Mattox KL, eds. Sabiston Textbook of Surgery. 21st ed. St Louis, MO: Elsevier; 2022:chap 55.
+Review Date 1/7/2023
+
+
+Updated by: Jason Levy, MD, FSIR, Northside Radiology Associates, Atlanta, GA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Bile Duct Cancer
+Bile Duct Diseases
+Jaundice
+Pancreatic Diseases
+Pancreatitis
+X-Rays

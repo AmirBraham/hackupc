@@ -1,0 +1,36 @@
+source : https://medlineplus.gov/ency/article/003698.htm 
+ 
+ The renin test measures the level of renin in blood.How the Test is Performed
+
+A blood sample is needed. How to Prepare for the Test
+
+Certain medicines may affect the results of this test. Your health care provider will tell you if you need to stop taking any medicines. Do not stop any medicine before talking to your provider.Medicines that can affect renin measurements include:Birth control pills.Blood pressure drugs.Medicines that dilate blood vessels (vasodilators). These are usually used to treat high blood pressure or heart failure.Water pills (diuretics). Your provider may instruct you to limit your sodium intake before the test.Be aware that renin level can be affected by pregnancy, as well as the time of day and the body position when blood is drawn.How the Test will Feel
+
+When the needle is inserted to draw blood, some people feel moderate pain. Others feel only a prick or stinging sensation. Afterward, there may be some throbbing or a slight bruise. This soon goes away.Why the Test is Performed
+
+Renin is a protein (enzyme) released by special kidney cells when you have a decreased salt (sodium) level or low blood volume. Most often, the renin blood test is done at the same time as an aldosterone blood test to calculate the renin to aldosterone ratio. If you have high blood pressure, your doctor may order a renin and aldosterone test to help determine the cause of your elevated blood pressure. Test results can help guide your doctor in choosing the correct treatment. Normal Results
+
+For normal sodium diet, normal value range is 0.2 to 1.6 ng/mL/hour (0.2 to 1.6 µg/L/hour) while lying down and 0.5 to 4.0 ng/mL/hour (0.5 to 4.0 µg/L/hour) while standing.Normal value ranges may vary slightly among different laboratories. Some labs use different measurements or test different samples. Talk to your doctor about the meaning of your specific test results.What Abnormal Results Mean
+
+A high level of renin may be due to:Adrenal glands that do not make enough hormones (Addison disease or other adrenal gland insufficiency)Bleeding (hemorrhage)Heart failureHigh blood pressure caused by narrowing of the kidney arteries (renovascular hypertension)Liver scarring and poor liver function (cirrhosis)Loss of body fluid (dehydration)Low salt dietKidney damage that creates nephrotic syndrome 
+ Kidney tumors that produce renin 
+ Sudden and very high blood pressure (malignant hypertension) A low level of renin may be due to:Adrenal glands that release too much aldosterone hormone (hyperaldosteronism)High blood pressure that is salt-sensitiveHigh salt dietTreatment with antidiuretic hormone (ADH)Treatment with steroid medicines that cause the body to retain salt Risks
+
+There is little risk involved with having your blood taken. Veins and arteries vary in size from one patient to another and from one side of the body to the other. Taking blood from some people may be more difficult than from others.Other risks associated with having blood drawn are slight but may include:Excessive bleedingFainting or feeling lightheadedMultiple punctures to locate veinsHematoma (blood accumulating under the skin)Infection (a slight risk any time the skin is broken) Alternative Names
+
+Plasma renin activity; Random plasma renin; PRAImages
+
+
+Kidney - blood and urine flow
+Blood test
+References
+
+Guber HA, Oprea M, Russell YX. Evaluation of endocrine function. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 25.Weiner ID, Wingo CS. Endocrine causes of hypertension: aldosterone. In: Johnson RJ, Floege J, Tonelli M, eds. Comprehensive Clinical Nephrology. 7th ed. Philadelphia, PA: Elsevier; 2024:chap 39.
+Review Date 7/30/2023
+
+
+Updated by: Sandeep K. Dhaliwal, MD, board-certified in Diabetes, Endocrinology, and Metabolism, Springfield, VA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.  
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+High Blood Pressure

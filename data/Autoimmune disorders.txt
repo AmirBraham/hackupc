@@ -1,0 +1,41 @@
+source : https://medlineplus.gov/ency/article/000816.htm 
+ 
+ An autoimmune disorder occurs when the body's immune system attacks and destroys healthy body tissue by mistake. There are more than 80 autoimmune disorders.Causes
+
+The blood cells in the body's immune system help protect against harmful substances. Examples include bacteria, viruses, toxins, cancer cells, and blood and tissue from outside the body. These substances contain antigens. The immune system produces antibodies against these antigens that enable it to destroy these harmful substances.When you have an autoimmune disorder, your immune system does not distinguish between healthy tissue and potentially harmful antigens. As a result, your body sets off a reaction that destroys normal tissues. The exact cause of autoimmune disorders is unknown. One theory is that some microorganisms (such as bacteria or viruses) or drugs may trigger changes that confuse the immune system. This may happen more often in people who have genes that make them more prone to autoimmune disorders.An autoimmune disorder may result in:The destruction of body tissueAbnormal growth of an organChanges in organ function An autoimmune disorder may affect one or more organ or tissue types. Areas often affected by autoimmune disorders include:Blood vesselsConnective tissuesEndocrine glands such as the thyroid or pancreasJointsMusclesRed blood cellsSkin A person may have more than one autoimmune disorder at the same time. Common autoimmune disorders include:Addison diseaseCeliac disease - sprue (gluten-sensitive enteropathy)DermatomyositisGraves diseaseHashimoto thyroiditisInflammatory bowel disease (Crohn disease, ulcerative colitis)Multiple sclerosisMyasthenia gravisPernicious anemiaReactive arthritisRheumatoid arthritisSjögren syndromeSystemic lupus erythematosus (lupus)Type I diabetesSymptoms
+
+Symptoms will vary, based on the type and location of the faulty immune response. Common symptoms include:FatigueFeverGeneral ill feeling (malaise)Joint painRashExams and Tests
+
+Your health care provider will do a physical exam. Signs depend on the type of disease.Tests that may be done to diagnose an autoimmune disorder include:Antinuclear antibody (ANA) testsAutoantibody testsComplete blood count (CBC) with white blood cell differential (CBC with WBC differential)Comprehensive metabolic panelC-reactive protein (CRP)Erythrocyte sedimentation rate (ESR)UrinalysisTreatment
+
+The goals of treatment are to:Control the autoimmune processMaintain your body's ability to fight diseaseReduce symptomsTreatments will depend on your disease and symptoms. Types of treatments include:Supplements to replace a substance that the body lacks, such as thyroid hormone, vitamin B12, or insulin, due to the autoimmune diseaseBlood transfusions if blood is affectedPhysical therapy to help with movement if the bones, joints, or muscles are affected Many people take medicines to reduce the immune system's abnormal response. These are called immunosuppressive medicines. Examples include corticosteroids (such as prednisone) and nonsteroid drugs such as azathioprine, cyclophosphamide, mycophenolate, sirolimus, or tacrolimus. Targeted drugs such as tumor necrosis factor (TNF) blockers and Interleukin inhibitors can be used for some diseases.Outlook (Prognosis)
+
+The outcome depends on the disease. Most autoimmune diseases are chronic, but many can be controlled with treatment.Symptoms of autoimmune disorders can come and go. When symptoms get worse, it is called a flare-up.Possible Complications
+
+Complications depend on the disease. Medicines used to suppress the immune system can cause severe side effects, such as higher risk for infections. When to Contact a Medical Professional
+
+Contact your provider if you develop symptoms of an autoimmune disorder.Prevention
+
+There is no known prevention for most autoimmune disorders.Images
+
+
+Graves disease
+Hashimoto's disease (chronic thyroiditis)
+Multiple sclerosis
+Rheumatoid arthritis
+Rheumatoid arthritis
+Systemic lupus erythematosus
+Synovial fluid
+Rheumatoid arthritis
+Antibodies
+References
+
+Kono DH, Theofilopoulos AN. Autoimmunity and tolerance. In: Firestein GS, Budd RC, Gabriel SE, Koretzky GA, McInnes IB, O'Dell JR, eds. Firestein & Kelley's Textbook of Rheumatology. 11th ed. Philadelphia, PA: Elsevier; 2021:chap 22.Kumar V, Abbas AK, Aster JC. Diseases of the immune system. In: Kumar V, Abbas AK, Aster JC, eds. Robbins and Cotran Pathologic Basis of Disease. 10th ed. Philadelphia, PA: Elsevier; 2021:chap 6.Peakman M, Buckland MS. The immunity. In: Feather A, Randall D, Waterhouse M, eds. Kumar and Clarke's Clinical Medicine. 10th ed. Philadelphia, PA: Elsevier; 2021:chap 3.
+Review Date 6/12/2023
+
+
+Updated by: Jacob Berman, MD, MPH, Clinical Assistant Professor of Medicine, Division of General Internal Medicine, University of Washington School of Medicine, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Autoimmune Diseases

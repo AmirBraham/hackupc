@@ -1,0 +1,31 @@
+source : https://medlineplus.gov/ency/article/000556.htm 
+ 
+ Thrombocytopenia is any disorder in which there are not enough platelets. Platelets are elements in the blood that help the blood clot. A low platelet count makes bleeding more likely.When medicines or drugs cause a low platelet count, it is called drug-induced thrombocytopenia.Causes
+
+Drug-induced thrombocytopenia occurs when certain medicines destroy platelets or interfere with the body's ability to make enough of them.There are two types of drug-induced thrombocytopenia: immune and nonimmune.If a medicine causes your immune system to produce antibodies which seek and destroy your platelets, the condition is called drug-induced immune thrombocytopenia. Heparin, a blood thinner, is the most common cause of drug-induced immune thrombocytopenia.If a medicine prevents your bone marrow from making enough platelets, the condition is called drug-induced nonimmune thrombocytopenia. Chemotherapy drugs and a seizure medicine called valproic acid may lead to this problem.Other medicines that cause drug-induced thrombocytopenia include:
+  FurosemideGold, used to treat arthritisNonsteroidal anti-inflammatory drugs (NSAIDs)PenicillinQuinidineQuinineRanitidineSulfonamidesLinezolid and other antibioticsStatinsSymptoms
+
+Decreased platelets may cause:Abnormal bleedingBleeding when you brush your teethEasy bruisingPinpoint red spots on the skin (petechiae)Treatment
+
+The first step is to stop using the medicine that is causing the problem.For people who have life-threatening bleeding, treatments may include:Immunoglobulin therapy (IVIG) given through a veinPlasma exchange (plasmapheresis)Platelet transfusionsCorticosteroid medicinePossible Complications
+
+Bleeding can be life threatening if it occurs in the brain or certain other organs.A pregnant woman who has antibodies to platelets may pass the antibodies to the baby in the womb.When to Contact a Medical Professional
+
+Contact your health care provider if you have unexplained bleeding or bruising and are taking medicines, such as the ones mentioned above under Causes.Alternative Names
+
+Drug-induced thrombocytopenia; Immune thrombocytopenia - drugImages
+
+
+Blood clot formation
+Blood clots
+References
+
+Abrams CS. Thrombocytopenia. In: Goldman L, Cooney KA, eds. Goldman-Cecil Medicine. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 158.Warkentin TE. Thrombocytopenia caused by hypersplenism, platelet destruction, or surgery/hemodilution. In: Hoffman R, Benz EJ, Silberstein LE, et al, eds. Hematology: Basic Principles and Practice. 8th ed. Philadelphia, PA: Elsevier; 2023:chap 130.
+Review Date 4/18/2023
+
+
+Updated by: John Roberts, MD, Professor of Internal Medicine (Medical Oncology), Yale Cancer Center, New Haven, CT. He is board certified in Internal Medicine, Medical Oncology, Pediatrics, Hospice and Palliative Medicine. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.  
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Platelet Disorders

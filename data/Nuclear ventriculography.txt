@@ -1,0 +1,36 @@
+source : https://medlineplus.gov/ency/article/003822.htm 
+ 
+ Nuclear ventriculography is a test that uses radioactive materials called tracers to show the heart chambers. The procedure is noninvasive. The instruments do not directly touch the heart.How the Test is Performed
+
+The test is done while you are resting.The health care provider will inject a small amount of radioactive material called technetium into your vein. This substance attaches to red blood cells and passes through the heart.The red blood cells inside the heart that carry the material form an image that a special camera can pick up. These scanners trace the substance as it moves through the heart area. The camera is timed with an electrocardiogram. A computer then processes the images to make it appear as if the heart is moving. How to Prepare for the Test
+
+You may be told not to eat or drink for several hours before the test.How the Test will Feel
+
+You may feel a brief sting or pinch when the IV is inserted into your vein. Most often, a vein in the arm is used. You may have trouble staying still during the test.Why the Test is Performed
+
+The test will show how well the blood is pumping through different parts of the heart.Normal Results
+
+Normal results show that the heart squeezing function is normal. The test can check the overall squeezing strength of the heart (ejection fraction). A normal value is above 50% to 55%.The test also can check the motion of different parts of the heart. If one part of the heart is moving poorly while the others move well, it may mean that there has been damage to that part of the heart. What Abnormal Results Mean
+
+Abnormal results may be due to:Blockages in the coronary arteries (coronary artery disease)
+  Heart valve diseaseOther cardiac disorders that weaken the heart (reduced pumping function)Past heart attack (myocardial infarction)The test may also be performed for:Dilated cardiomyopathyHeart failureIdiopathic cardiomyopathyPeripartum cardiomyopathyIschemic cardiomyopathyTesting whether a medicine has affected heart function Risks
+
+Nuclear imaging tests carry a very low risk. Exposure to the radioisotope delivers a small amount of radiation. This amount is safe for people who do not have nuclear imaging tests often.Alternative Names
+
+Cardiac blood pooling imaging; Heart scan - nuclear; Radionuclide ventriculography (RNV); Multiple gate acquisition scan (MUGA); Nuclear cardiology; Cardiomyopathy - nuclear ventriculographyImages
+
+
+Heart - front view
+MUGA test
+References
+
+Bogaert J, Symons R. Ischaemic heart disease. In: Adam A, Dixon AK, Gillard JH, Schaefer-Prokop CM, eds. Grainger & Allison's Diagnostic Radiology: A Textbook of Medical Imaging. 7th ed. Philadelphia, PA: Elsevier; 2021:chap 15.Dorbala S, Di Carli MF. Nuclear cardiology. In: Libby P, Bonow RO, Mann DL, Tomaselli GF, Bhatt DL, Solomon SD, eds. Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine. 12th ed. Philadelphia, PA: Elsevier; 2022:chap 18.Kramer CM, Beller GA, Hagspiel KD. Noninvasive cardiac imaging. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 50.Mettler FA, Guiberteau MJ. Cardiovascular system. In: Mettler FA, Guiberteau MJ, eds. Essentials of Nuclear Medicine and Molecular Imaging. 7th ed. Philadelphia, PA: Elsevier; 2019:chap 5.
+Review Date 5/8/2022
+
+
+Updated by: Michael A. Chen, MD, PhD, Associate Professor of Medicine, Division of Cardiology, Harborview Medical Center, University of Washington Medical School, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Heart Health Tests
+Nuclear Scans

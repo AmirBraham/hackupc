@@ -1,0 +1,36 @@
+source : https://medlineplus.gov/ency/article/003643.htm 
+ 
+ A WBC count is a blood test to measure the number of white blood cells (WBCs) in the blood. It is a part of a complete blood count (CBC).WBCs are also called leukocytes. They help fight infections. There are five major types of white blood cells:BasophilsEosinophilsLymphocytes (T cells, B cells, and Natural Killer cells)MonocytesNeutrophils How the Test is Performed
+
+A blood sample is needed.How to Prepare for the Test
+
+Most of the time, you do not need to take special steps before this test. Tell your health care provider the medicines you are taking, including the ones without a prescription. Some drugs may change the test results.How the Test will Feel
+
+When the needle is inserted to draw blood, some people feel moderate pain. Others feel only a prick or stinging. Afterward, there may be some throbbing or slight bruising. This soon goes away.Why the Test is Performed
+
+You will have this test to find out how many WBCs you have. Your provider may order this test to help diagnose conditions such as:An infectionAllergic reactionInflammationBlood cancer such as leukemia or lymphomaNormal Results
+
+The normal number of WBCs in the blood is 4,500 to 11,000 WBCs per microliter (4.5 to 11.0 × 109/L).Normal value ranges may vary slightly among different labs. Some labs use different measurements or may test different specimens. Talk to your provider about your test results.What Abnormal Results Mean
+
+LOW WBC COUNTA low number of WBCs is called leukopenia. A count less than 4,500 cells per microliter (4.5 × 109/L) is below normal.Neutrophils are one type of WBC. They are important for fighting infections.A lower than normal WBC count may be due to:Bone marrow deficiency or failure (for example, due to infection, tumor, or abnormal scarring)Cancer treating drugs, or other medicines (see list below)Certain autoimmune disorders such as lupus (SLE)Disease of the liver or spleenRadiation treatment for cancerCertain viral illnesses, such as mononucleosis (mono)Cancers that damage the bone marrowVery severe bacterial infectionsSevere emotional or physical stress (such as from an injury or surgery) An ethnic/genetic trait (not uncommon in African Americans)HIGH WBC COUNTA higher than normal WBC count is called leukocytosis. It may be due to:Certain drugs or medicines (see list below)Cigarette smokingAfter spleen removal surgeryInfections, most often those caused by bacteriaInflammatory disease (such as rheumatoid arthritis or allergy)Leukemia or Hodgkin diseaseTissue damage (for example, burns) PregnancyThere may also be less common reasons for abnormal WBC counts.Drugs that may lower your WBC count include:AntibioticsAnticonvulsantsAntithyroid drugsArsenicalsCaptoprilChemotherapy drugsChlorpromazineClozapineDiuretics (water pills)Histamine-2 blockersSulfonamidesQuinidineTerbinafineTiclopidine Drugs that may increase WBC counts include:Beta adrenergic agonists (for example, albuterol)CorticosteroidsEpinephrineGranulocyte colony stimulating factorHeparinLithium Risks
+
+There is little risk involved with having your blood taken. Veins and arteries vary in size from one person to another, and from one side of the body to the other. Obtaining a blood sample from some people may be more difficult than from others.Other risks associated with having blood drawn are slight, but may include:Excessive bleedingFainting or feeling lightheadedMultiple punctures to locate veinsHematoma (blood accumulating under the skin)Infection (a slight risk any time the skin is broken)Alternative Names
+
+Leukocyte count; White blood cell count; White blood cell differential; WBC differential; Infection - WBC count; Cancer - WBC countImages
+
+
+Basophil (close-up)
+Formed elements of blood
+White blood cell count  - series
+References
+
+Marcogliese AN, Hensch L. Resources for the hematologist: interpretive comments and selected reference values for neonatal, pediatric, and adult populations. In: Hoffman R, Benz EJ, Silberstein LE, et al, eds. Hematology: Basic Principles and Practice. 8th ed. Philadelphia, PA: Elsevier; 2023:chap 159.Vajpayee N, Graham SS, Bem S. Basic examination of blood and bone marrow. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 31.
+Review Date 2/2/2023
+
+
+Updated by: Mark Levin, MD, Hematologist and Oncologist, Monsey, NY. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Blood Count Tests
+Blood Disorders

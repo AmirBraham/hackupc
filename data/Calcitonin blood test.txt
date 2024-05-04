@@ -1,0 +1,29 @@
+source : https://medlineplus.gov/ency/article/003699.htm 
+ 
+ The calcitonin blood test measures the level of the hormone calcitonin in the blood.How the Test is Performed
+
+A blood sample is needed.How to Prepare for the Test
+
+There is usually no special preparation needed.How the Test will Feel
+
+When the needle is inserted to draw blood, some people feel moderate pain. Others feel only a prick or stinging. Afterward, there may be some throbbing or slight bruising. This soon goes away.Why the Test is Performed
+
+Calcitonin is a hormone produced in C cells of the thyroid gland. The thyroid gland is located inside the front of your lower neck above the collar bones. Calcitonin helps control the breakdown and rebuilding of bone.A common reason to have the test is if you have had surgery to remove a thyroid tumor called medullary thyroid cancer. The test allows your health care provider to evaluate if the tumor has spread (metastasized) or has come back (tumor recurrence).Your provider may also order a calcitonin test when you have symptoms of medullary cancer of the thyroid, or multiple endocrine neoplasia (MEN) syndrome, or a family history of these conditions. Calcitonin may also be higher in other tumors, such as:Insulinoma (tumor in the pancreas that produces too much insulin)Lung cancerVIPoma (cancer that usually grows from islet cells in the pancreas)Normal Results
+
+A normal value is less than 25 pg/mL (25 picograms per milliliter) for males and less than 20 pg/mL for females.Women and men can have different normal values, with men having higher values.Sometimes, calcitonin in the blood is checked several times after you are given a shot (injection) of a special medicine that stimulates calcitonin production. You will need this extra test if your baseline calcitonin is normal, but your provider suspects you have medullary cancer of the thyroid.Normal value ranges may vary slightly among different laboratories. Some labs use different measurements or may test different specimens. Talk to your provider about the meaning of your specific test results.What Abnormal Results Mean
+
+A higher-than-normal level may indicate:InsulinomaLung cancerMedullary cancer of thyroid (most common)VIPoma Higher-than-normal levels of calcitonin can also occur in people with kidney disease, smokers, and higher body weight. Also, it increases when taking certain medicines to stop stomach acid production.Risks
+
+There is little risk involved with having your blood taken. Veins and arteries vary in size from one person to another and from one side of the body to the other. Taking blood from some people may be more difficult than from others.Other risks associated with having blood drawn are slight, but may include:Excessive bleedingFainting or feeling lightheadedMultiple punctures to locate veinsHematoma (blood accumulating under the skin)Infection (a slight risk any time the skin is broken) Alternative Names
+
+Serum calcitoninReferences
+
+Bringhurst FR, Demay MB, Kronenberg HM. Hormones and disorders of mineral metabolism. In: Melmed S, Auchus RJ, Goldfine AB, Koenig RJ, Rosen CJ, eds. Williams Textbook of Endocrinology. 14th ed. Philadelphia, PA: Elsevier; 2020:chap 29.Ellervik C, Halsall DJ, Nygaard B. Thyroid disorders. In: Rifai N, Chiu RWK, Young I, Burnham CD, Wittwer CT, eds. Tietz Textbook of Laboratory Medicine. 7th ed. Philadelphia, PA: Elsevier; 2023:chap 57.Klemm KM, Klein MJ, Zhang Y. Biochemical markers of bone metabolism. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 16.
+Review Date 5/12/2023
+
+
+Updated by: Sandeep K. Dhaliwal, MD, board-certified in Diabetes, Endocrinology, and Metabolism, Springfield, VA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.   
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Thyroid Cancer

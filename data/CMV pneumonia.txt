@@ -1,0 +1,42 @@
+source : https://medlineplus.gov/ency/article/000664.htm 
+ 
+ Cytomegalovirus (CMV) pneumonia is a viral infection of the lungs that can occur in people who have a suppressed immune system.Causes
+
+CMV pneumonia is caused by a member of a group of herpes-type viruses. Infection with CMV is very common. Most people are exposed to CMV in their lifetime, but typically only those with weakened immune systems become ill from CMV infection.Serious CMV infections can occur in people with weakened immune systems as a result of:HIV/AIDSBone marrow transplantChemotherapy or other treatments that suppress the immune system
+  Organ transplant (especially lung transplant)In people who have had organ and bone marrow transplants, the risk for infection is greatest 5 to 13 weeks after the transplant.Symptoms
+
+In otherwise healthy people, CMV usually produces no symptoms, or it produces a temporary mononucleosis-type illness. However, those with a weakened immune system can develop serious symptoms. Symptoms may include:CoughFatigueFeverGeneral discomfort, uneasiness, or ill feeling (malaise)Loss of appetiteMuscle aches or joint painsShortness of breathSweating, excessive (night sweats) Exams and Tests
+
+The health care provider will perform a physical exam. In addition, the following tests may be done:
+   Venous and/or arterial blood gasOximetryBlood cultureBlood tests to detect and measure substances specific to CMV infectionBronchoscopy (may include biopsy)Chest x-rayCT scan of chestUrine culture (clean catch)Sputum gram stain and cultureTreatment
+
+The goal of treatment is to use antiviral drugs to stop the virus from copying itself in the body. Some people with CMV pneumonia need IV (intravenous) medicines. Some people may need oxygen therapy and breathing support with a ventilator to maintain oxygen until the infection is brought under control.Outlook (Prognosis)
+
+Antiviral drugs stop the virus from copying itself, but do not destroy it. The CMV suppresses the immune system, and may increase your risk for other infections. Low oxygen level in the blood of people with CMV pneumonia often predicts death, especially in those who need to be placed on a breathing machine. Possible Complications
+
+Complications of CMV infection in people with HIV/AIDS include spread of disease to other parts of the body, such as the esophagus, intestine, or eye.Complications of CMV pneumonia include:Kidney impairment (from drugs used to treat the condition)Low white blood cell count (from drugs used to treat the condition)Overwhelming infection that doesn't respond to treatmentResistance of CMV to standard treatmentWhen to Contact a Medical Professional
+
+Contact your provider if you have symptoms of CMV pneumonia.Prevention
+
+The following have been shown to help prevent CMV pneumonia in certain people:Using organ transplant donors who don't have CMVUsing CMV-negative blood products for transfusionUsing CMV-immune globulin in certain peoplePreventing HIV/AIDS avoids certain other diseases, including CMV, that can occur in people who have a weakened immune system.Alternative Names
+
+Pneumonia - cytomegalovirus; Cytomegalovirus pneumonia; Viral pneumoniaPatient Instructions
+
+Pneumonia in adults - discharge
+Images
+
+
+CMV pneumonia
+CMV (cytomegalovirus)
+References
+
+Britt WJ. Cytomegalovirus. In: Bennett JE, Dolin R, Blaser MJ, eds. Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases. 9th ed. Philadelphia, PA: Elsevier; 2020:chap 137.Crothers K, Worodria W, Huang L. Pulmonary complications of HIV infection. In: Broaddus VC, Ernst JD, King TE, et al, eds. Murray and Nadel's Textbook of Respiratory Medicine. 7th ed. Philadelphia, PA: Elsevier; 2022:chap 123.Singh N, Haidar G, Limay AP. Infections in solid-organ transplant recipients. In: Bennett JE, Dolin R, Blaser MJ, eds. Mandell, Douglas, and Bennetts Principles and Practice of Infectious Diseases. 9th ed. Philadelphia, PA: Elsevier; 2020:chap 308.
+Review Date 11/23/2021
+
+
+Updated by: Jatin M. Vyas, MD, PhD, Associate Professor in Medicine, Harvard Medical School; Associate in Medicine, Division of Infectious Disease, Department of Medicine, Massachusetts General Hospital, Boston, MA. Also reviewed by David Zieve, MD, MHA, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.  
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Cytomegalovirus Infections
+Pneumonia

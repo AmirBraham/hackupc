@@ -1,0 +1,36 @@
+source : https://medlineplus.gov/ency/article/000432.htm 
+ 
+ Necrotizing vasculitis is a group of disorders that involve inflammation of the blood vessel walls. The size of the affected blood vessels helps to determine the names of these conditions and how the disorder causes disease.Causes
+
+Necrotizing vasculitis may be the primary condition such as in people with polyarteritis nodosa or granulomatosis with ANCA associated vasculitis (formerly called Wegener granulomatosis). In other cases, the vasculitis may occur as part of another disorder, such as systemic lupus erythematosus or hepatitis C.The cause of the inflammation is unknown. It is likely related to autoimmune factors. The wall of the blood vessel may scar and thicken or die (become necrotic). The blood vessel may close, interrupting blood flow to the tissues it supplies. The lack of blood flow will cause the tissues to die. Sometimes the blood vessel may break and bleed (rupture).Necrotizing vasculitis may affect blood vessels in any part of the body. Therefore, it can cause problems in the skin, brain, lungs, intestines, kidney, brain, joints or any other organ.Symptoms
+
+Fever, chills, fatigue, arthritis, or weight loss may be the only symptoms at first. However, symptoms may be in almost any part of the body.Skin:Red or purple colored bumps on the legs, hands or other parts of the bodyBluish color to the fingers and toesSigns of tissue death due to lack of oxygen such as pain, redness, and ulcers that do not healMuscles and joints:Joint painLeg painMuscle weaknessBrain and nervous system:Pain, numbness, tingling in an arm, leg, or other body areaWeakness of an arm, leg, or other body areaPupils that are different sizesEyelid droopingSwallowing difficultySpeech impairmentMovement difficultyLungs and respiratory tract:CoughShortness of breathSinus congestion and painCoughing up blood or bleeding from the noseOther symptoms include:Abdominal painBlood in the urine or stoolsHoarseness or changing voiceChest pain from damage of the arteries that supply the heart (coronary arteries)Exams and Tests
+
+The health care provider will do a complete physical exam. A nervous system (neurological) exam may show signs of nerve damage.Tests that may be done include:Complete blood count, comprehensive chemistry panel, and urinalysisChest x-rayC-reactive protein testSedimentation rateHepatitis blood testBlood test for antibodies against neutrophils (ANCA antibodies) or nuclear antigens (ANA)Blood test for cryoglobulinsBlood test for complement levelsImaging studies such as angiogram, ultrasound, computed tomography (CT) scan, or magnetic resonance imaging (MRI) Biopsy of the skin, muscle, organ tissue, or nerveTreatment
+
+Corticosteroids are given in most cases. The dose will depend on how bad the condition is.Other drugs that suppress the immune system may reduce inflammation of the blood vessels. These include azathioprine, methotrexate, and mycophenolate. These medicines are often used along with corticosteroids. This combination makes it possible to control the disease with a lower dose of corticosteroids.For severe disease, cyclophosphamide (Cytoxan) has been used for many years. However, rituximab (Rituxan) is equally effective and is less toxic.Recently, tocilizumab (Actemra) was shown to be effective for giant cell arteritis so the dose of corticosteroids could be reduced.Outlook (Prognosis)
+
+Necrotizing vasculitis can be serious and life-threatening disease. The outcome depends on the location of the vasculitis and the severity of tissue damage. Complications may occur from the disease and from the medicines. Most forms of necrotizing vasculitis require long-term follow-up and treatment.Possible Complications
+
+Complications may include:Permanent damage to the structure or function of the affected areaSecondary infections of necrotic tissues Side effects from medicines usedWhen to Contact a Medical Professional
+
+Contact your provider if you have symptoms of necrotizing vasculitis.Emergency symptoms include:Problems in more than one part of the body such as stroke, arthritis, severe skin rash, abdominal pain or coughing up bloodChanges in pupil sizeLoss of function of an arm, leg, or other body partSpeech problemsSwallowing difficultyWeaknessSevere abdominal painPrevention
+
+There is no known way to prevent this disorder.Images
+
+
+Circulatory system
+References
+
+Dinulos JGH. Hypersensitivity syndromes and vasculitis. In: Dinulos JGH, ed. Habif's Clinical Dermatology. 7th ed. Philadelphia, PA: Elsevier; 2021:chap 18.Free M, Jennette JC, Falk RJ, Jain K. Renal and systemic vasculitis. In: Johnson RJ, Floege J, Tonelli M, eds. Comprehensive Clinical Nephrology. 7th ed. Philadelphia, PA: Elsevier; 2024:chap 26.Rhee RL, Hogan SL, Poulton CJ, et al. Trends in long-term outcomes among patients with antineutrophil cytoplasmic antibody-associated vasculitis with renal disease. Arthritis Rheumatol. 2016;68(7):1711-1720. PMID: 26814428 pubmed.ncbi.nlm.nih.gov/26814428/.Saha MK, Pendergraft WF, Jennette C, Falk RJ. Primaryu glomerular disease. In: Yu ASL, Chertow GM, Luyckx VA, Marsden PA, Skorecki K, Taal MW, eds. Brenner and Rector's The Kidney. 11th ed. Philadelphia, PA: Elsevier; 2020:chap 31.Stone JH, Klearman M, Collinson N. Trial of tocilizumab in giant-cell arteritis. N Engl J Med. 2017;377(15):1494-1495. PMID: 29020600 pubmed.ncbi.nlm.nih.gov/29020600/.
+Review Date 4/30/2023
+
+
+Updated by: Neil J. Gonter, MD, Assistant Professor of Medicine, Columbia University, New York, NY, and private practice specializing in Rheumatology at Rheumatology Associates of North Jersey, Teaneck, NJ. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.  
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Lupus
+Rheumatoid Arthritis
+Scleroderma
+Vasculitis

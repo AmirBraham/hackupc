@@ -1,0 +1,33 @@
+source : https://medlineplus.gov/ency/article/000742.htm 
+ 
+ Trigeminal neuralgia (TN) is a nerve disorder. It causes a stabbing or electric shock-like pain in parts of the face.Causes
+
+The pain of TN comes from the trigeminal nerve. This nerve carries the sensations of touch and pain from the face, eyes, sinuses, and mouth to the brain.Trigeminal neuralgia may be caused by:Multiple sclerosis (MS) or other diseases that damage the protective covering myelin of the nervesPressure on the trigeminal nerve from a swollen blood vessel or tumorInjury to the trigeminal nerve, such as from trauma to the face or from oral or sinus surgeryOften, no exact cause is found. TN usually affects adults above age 50 years, but it can occur at any age. Women are affected more often than men. When TN affects people younger than 40, it is often due to MS or a tumor.Symptoms
+
+Symptoms may include any of the following:Very painful, sharp electric-like spasms that usually last from several seconds to less than 2 minutes, but can become constant.Pain is usually only on one side of the face, often around the eye, cheek, and lower part of the face.There is usually no loss of sensation or movement of the affected part of the face.Pain may be triggered by touch or sounds.Painful attacks of trigeminal neuralgia can be triggered by common, everyday activities, such as:TalkingSmilingBrushing teethChewingDrinkingEatingExposure to hot or cold temperatureTouching the faceShavingWindApplying make-upThe right side of the face is mostly affected. In some cases, TN goes away on its own.Exams and Tests
+
+A brain and nervous system (neurologic) examination is often normal. Tests that are done to look for the cause may include:Complete blood countErythrocyte sedimentation rate (ESR)MRI of the headMRA (angiography) of brainEye examination (to rule out intraocular disease)Spinal tap (lumbar puncture)CT scan of head (who cannot undergo MRI)Trigeminal reflex testing (in rare cases)Treatment
+
+Your primary care doctor, a neurologist, or a pain specialist may be involved in your care.Certain medicines sometimes help reduce pain and the rate of attacks. These medicines include:Anti-seizure medicines, such as carbamazepineMuscle relaxants, such as baclofenTricyclic antidepressantsIf you are found to have multiple sclerosis (MS) as a cause of TN, your doctor will discuss medicines that can treat the underlying MS.Short-term pain relief occurs through surgery, but is associated with risk of complications. One surgery is called microvascular decompression (MVD) or the Jannetta procedure. During surgery, a sponge-like material is placed between the nerve and the blood vessel that is pressing on the nerve.Trigeminal nerve block (injection) with local anesthetic and steroid is an excellent treatment option to rapidly relieve pain while waiting for medicines to take effect.Other techniques involve destroying or cutting parts of the trigeminal nerve root. Methods used include:Radiofrequency ablation (uses high-frequency heat)Injection of glycerol or alcoholBalloon microcompressionRadiosurgery (uses high power energy)If a tumor is the cause of TN, surgery is done to remove it.Outlook (Prognosis)
+
+How well you do depends on the cause of the problem. If there is no disease causing the problem, treatment can provide some relief.In some people, the pain becomes constant and severe.Possible Complications
+
+Complications may include:Side effects of medicines used to treat TNProblems caused by procedures, such as loss of feeling in the treated areaWeight loss from not eating to avoid triggering painAvoiding other people if talking triggers painDepression, suicideHigh levels of anxiety during acute attacksWhen to Contact a Medical Professional
+
+Contact your health care provider if you have symptoms of TN, or your TN symptoms get worse.Alternative Names
+
+Tic douloureux; Cranial neuralgia; Facial pain - trigeminal; Facial neuralgia; Trifacial neuralgia; Chronic pain - trigeminal; Microvascular decompression - trigeminalImages
+
+
+Central nervous system and peripheral nervous system
+References
+
+Bendtsen L, Zakrzewska JM, Heinskou TB, et al. Advances in diagnosis, classification, pathophysiology, and management of trigeminal neuralgia. Lancet Neurol. 2020;19(9):784-796. PMID: 32822636 pubmed.ncbi.nlm.nih.gov/32822636/.Gonzales TS. Facial pain and neuromuscular diseases. In: Neville BW, Damm DD, Allen CM, Chi AC, eds. Oral and Maxillofacial Pathology. 4th ed. St Louis, MO: Elsevier; 2016:chap 18.Wallenstein J.. Brain and cranial nerve disorders. In: Walls RM, eds. Rosen's Emergency Medicine: Concepts and Clinical Practice. 10th ed. Philadelphia, PA: Elsevier; 2023:chap 91.Waldman SD. Trigeminal neuralgia. In: Waldman SD, ed. Atlas of Common Pain Syndromes. 4th ed. Philadelphia, PA: Elsevier; 2019:chap 10.
+Review Date 4/25/2022
+
+
+Updated by: Joseph V. Campellone, MD, Department of Neurology, Cooper University Hospital, Camden, NJ. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.  
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Trigeminal Neuralgia

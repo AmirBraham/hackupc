@@ -1,0 +1,36 @@
+source : https://medlineplus.gov/ency/article/000387.htm 
+ 
+ An insulinoma is a tumor in the pancreas that produces too much insulin.Causes
+
+The pancreas is an organ in the abdomen. The pancreas makes several enzymes and hormones, including the hormone insulin. Insulin's job is to reduce the level of sugar (glucose) in the blood by helping sugar move into cells.Most of the time when your blood sugar level decreases, the pancreas stops making insulin to make sure that your blood sugar stays in the normal range. Tumors of the pancreas that produce too much insulin are called insulinomas. Insulinomas keep making insulin, and can make your blood sugar level too low (hypoglycemia).A high blood insulin level causes a low blood sugar level (hypoglycemia). Hypoglycemia may be mild, leading to symptoms such as anxiety and hunger. Or it can be severe, leading to seizures, coma, and even death.Insulinomas are very rare tumors. They usually occur as single, small tumors. But there can also be several small tumors.Most insulinomas are non-cancerous (benign) tumors. People with certain genetic disorders, such as multiple endocrine neoplasia type I, are at higher risk for insulinomas.Symptoms
+
+Symptoms are most common when you are fasting or skip or delay a meal. Symptoms may include:Anxiety, behavior changes, or confusionClouded visionLoss of consciousness or comaConvulsions or tremorDizziness or headacheHunger between meals; weight gain is commonFast heart rate or palpitationsSweatingExams and Tests
+
+After fasting, your blood may be tested for:Blood C-peptide levelBlood glucose levelBlood insulin levelDrugs that cause the pancreas to release insulin The response of your body to a shot of glucagonCT, MRI, or PET scan of the abdomen may be done to look for a tumor in the pancreas. If a tumor is not seen in the scans, one of the following tests may be performed:Endoscopic ultrasound (test that uses a flexible scope and sound waves to view digestive organs)Octreotide scan (special test that checks for specific hormone-producing cells in the body)Pancreatic arteriography (test that uses special dye to view the arteries in the pancreas)Pancreatic venous sampling for insulin (test that helps locate the approximate location of the tumor inside the pancreas)Treatment
+
+Surgery is the usual treatment for insulinoma. If there is a single tumor, it will be removed. If there are many tumors, part of the pancreas will need to be removed. At least 15% of the pancreas must be left to produce normal levels of enzymes for digestion. In rare cases, the entire pancreas is removed if there are many insulinomas or they come back after surgery. Removing the entire pancreas leads to diabetes because there is no longer any insulin being produced. Insulin shots (injections) are then required.If no tumor is found during surgery, or if you can't have surgery, you may get the medicine diazoxide to lower insulin production and prevent hypoglycemia. A water pill (diuretic) is given with this medicine to prevent the body from retaining fluid. Octreotide is another medicine that is used to reduce insulin release in some people.Outlook (Prognosis)
+
+In most cases, the tumor is non-cancerous (benign), and surgery can cure the disease. But a severe hypoglycemic reaction or the spread of a cancerous tumor to other organs can be life threatening.Possible Complications
+
+Complications may include:Severe hypoglycemic reactionSpread of a cancerous tumor (metastasis)Diabetes if the entire pancreas is removed (rare), or food not being absorbed if too much of the pancreas is removedInflammation and swelling of the pancreasWhen to Contact a Medical Professional
+
+Contact your health care provider if you develop any symptoms of insulinoma. Seizures and losing consciousness are an emergency. Call 911 or the local emergency number right away.Alternative Names
+
+Insulinoma; Islet cell adenoma; Pancreatic neuroendocrine tumor; Hypoglycemia - insulinomaImages
+
+
+Endocrine glands
+Food and insulin release
+References
+
+Asban A, Patel AJ, Reddy S, Wang T, Balentine CJ, Chen H. Cancer of the endocrine system. In: Niederhuber JE, Armitage JO, Kastan MB, Doroshow JH, Tepper JE, eds. Abeloff's Clinical Oncology. 6th ed. Philadelphia, PA: Elsevier; 2020:chap 68.National Comprehensive Cancer Network website. NCCN clinical practice guidelines in oncology (NCCN guidelines): Neuroendocrine and adrenal tumors. Version 2.2022. www.nccn.org/professionals/physician_gls/pdf/neuroendocrine.pdf. Updated December 21, 2022. Accessed January 30, 2023.Strosberg JR, Al-Toubah T. Neuroendocrine tumors. In: Feldman M, Friedman LS, Brandt LJ, eds. Sleisenger and Fordtran's Gastrointestinal and Liver Disease. 11th ed. Philadelphia, PA: Elsevier; 2021:chap 34.
+Review Date 8/12/2022
+
+
+Updated by: Sandeep K. Dhaliwal, MD, board-certified in Diabetes, Endocrinology, and Metabolism, Springfield, VA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team. Editorial update 01/30/2023.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Benign Tumors
+Pancreatic Cancer
+Pancreatic Diseases

@@ -1,0 +1,37 @@
+source : https://medlineplus.gov/ency/article/000348.htm 
+ 
+ Cushing disease is a condition in which the pituitary gland releases too much adrenocorticotropic hormone (ACTH). The pituitary gland is an organ of the endocrine system.Cushing disease is a cause of Cushing syndrome. Other causes of Cushing syndrome include exogenous Cushing syndrome, Cushing syndrome caused by an adrenal tumor, and ectopic Cushing syndrome.Causes
+
+Cushing disease is caused by a tumor or excess growth (hyperplasia) of the pituitary gland. The pituitary gland is located just below the base of the brain. A type of pituitary tumor called an adenoma is the most common cause. An adenoma is a benign tumor (not a cancer).With Cushing disease, the pituitary gland releases too much ACTH. ACTH stimulates production and release of cortisol, a stress hormone. Too much ACTH causes the adrenal glands to make too much cortisol.Cortisol is normally released during stressful situations. It also has many other functions, including:Controlling the body's use of carbohydrates, fats, and proteinsReducing the immune system's response to swelling (inflammation)Regulating blood pressure and the body's water balanceSymptoms
+
+Symptoms of Cushing disease include:Upper body obesity (above the waist) and thin arms and legsRound, red, full face (moon face)Slow growth rate in children Skin changes that are often seen include:
+   Acne or skin infectionsPurple stretch marks (1/2 inch or 1 centimeter or more wide), called striae, on the skin of the abdomen, thighs, upper arms, and breastsThin skin with easy bruising, most commonly on the arms and hands Muscle and bone changes include:Backache, which occurs with routine activitiesBone pain or tendernessCollection of fat between the shoulders (buffalo hump)Weakening of the bones, which leads to rib and spine fracturesWeak muscles causing exercise intoleranceWomen may have:Excess hair growth on the face, neck, chest, abdomen, and thighsMenstrual cycle that becomes irregular or stops Men may have:Decreased or no desire for sex (low libido)Erection problemsOther symptoms or problems may include:Mental changes, such as depression, anxiety, or changes in behaviorFatigueFrequent infectionsHeadacheIncreased thirst and urinationHigh blood pressureDiabetes (high blood sugar)Exams and Tests
+
+Your health care provider will perform a physical examination and ask about your symptoms.Tests are done first to confirm there is too much cortisol in the body, and then to determine the cause.These tests confirm too much cortisol:24-hour urine free cortisolDexamethasone suppression test (low dose)Salivary cortisol levels (late at night and sometimes also early morning)These tests determine the cause of the high cortisol once it is confirmed:Blood ACTH levelBrain MRICorticotropin-releasing hormone test, which acts on the pituitary gland to cause the release of ACTHDexamethasone suppression test (high dose)Inferior petrosal sinus sampling (IPSS) -- measures ACTH levels in the veins that drain the pituitary gland compared to the veins in the chest Other tests that may be done include any of the following:Fasting blood glucose and A1C to test for diabetesLipid and cholesterol testingBone mineral density scan to check for osteoporosis More than one screening test may be needed to diagnose Cushing disease. Your provider may ask you to see a doctor who specializes in pituitary diseases.Treatment
+
+Treatment involves surgery to remove the pituitary tumor, if possible. After surgery, the pituitary gland may slowly start to work again and return to normal.During the recovery process from surgery, you may need cortisol replacement treatments because the pituitary needs time to start making ACTH again.Radiation treatment of the pituitary gland may also be used if the tumor is not completely removed.If the tumor does not respond to surgery or radiation, you may need medicines to stop your body from making cortisol.If these treatments are not successful, the adrenal glands may need to be removed to stop the high levels of cortisol from being produced. Removal of the adrenal glands can cause the pituitary tumor to get much bigger (Nelson syndrome).Outlook (Prognosis)
+
+Untreated, Cushing disease can cause severe illness, even death. Removal of the tumor may lead to full recovery, but the tumor can grow back.Possible Complications
+
+Health problems that may result from Cushing disease include:Blood clots in veins (deep vein thrombosis)Compression fractures in the spine
+  DiabetesHigh blood pressureInfectionsKidney stones
+  Mood or other psychiatric problems
+  Weight gainWhen to Contact a Medical Professional
+
+Contact your provider if you develop symptoms of Cushing disease.If you have had a pituitary tumor removed, call your provider if you have signs of complications, including signs that the tumor has returned.Alternative Names
+
+Pituitary Cushing disease; ACTH-secreting adenomaImages
+
+
+Endocrine glands
+References
+
+Newell-Price JDC, Auchus RJ. The adrenal cortex. In: Melmed S, Auchus RJ, Goldfine AB, Koenig RJ, Rosen CJ, eds. Williams Textbook of Endocrinology. 14th ed. Philadelphia, PA: Elsevier; 2020:chap 15.Tabarian A, Corcuff JB. Cushing disease. In: Robertson RP, ed. DeGroot's Endocrinology. 8th ed. Philadelphia, PA: Elsevier; 2023:chap 7.Weiss RE. Anterior pituitary. In: Goldman L, Cooney KA, eds. Goldman-Cecil Medicine. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 205.
+Review Date 5/12/2023
+
+
+Updated by: Sandeep K. Dhaliwal, MD, board-certified in Diabetes, Endocrinology, and Metabolism, Springfield, VA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.   
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Cushing's Syndrome

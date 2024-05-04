@@ -1,0 +1,40 @@
+source : https://medlineplus.gov/ency/article/000187.htm 
+ 
+ Ventricular tachycardia (VT) is a rapid heartbeat that starts in the lower chambers of the heart (ventricles).Causes
+
+VT is a pulse rate of more than 100 beats per minute, with at least 3 abnormal rapid heartbeats in a row.The condition can develop as an early or late complication of a heart attack. It may also occur in people with:CardiomyopathyHeart failureHeart surgeryMyocarditisValvular heart disease VT can occur without heart disease.Scar tissue may form in the muscle of the ventricles days, months, or years after a heart attack. This can lead to ventricular tachycardia.VT can also be caused by:Anti-arrhythmic drugs (used to treat an abnormal heart rhythm)Changes in blood chemistry (such as a low potassium level)Changes in pH (acid-base)Lack of enough oxygen "Torsade de pointes" is a specific form of VT. It is often due to congenital heart disease or the use of certain medicines.Symptoms
+
+You may have symptoms if the heart rate during a VT episode is very fast or lasts longer than a few seconds. Symptoms may include:Chest discomfort (angina)Fainting (syncope)
+   Lightheadedness or dizzinessSensation of feeling the heart beat (palpitations)Shortness of breathSymptoms may start and stop suddenly. In some cases, there are no symptoms.Exams and Tests
+
+The health care provider will look for:Absent pulseLoss of consciousnessNormal or low blood pressureRapid pulseTests that may be used to detect ventricular tachycardia include:Electrocardiogram (ECG)Holter monitorIntracardiac electrophysiology study (EPS)Rhythm monitoring with a loop recorder or device You may also have blood chemistries and other tests. Treatment
+
+Treatment depends on the symptoms, and the type of heart disorder.If someone with VT is in distress, they may require:CPRCardioversion (electric shock)Medicines (such as lidocaine, procainamide, sotalol, or amiodarone) given through a vein After an episode of VT, steps are taken to prevent further episodes.Medicines taken by mouth may be needed for long-term treatment. However, these drugs may have severe side effects. They are being used less often as other treatments are developed.A procedure to destroy the heart tissue that is causing the abnormal heartbeat (called ablation) may be done.An implantable cardioverter defibrillator (ICD) may be recommended. It is an implanted device that detects any life-threatening, rapid heartbeat. This abnormal heartbeat is called an arrhythmia. If it occurs, the ICD quickly sends an electrical shock to the heart to change the rhythm back to normal. This is called defibrillation. Outlook (Prognosis)
+
+The outcome depends on the heart condition and symptoms.Possible Complications
+
+Ventricular tachycardia may not cause symptoms in some people. However, it can be deadly. It is a major cause of sudden cardiac death.When to Contact a Medical Professional
+
+Go to the emergency room or call the local emergency number (such as 911) if you have a rapid, irregular pulse, faint, or have chest pain. All of these may be signs of ventricular tachycardia.Prevention
+
+In some cases, the disorder cannot be prevented. In other cases, it can be prevented by treating heart problems and avoiding certain medicines.Alternative Names
+
+Wide-complex tachycardia; V tach; Tachycardia - ventricularPatient Instructions
+
+Implantable cardioverter defibrillator - discharge
+Images
+
+
+Implantable cardioverter-defibrillator
+Implantable cardiac defibrillator
+References
+
+Al-Khatib SM, Stevenson WG, Ackerman MJ, et al. 2017 AHA/ACC/HRS Guideline for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of the American College of Cardiology/American Heart Association Task Force on clinical practice guidelines and the Heart Rhythm Society [published correction appears in J Am Coll Cardiol. 2018;72(14):1760]. J Am Coll Cardiol. 2018;72(14):1677-1749. PMID: 29097294 pubmed.ncbi.nlm.nih.gov/29097294/.Epstein EF, DiMarco JP, Ellenbogen KA, Estes NA 3rd, et al. 2012 ACCF/AHA/HRS focused update incorporated into the ACCF/AHA/HRS 2008 guidelines for device-based therapy of cardiac rhythm abnormalities: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines and the Heart Rhythm Society. J Am Coll Cardiol. 2013;661(3):e6-75. PMID: 23265327 pubmed.ncbi.nlm.nih.gov/23265327/.Garan H. Ventricular arrhythmias. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 59.Stevenson WG, Keppenfeld K. Ventricular Arrhythmias. In: Libby P, Bonow RO, Mann DL, Tomaselli GF, Bhatt DL, Solomon SD, eds. Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine. 12th ed. Philadelphia, PA: Elsevier; 2022:chap 67.
+Review Date 5/8/2022
+
+
+Updated by: Michael A. Chen, MD, PhD, Associate Professor of Medicine, Division of Cardiology, Harborview Medical Center, University of Washington Medical School, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.  
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Arrhythmia

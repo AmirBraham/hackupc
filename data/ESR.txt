@@ -1,0 +1,37 @@
+source : https://medlineplus.gov/ency/article/003638.htm 
+ 
+ ESR stands for erythrocyte sedimentation rate. It is commonly called a "sed rate."It is a test that indirectly measures the level of certain proteins in the blood. This measurement correlates with the amount of inflammation in the body.How the Test is Performed
+
+A blood sample is needed. Most of the time, blood is drawn from a vein located on the inside of the elbow or the back of the hand. The blood sample is sent to a lab.The test measures how fast red blood cells (called erythrocytes) fall to the bottom of a tall, thin tube.How to Prepare for the Test
+
+There are no special steps needed to prepare for this test.How the Test will Feel
+
+You may feel slight pain or a sting when the needle is inserted. You may also feel some throbbing at the site after the blood is drawn.Why the Test is Performed
+
+Reasons why a "sed rate" may be done include:Unexplained feversCertain types of joint pain or arthritisMuscle symptomsHeadacheOther vague symptoms that cannot be explainedThis test may also be used to monitor whether an illness is responding to treatment. This test can be used to monitor inflammatory diseases or cancer. It is not used to diagnose a specific disorder.However, the test is useful for detecting and monitoring:Autoimmune disordersBone infectionsCertain forms of arthritisInflammatory diseasesNormal Results
+
+For adults (Westergren method):Men under 50 years old: less than 15 mm/hrMen over 50 years old: less than 20 mm/hrWomen under 50 years old: less than 20 mm/hrWomen over 50 years old: less than 30 mm/hr For children (Westergren method):Newborn: 0 to 2 mm/hrNewborn to puberty: 3 to 13 mm/hr Note: mm/hr = millimeters per hourNormal value ranges may vary slightly among different laboratories. Talk to your health care provider about the meaning of your specific test results.What Abnormal Results Mean
+
+An abnormal ESR may help with a diagnosis, but it does not prove that you have a certain condition. Other tests are almost always needed.An increased ESR rate may occur in people with:AnemiaCancers such as lymphoma or multiple myelomaKidney diseasePregnancyThyroid disease The immune system helps protect the body against harmful substances. An autoimmune disorder is when the immune system mistakenly attacks and destroys healthy body tissue. ESR is often higher than normal in people with an autoimmune disorder.Common autoimmune disorders include:LupusPolymyalgia rheumaticaRheumatoid arthritis in adults or childrenVery high ESR levels occur with less common autoimmune or other disorders, including:Allergic vasculitisGiant cell arteritisHyperfibrinogenemia (increased fibrinogen levels in the blood)Macroglobulinemia - primaryNecrotizing vasculitisAn increased ESR rate may be due to some infections, including:Bodywide (systemic) infectionBone infectionsInfection of the heart or heart valvesRheumatic feverSevere skin infections, such as erysipelasTuberculosisLower-than-normal levels occur with:Congestive heart failureHyperviscosityHypofibrinogenemia (decreased fibrinogen levels)Leukemia Low plasma protein (due to liver or kidney disease)PolycythemiaSickle cell anemiaAlternative Names
+
+Erythrocyte sedimentation rate; Sed rate; Sedimentation rateImages
+
+
+Blood test
+References
+
+Deane KD, Pisetsky DS. Laboratory testing in the rheumatic diseases. In: Goldman L, Cooney KA, eds. Goldman-Cecil Medicine. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 237.Vajpayee N, Graham SS, Bem S. Basic examination of blood and bone marrow. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 31.
+Review Date 8/20/2023
+
+
+Updated by: Jacob Berman, MD, MPH, Clinical Assistant Professor of Medicine, Division of General Internal Medicine, University of Washington School of Medicine, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Arthritis
+Autoimmune Diseases
+Crohn's Disease
+Giant Cell Arteritis
+Lupus
+Polymyalgia Rheumatica
+Ulcerative Colitis

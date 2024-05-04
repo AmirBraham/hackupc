@@ -1,0 +1,40 @@
+source : https://medlineplus.gov/ency/article/000068.htm 
+ 
+ Histiocytosis is a general name for a group of disorders or "syndromes" that involve an abnormal increase in the number of specialized white blood cells that are called histiocytes.Recently, new knowledge about this family of diseases has led experts to develop a new classification. Five categories have been proposed:L group -- includes Langerhans cell histiocytosis and Erdheim-Chester diseaseC group -- includes non-Langerhans cell histiocytosis that involves the skinM group -- includes malignant histiocytosisR group -- includes Rosai-Dorfman diseaseH Group -- includes hemophagocytic lymphohistiocytosis This article focuses only on the L group, which includes Langerhans cell histiocytosis and Erdheim-Chester disease.Causes
+
+There has been debate as to whether Langerhans cell histiocytosis and Erdheim-Chester disease are inflammatory, immune disorders, or cancer-like conditions. Recently, through the use of genomics scientists have found that these forms of histiocytosis show gene changes (mutations) in early white blood cells. This leads to abnormal behavior in the cells. The abnormal cells then increase in various parts of body including the bones, skin, lungs, and other areas.Langerhans cell histiocytosis is a rare disorder that can affect people of all ages. The highest rate is among children ages 5 to 10. Some forms of the disorder are genetic, which means they are inherited.Erdheim-Chester disease is a rare form of histiocytosis affecting mainly adults that involves multiple parts of the body. Symptoms
+
+Both Langerhans cell histiocytosis and Erdheim-Chester disease can affect the whole body (systemic disorder).Symptoms can vary between children and adults, but they may have some of the same symptoms. Tumors in weight-bearing bones, such as the legs or spine, may cause the bones to fracture without an obvious reason.Symptoms in children may include:Abdominal painBone painDelayed pubertyDizzinessEar drainage that continues long-termEyes that appear to stick out more and moreIrritabilityFailure to thriveFeverFrequent urinationHeadacheJaundiceLimpingMental declineRashSeborrheic dermatitis of the scalpSeizuresShort statureSwollen lymph glandsThirst and increased drinking of fluidsVomitingWeight loss Note: Children over 5 years old often have only bone involvement.Symptoms in adults may include:Bone painChest painCoughFeverGeneral discomfort, uneasiness, or ill feelingIncreased amount of urineRashShortness of breathThirst and increased drinking of fluidsWeight lossExams and Tests
+
+There are no specific blood tests for Langerhans cell histiocytosis or Erdheim-Chester disease. The tumors produce a "punched-out" look on a bone x-ray. Specific tests vary, depending on the age of the person.Tests for children may include:Biopsy of skin to check for Langerhans cellsBone marrow biopsy to check for Langerhans cellsComplete blood count (CBC)X-rays of all the bones in the body to find out how many bones are affectedTest for a gene mutation in BRAF called V600E Tests for adults may also include:Biopsy of any tumor or massImaging of the body, including x-ray, CT scan, MRI, or PET scanBronchoscopy with biopsyPulmonary function testsBlood and tissue testing for gene mutations including BRAF V600E. This testing may need to be done at a specialized center. Langerhans cell histiocytosis is sometimes linked to cancer. CT scans and biopsy should be done to rule out possible cancer.Treatment
+
+People with Langerhans cell histiocytosis that involves only a single area (such as bone or skin) may be treated with local surgery. However, they will need to be followed closely to look for signs that the disease has spread. People with widespread Langerhans cell histiocytosis or Erdheim-Chester disease require medicines to reduce symptoms and control the spread of the disease. Recent studies show that nearly all adults with widespread histiocytosis have gene mutations in the tumors, which appear to cause the disorder. Medicines that inhibit these gene mutations, such as vemurafenib are currently available. Other similar drugs are also in development. Langerhans cell histiocytosis and Erdheim-Chester disease are very rare disorders. Therefore there is limited information about the best course of treatment. People with these conditions may want to take part in ongoing clinical trials designed to identify new treatments. Other medicines or treatments may be used, depending on the outlook (prognosis) and response to the starting medicines. Such treatments may include:Interferon alphaCyclophosphamide or vinblastineEtoposideMethotrexateVemurafenib, if the BRAF V600E mutation is foundStem cell transplantation Other treatments may include:Antibiotics to fight infectionsBreathing support (with a breathing machine)Hormone replacement therapyPhysical therapySpecial shampoos for scalp problemsSupportive care (also called comfort care) to relieve symptomsIn addition, people with these conditions who smoke are encouraged to stop since smoking may worsen the response to treatment. Support Groups
+
+Histiocytosis Association -- histio.orgOutlook (Prognosis)
+
+Langerhans cell histiocytosis and Erdheim-Chester disease can affect many organs and can lead to death.About one half of those with pulmonary histiocytosis improve, while others have permanent loss of lung function over time.In very young people, the outlook depends on the specific histiocytosis and how severe it is. Some children can live a normal life with minimal disease involvement, while others do poorly. Young children, especially infants, are more likely to have body-wide symptoms that lead to death.Possible Complications
+
+Complications may include:Diffuse interstitial pulmonary fibrosis (deep lung tissues that become inflamed and then damaged) 
+ Spontaneous collapsed lungChildren may also develop:Anemia caused by spreading of the tumors to the bone marrowDiabetes insipidus    Lung problems that lead to lung failureProblems with the pituitary gland that lead to growth failureWhen to Contact a Medical Professional
+
+Contact your health care provider if you or your child has symptoms of this disorder. Go to the emergency room if shortness of breath or chest pain develops.Prevention
+
+Avoid smoking. Quitting smoking can improve the outcome in people with Langerhans cell histiocytosis that affects the lungs.There is no known prevention of this disease.Alternative Names
+
+Langerhans cell histiocytosis; Erdheim-Chester diseaseImages
+
+
+Eosinophilic granuloma - x-ray of the skull
+Respiratory system
+References
+
+Goyal G, Young JR, Koster MJ, et al. The Mayo Clinic Histiocytosis Working Group consensus statement for the  diagnosis and evaluation of adult patients with histiocytic neoplasms: Erdheim-Chester disease, Langerhans cell histiocytosis, and Rosai-Dorfman disease. Mayo Clin Proc. 2019;94(10):2054-2071. PMID: 31472931 pubmed.ncbi.nlm.nih.gov/31472931/.Rollins BJ, Berliner N. Histiocytoses. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 160.
+Review Date 4/19/2022
+
+
+Updated by: Diane M. Horowitz, MD, Rheumatology and Internal Medicine, Northwell Health, Great Neck, NY. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.  
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Immune System and Disorders
+Interstitial Lung Diseases

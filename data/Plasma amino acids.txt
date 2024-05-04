@@ -1,0 +1,34 @@
+source : https://medlineplus.gov/ency/article/003361.htm 
+ 
+ Plasma amino acids is a screening test, usually done on infants that looks at the amounts of amino acids in the blood. Amino acids are the building blocks for proteins in the body.How the Test is Performed
+
+Most of the time, blood is drawn from a vein located on the inside of the elbow or the back of the hand.In infants or young children, a sharp tool called a lancet may be used to puncture the skin.The blood collects in a small glass tube called a pipette, or onto a slide or test strip.A bandage is put over the spot to stop any bleeding.The blood sample is sent to a lab. There are several types of methods used to determine the individual amino acid levels in the blood.How to Prepare for the Test
+
+The person having the test may be asked not to eat 3 or more hours before the test. Check with your child's health care provider for specific advice.How the Test will Feel
+
+There might be slight pain or a sting when the needle is inserted. You may also feel some throbbing at the site after the blood is drawn. The needle stick will probably cause an infant or child to cry.Why the Test is Performed
+
+This test is done to measure the level of amino acids in the blood.An increased level of a particular amino acid shows that there is a problem with the body's ability to break down (metabolize) that amino acid.The test may also be used to look for decreased levels of amino acids in the blood.Increased or decreased levels of amino acids in the blood may occur with fevers, inadequate nutrition, and certain medical conditions.Normal Results
+
+All measurements are in micromoles per liter (µmol/L). Normal values may vary between different laboratories. Talk to your health care provider about your specific test results.Alanine:Children: 200 to 450Adults: 230 to 510Alpha-aminoadipic acid:Children: not detectedAdults: not detectedAlpha-amino-N-butyric acid:Children: 8 to 37Adults: 15 to 41Arginine:Children: 44 to 120Adults: 13 to 64Asparagine:Children: 15 to 40Adults: 45 to 130Aspartic acid:Children: 0 to 26Adults: 0 to 6Beta-alanine:Children: 0 to 49Adults: 0 to 29Beta-amino-isobutyric acid:Children: not detectedAdults: not detectedCarnosine:Children: not detectedAdults: not detectedCitrulline:Children: 16 to 32Adults: 16 to 55Cystine:Children: 19 to 47Adults: 30 to 65Glutamic acid:Children: 32 to 140Adults: 18 to 98Glutamine:Children: 420 to 730Adults: 390 to 650Glycine:Children: 110 to 240Adults: 170 to 330Histidine:Children: 68 to 120Adults: 26 to 120Hydroxyproline:Children: 0 to 5Adults: not detectedIsoleucine:Children: 37 to 140Adults: 42 to 100 Leucine:Children: 70 to 170Adults: 66 to 170Lysine:Children: 120 to 290Adults: 150 to 220Methionine:Children: 13 to 30Adults: 16 to 301-methylhistidine:Children: not detectedAdults: not detected3-methylhistidine:Children: 0 to 52Adults: 0 to 64Ornithine:Children: 44 to 90Adults: 27 to 80 Phenylalanine:Children: 26 to 86Adults: 41 to 68Phosphoserine:Children: 0 to 12Adults: 0 to 12Phosphoethanolamine:Children: 0 to 12Adults: 0 to 55Proline:Children: 130 to 290Adults: 110 to 360Serine:Children: 93 to 150Adults: 56 to 140 Taurine:Children: 11 to 120Adults: 45 to 130Threonine:Children: 67 to 150Adults: 92 to 240Tyrosine:Children: 26 to 110Adults: 45 to 74Valine:Children: 160 to 350Adults: 150 to 310The examples above show the common measurements for results for these tests. Some laboratories use different measurements or may test different specimens.What Abnormal Results Mean
+
+An increase in the total level of amino acids in the blood may be due to:EclampsiaInborn error of metabolismFructose intoleranceKetoacidosis (from diabetes)Kidney failureReye syndromeLaboratory errorA decrease in the total level of amino acids in the blood may be due to:Adrenal cortical hyperfunctionFeverHartnup diseaseInborn error of metabolismHuntington choreaMalnutritionNephrotic syndromePhlebotomus feverRheumatoid arthritisLaboratory errorHigh or low amounts of individual plasma amino acids must be considered with other information. Abnormal results may be due to diet, hereditary problems, or effects of a medicine.Considerations
+
+Screening infants for increased levels of amino acids can help detect problems with metabolism. Early treatment for these conditions may prevent complications in the future.Alternative Names
+
+Amino acids blood testImages
+
+
+Amino acids
+References
+
+Dietzen DJ, Vieira Willrich MA. Amino acids, peptides, and proteins. In: Rifai N, Chiu RWK, Young I, Burnham C-A D, Wittwer CT, eds. Tietz Textbook of Laboratory Medicine. 7th ed. St Louis, MO: Elsevier; 2023:chap 31.Kliegman RM, St. Geme JW, Blum NJ, Shah SS, Tasker RC, Wilson KM. Defects in metabolism of amino acids. In: Kliegman RM, St. Geme JW, Blum NJ, Shah SS, Tasker RC, Wilson KM, eds. Nelson Textbook of Pediatrics. 21st ed. Philadelphia, PA: Elsevier; 2020:chap 103.Riley RS, McPherson RA. Basic examination of urine. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Elsevier; 2022:chap 29.
+Review Date 4/24/2023
+
+
+Updated by: Anna C. Edens Hurst, MD, MS, Associate Professor in Medical Genetics, The University of Alabama at Birmingham, Birmingham, AL. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.   
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Amino Acid Metabolism Disorders
+Newborn Screening

@@ -1,0 +1,38 @@
+source : https://medlineplus.gov/ency/article/000161.htm 
+ 
+ Normally, the heartbeat starts in an area in the top chambers of the heart (atria). This area is the heart's pacemaker. It is called the sinoatrial node, sinus node or SA node. Its role is to keep the heart beat steady and regular.Sick sinus syndrome is a group of heart rhythm problems due to problems with the sinus node, such as:The heartbeat rate is too slow, called sinus bradycardiaThe heartbeat pauses or stops, called sinus pauses or sinus arrestEpisodes of a fast heart rateSlow heart rhythms that alternate with fast heart rhythms, called bradycardia-tachycardia or "tachy-brady syndrome"Causes
+
+Sick sinus syndrome most often occurs in people older than age 50. It is often due to scar-like damage to electrical pathways in the heart muscle tissue.In children, heart surgery on the upper chambers is a common cause of sick sinus syndrome.Coronary heart disease, high blood pressure, and aortic and mitral valve diseases may occur with sick sinus syndrome. However, these diseases may have nothing to do with the syndrome.Sick sinus syndrome is uncommon, but not rare. It is the most common reason people need to have an artificial pacemaker implanted. Sinus bradycardia occurs more often than the other types of the condition.Tachycardias (rapid heart rhythms) that start in the upper chambers of the heart may be part of the syndrome. These include atrial fibrillation, atrial flutter, atrial tachycardia. A period of fast heart rates is often followed by very slow heart rates. When there are periods of both slow and fast heart rates (rhythms) the condition often will be called tachy-brady syndrome.Some medicines can make abnormal heart rhythms worse, especially when doses are high. These include digitalis, calcium channel blockers, beta-blockers, and antiarrhythmics.Symptoms
+
+Most of the time, there are no symptoms.Symptoms that do occur may mimic those of other disorders.Symptoms may include:Chest pain or anginaConfusion or other changes in mental statusFainting or near-faintingFatigueDizziness or lightheadednessSensation of feeling the heart beat (palpitations)Shortness of breath, possibly only with physical activity like walkingExams and Tests
+
+The heart rate may be very slow at any time. Blood pressure may be normal or low.Sick sinus syndrome may cause symptoms of heart failure to start or get worse. Sick sinus syndrome is diagnosed when the symptoms occur only during episodes of arrhythmia. However, the link is often hard to prove.An ECG may show abnormal heart rhythms related to this syndrome.Holter or longer term rhythm monitors are effective tools for diagnosing sick sinus syndrome. They may pick up very slow heart rates and long pauses, along with episodes of atrial tachycardias. Types of monitors include event monitors, loop recorders, and mobile telemetry.An intracardiac electrophysiology study (EPS) is a very specific test for this disorder. However, it is not often needed and may not confirm the diagnosis.In some cases, a person's heart rate is observed when walking or exercising to see if it increases enough.Treatment
+
+You may not need treatment if you do not have any symptoms. Your health care provider will review the medicines you take to make sure they are not making your condition worse. Do not stop taking any of your medicines unless your provider tells you to do so.You may need a permanent implanted pacemaker if your symptoms are related to bradycardia (slow heart rate).A fast heart rate (tachycardia) may be treated with medicine. Sometimes, a procedure called radiofrequency ablation is used to cure tachycardia.In some cases, medicines used to control periods of fast heart rate are combined with use of a pacemaker, which guards against periods of slow heart rate.Outlook (Prognosis)
+
+The syndrome is most often progressive. This means it gets worse over time in most cases.The long-term outlook is excellent for people who have a permanent pacemaker implanted.Possible Complications
+
+Complications may include:AnginaDecreased exercised capacityFainting (syncope)Falls or injury caused by faintingHeart failurePoor heart pumpingWhen to Contact a Medical Professional
+
+Contact your provider if you have:LightheadednessFaintingPalpitationsOther symptoms of the conditionPrevention
+
+Keeping your heart healthy by eating a well-balanced diet and exercising can prevent many types of heart disease.You may need to avoid some types of medicines.  Many times, the condition is not preventable.Alternative Names
+
+Bradycardia-tachycardia syndrome; Sinus node dysfunction; Slow heart rate - sick sinus; Tachy-brady syndrome; Sinus pause - sick sinus; Sinus arrest - sick sinusPatient Instructions
+
+Heart pacemaker - discharge
+Images
+
+
+Pacemaker
+References
+
+Patton KK, Olgin JE. Bradyarrhythmias and atrioventricular block. In: Libby P, Bonow RO, Mann DL, Tomaselli GF, Bhatt DL, Solomon SD, eds. Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine. 12th ed. Philadelphia, PA: Elsevier; 2022:chap 68.Zimetbaum P. Supraventricular cardiac arrhythmias. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 58.
+Review Date 1/9/2022
+
+
+Updated by: Michael A. Chen, MD, PhD, Associate Professor of Medicine, Division of Cardiology, Harborview Medical Center, University of Washington Medical School, Seattle, WA. Also reviewed by David Zieve, MD, MHA, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Arrhythmia

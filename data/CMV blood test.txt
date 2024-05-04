@@ -1,0 +1,35 @@
+source : https://medlineplus.gov/ency/article/003546.htm 
+ 
+ The CMV blood test determines the presence of substances (proteins) called antibodies to a virus called cytomegalovirus (CMV) in the blood.How the Test is Performed
+
+A blood sample is needed.How to Prepare for the Test
+
+There is no special preparation for the test.How the Test will Feel
+
+When the needle is inserted to draw blood, some people feel moderate pain, while others feel only a prick or stinging. Afterward, there may be some throbbing or a slight bruise. This soon goes away.Why the Test is Performed
+
+CMV infection is a disease caused by a type of herpes virus.The CMV blood test is performed to detect current active CMV infection, or past CMV infection in people who are at risk for reactivation of infection. These people include organ transplant recipients and those with a suppressed immune system. The test may also be performed to detect CMV infection in newborns.Normal Results
+
+People who have never been infected with CMV have no detectable antibodies to CMV.Normal value ranges may vary slightly among different laboratories. Some labs use different measurements or test different samples. Talk to your health care provider about the meaning of your specific test results.What Abnormal Results Mean
+
+The presence of antibodies to CMV indicates a current or past infection with CMV. If the number of antibodies (called the antibody titer) rises over a few weeks, it may mean that you have a current or recent infection.Long-term (chronic) CMV infection (in which the antibody count stays about the same over time) can reactivate in a person with a suppressed immune system.Risks
+
+There is little risk involved with having your blood taken. Veins and arteries vary in size from one person to another and from one side of the body to the other. Taking blood from some people may be more difficult than from others.Other risks associated with having blood drawn are slight, but may include:Excessive bleedingFainting or feeling lightheadedMultiple punctures to locate veinsHematoma (blood accumulating under the skin)Infection (a slight risk any time the skin is broken) Considerations
+
+To detect a blood or organ infection with CMV, your provider can test for the presence of CMV itself in the blood or a specific organ.Alternative Names
+
+CMV antibody testsImages
+
+
+Blood test
+References
+
+Britt WJ. Cytomegalovirus. In: Bennett JE, Dolin R, Blaser MJ, eds. Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases. 9th ed. Philadelphia, PA: Elsevier; 2020:chap 137.Hogan CA, Broadhurst MJ, Wang H, Pinsky BA. Viral infections. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 64.
+Review Date 8/26/2023
+
+
+Updated by: Jatin M. Vyas, MD, PhD, Associate Professor in Medicine, Harvard Medical School; Associate in Medicine, Division of Infectious Disease, Department of Medicine, Massachusetts General Hospital, Boston, MA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Cytomegalovirus Infections

@@ -1,0 +1,30 @@
+source : https://medlineplus.gov/ency/article/003548.htm 
+ 
+ Rheumatoid factor (RF) is a blood test that measures the amount of the RF antibody in the blood.How the Test is Performed
+
+Most of the time, blood is drawn from a vein located on the inside of the elbow or the back of the hand.In infants or young children, a sharp tool called a lancet may be used to puncture the skin.The blood collects in a small glass tube called a pipette, or onto a slide or test strip.A bandage is put over the spot to stop any bleeding.How to Prepare for the Test
+
+You do not need to take special steps before this test.How the Test will Feel
+
+You may feel slight pain or a sting when the needle is inserted. You may also feel some throbbing at the site after the blood is drawn.Why the Test is Performed
+
+This test is most often used to help diagnose rheumatoid arthritis or Sjögren syndrome.Normal Results
+
+Results are usually reported in one of two ways:Value, normal less than 15 IU/mLTiter, normal less than 1:80 (1 to 80) If the result is above the normal level, it is positive. A low number (negative result) most often means you do not have rheumatoid arthritis or Sjögren syndrome. However, some people who do have these conditions still have a negative or low RF.Normal value ranges may vary slightly among different laboratories. Talk to your health care provider about the meaning of your specific test results.What Abnormal Results Mean
+
+An abnormal result means the test is positive, which means a higher level of RF has been detected in your blood.Many people with rheumatoid arthritis or Sjögren syndrome have positive RF tests.The higher the level, the more likely one of these conditions is present. There are also other tests that can be done to help make the diagnosis.Not everyone with a higher level of RF has rheumatoid arthritis or Sjögren syndrome. Your provider should also do another blood test (anti-cyclic citrullinated peptide antibody or anti-CCP antibody), to help diagnose rheumatoid arthritis (RA). Anti-CCP antibody is more specific for RA than RF. A positive test for CCP antibody means RA is probably the correct diagnosis.People with the following diseases may also have higher levels of RF:Hepatitis CSystemic lupus erythematosusDermatomyositis and polymyositisSarcoidosisMixed cryoglobulinemiaMixed connective tissue disease Higher-than-normal levels of RF may be seen in people with other medical problems. However, these higher RF levels cannot be used to diagnose these other conditions:AIDS, hepatitis, influenza, infectious mononucleosis, and other viral infectionsCertain kidney diseasesEndocarditis, tuberculosis, and other bacterial infectionsParasite infectionsLeukemia, multiple myeloma, and other cancersChronic lung diseaseChronic liver disease In some cases, people who are healthy and have no other medical problem will have a higher-than-normal RF level.Images
+
+
+Blood test
+References
+
+Aletaha D, Neogi T, Silman AJ, et al. 2010 Rheumatoid arthritis classification criteria: an American College of Rheumatology/European League Against Rheumatism collaborative initiative. Ann Rheum Dis. 2010;69(9):1580-1588. PMID: 20699241 pubmed.ncbi.nlm.nih.gov/20699241/.Darrah E, Rosen A, Andrade F. Autoantibodies in rheumatoid arthritis. In: Firestein GS, Budd RC, Gabriel SE, Koretzky GA, McInnes IB, O'Dell JR, eds. Firestein & Kelley's Textbook of Rheumatology. 11th ed. Philadelphia, PA: Elsevier; 2021:chap 59.Sieghart D, Trouw L, Steiner G. Autoantibodies in rheumatoid arthritis. In: Hochberg MC, Gravallese EM, Smolen JS, van der Heijde D, Weinblatt ME, Weisman MH, eds. Rheumatology. 8th ed. Philadelphia, PA: Elsevier; 2023:chap 96.Mason JC. Rheumatic diseases and the cardiovascular system. In: Libby P, Bonow RO, Mann DL, Tomaselli GF, Bhatt DL, Solomon SD, eds. Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine. 12th ed. Philadelphia, PA: Elsevier; 2022:chap 97.Pisetsky DS. Laboratory testing in the rheumatic diseases. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 242.
+Review Date 4/30/2023
+
+
+Updated by: Neil J. Gonter, MD, Assistant Professor of Medicine, Columbia University, New York, NY, and private practice specializing in Rheumatology at Rheumatology Associates of North Jersey, Teaneck, NJ. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Rheumatoid Arthritis
+Sjogren's Syndrome

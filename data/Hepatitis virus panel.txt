@@ -1,0 +1,37 @@
+source : https://medlineplus.gov/ency/article/003558.htm 
+ 
+ The hepatitis virus panel is a series of blood tests used to detect current or past infection by hepatitis A, hepatitis B, or hepatitis C. It can screen blood samples for more than one kind of hepatitis virus at the same time.Antibody and antigen tests can detect each of the different hepatitis viruses.Note: Hepatitis D only causes disease in people who also have hepatitis B. It is not routinely checked in a hepatitis antibody panel.How the Test is Performed
+
+Blood is most often drawn from a vein from the inside of the elbow or the back of the hand. The site is cleaned with germ-killing medicine (antiseptic). The health care provider wraps an elastic band around the upper arm to apply pressure to the area and make the vein swell with blood.Next, the provider gently inserts a needle into the vein. The blood collects into an airtight tube attached to the needle. The elastic band is removed from your arm. Once the blood has been collected, the needle is removed. The puncture site is covered to stop any bleeding.In infants or young children, a sharp tool called a lancet may be used to puncture the skin and make it bleed. The blood collects into a small glass tube, or onto a slide or test strip. A bandage may be placed over the area if there is any bleeding.The blood sample is sent to a lab to be examined. Blood (serology) tests are used to check for antibodies to each of the hepatitis viruses.How to Prepare for the Test
+
+No special preparation is needed.How the Test will Feel
+
+Some people feel moderate pain when the needle is inserted to draw blood. Others feel only a prick or stinging sensation. Afterward, you may feel some throbbing.Why the Test is Performed
+
+Your provider may order this test if you have signs or symptoms of hepatitis. It is used to:Detect current or previous hepatitis infectionDetermine how contagious a person with hepatitis isMonitor a person who is being treated for hepatitis The test may be performed for other conditions, such as:Chronic persistent hepatitisHepatitis D (delta agent)Nephrotic syndromeCryoglobulinemiaPorphyria cutanea tardaErythema multiforme and nodosum Normal Results
+
+A normal result means no hepatitis antibodies or antigens are found in the blood sample. This is called a negative result.Normal value ranges may vary slightly depending on the lab doing the test. Talk to your provider about the meaning of your specific test results.What Abnormal Results Mean
+
+There are different tests for hepatitis A and hepatitis B. A positive test is considered abnormal.A positive test may mean:You currently have a hepatitis infection. This may be a new infection (acute hepatitis), or it may be an infection that you have had for a long time (chronic hepatitis).You had a hepatitis infection in the past, but you no longer have the infection and can't spread it to others. Hepatitis A test results:IgM anti-hepatitis A virus (HAV) antibodies, you have had a recent infection with hepatitis ATotal (IgM and IgG) antibodies to hepatitis A, you have a recent, or past infection, or immunity to hepatitis A Hepatitis B test results:Hepatitis B surface antigen (HBsAg): you have an active hepatitis B infection, either recent or chronic (long-term)Antibody to hepatitis B core antigen (Anti-HBc), you have a recent or past hepatitis B infectionAntibody to HBsAg (Anti-HBs): you have a past hepatitis B infection or you have received the hepatitis B vaccine and are unlikely to become infectedHepatitis B type e antigen (HBeAg): you have a hepatitis B infection and you are more likely to spread the infection to others through sexual contact or by sharing needles Antibodies to hepatitis C can most often be detected 4 to 10 weeks after you get the infection. Other types of tests may be done to decide on treatment and monitor the hepatitis C infection.Risks
+
+Risks associated with having blood drawn are slight, but may include:Excessive bleedingFainting or feeling lightheadedHematoma (blood accumulating under the skin)Infection (a slight risk any time the skin is broken) Alternative Names
+
+Hepatitis A antibody test; Hepatitis B antibody test; Hepatitis C antibody test; Hepatitis D antibody testImages
+
+
+Blood test
+Hepatitis B virus
+Erythema multiforme, circular lesions - hands
+References
+
+ Daniels l, Khalili M, Goldstein E, Bluth MH, Bowne WB, Pincus MR. Evaluation of liver function. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 22.Pawlotsky J-M. Acute viral hepatitis. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 139.Pawlotsky J-M. Chronic viral and autoimmune hepatitis. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 140.
+Review Date 11/3/2022
+
+
+Updated by: Michael M. Phillips, MD, Emeritus Professor of Medicine, The George Washington University School of Medicine, Washington, DC. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Hepatitis A
+Hepatitis B
+Hepatitis C

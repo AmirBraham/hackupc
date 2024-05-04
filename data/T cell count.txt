@@ -1,0 +1,41 @@
+source : https://medlineplus.gov/ency/article/003516.htm 
+ 
+ A T-cell count measures the number of T cells in the blood. Your health care provider may order this test if you have signs of a weak immune system, such as due to having HIV/AIDS.How the Test is Performed
+
+A blood sample is needed.How to Prepare for the Test
+
+No special preparation is necessary.How the Test will Feel
+
+When the needle is inserted to draw blood, some people feel moderate pain. Others feel only a prick or stinging. Afterward, there may be some throbbing or a slight bruise. This soon goes away.Why the Test is Performed
+
+T cells are a type of lymphocyte. Lymphocytes are a type of white blood cell. They make up part of the immune system. T cells help the body fight diseases or harmful substances, such as bacteria or viruses.Your health care provider may order this test if you have signs of a weak immune system (immunodeficiency disorder). It may also be ordered if you have a disease of the lymph nodes. Lymph nodes are small glands that make some types of white blood cells. The test is also used to monitor how well treatment for these types of diseases is working.One type of T cell is the CD4 cell, or "helper cell." People with HIV/AIDS have routine T-cell tests to check their CD4 cell counts. The results help your provider monitor the disease and its treatment.Normal Results
+
+Normal results vary depending on the type of T-cell tested.In adults, a normal CD4 cell count ranges from 500 to 1,500 cells/mm3 (0.50 to 1.50 cells/109/L).Normal value ranges may vary slightly among different laboratories. Some labs use different measurements or test different samples. Talk to your provider about the meaning of your specific test results.What Abnormal Results Mean
+
+Higher than normal T-cell levels may be due to:Cancer, such as acute lymphocytic leukemia or multiple myelomaInfections, such as hepatitis or mononucleosisLower than normal T-cell levels may be due to: Acute viral infectionsAgingCancerImmune system diseases, such as HIV/AIDSRadiation therapySteroid treatment Risks
+
+There is very little risk involved with having your blood taken. Veins and arteries vary in size from one person to another and from one side of the body to the other. Taking blood from some people may be more difficult than from others.Other risks associated with having blood drawn are slight but may include:Excessive bleedingFainting or feeling lightheadedBlood accumulating under the skin (hematoma)Infection (a slight risk any time the skin is broken)Multiple punctures to locate veins This test is often performed on people with a weakened immune system. Therefore, the risk for infection may be higher than when blood is drawn from a person with a healthy immune system.Alternative Names
+
+Thymus derived lymphocyte count; T-lymphocyte count; T cell countImages
+
+
+Blood test
+References
+
+Berliner N. Leukocytosis and leukopenia. In: Goldman L, Cooney KA, eds. Goldman-Cecil Medicine. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 153.Holland SM, Gallin JI. Evaluation of the patient with suspected immunodeficiency. In: Bennett JE, Dolin R, Blaser MJ, eds. Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases. 9th ed. Philadelphia, PA: Elsevier; 2020:chap 12.McPherson RA, Massey HD. Overview of the immune system and immunologic disorders. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 44.
+Review Date 8/20/2023
+
+
+Updated by: Jacob Berman, MD, MPH, Clinical Assistant Professor of Medicine, Division of General Internal Medicine, University of Washington School of Medicine, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.  
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Acute Lymphocytic Leukemia
+Childhood Leukemia
+HIV
+Hodgkin Lymphoma
+Infectious Mononucleosis
+Leukemia
+Lymphatic Diseases
+Lymphoma
+Multiple Myeloma

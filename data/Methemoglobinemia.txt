@@ -1,0 +1,54 @@
+source : https://medlineplus.gov/ency/article/000562.htm 
+ 
+ Methemoglobinemia (MetHb) is a blood disorder in which an abnormal amount of methemoglobin is produced. Hemoglobin is the protein in red blood cells (RBCs) that carries and distributes oxygen to the body. Methemoglobin is a form of hemoglobin.With methemoglobinemia, the hemoglobin can carry oxygen, but is not able to release it effectively to body tissues.Causes
+
+The MetHb condition can be:Passed down through families (inherited or congenital)Caused by exposure to certain medicines, chemicals, or foods (acquired)There are two forms of inherited MetHb. The first form is passed on by both parents. The parents usually do not have the condition themselves. They carry the gene that causes the condition. It occurs when there is a problem with an enzyme called cytochrome b5 reductase.There are two types of inherited MetHb:
+   Type 1 (also called erythrocyte reductase deficiency) occurs when RBCs lack the enzyme.
+   
+   Type 2 (also called generalized reductase deficiency) occurs when the enzyme doesn't work in the body.
+   The second form of inherited MetHb is called hemoglobin M disease. It is caused by defects in the hemoglobin protein itself. Only one parent needs to pass on the abnormal gene for the child to inherit the disease.Acquired MetHb is more common than the inherited forms. It occurs in some people after they are exposed to certain chemicals and medicines, including:
+   Anesthetics such as benzocaine
+   Nitrobenzene
+   Certain antibiotics (including dapsone and chloroquine)
+   
+   Nitrites (used as additives to prevent meat from spoiling)
+   Symptoms
+
+Symptoms of type 1 MetHb include:
+  Bluish coloring of the skin (called cyanosis)Symptoms of type 2 MetHb include:
+  Developmental delay
+  
+  Failure to thrive
+  
+  Intellectual disability
+  SeizuresSymptoms of hemoglobin M disease include:
+  Bluish coloring of the skin
+  Symptoms of acquired MetHb include:Bluish coloring of the skinHeadacheGiddinessAltered mental stateFatigueShortness of breathLack of energyExams and Tests
+
+A baby with this condition will have a bluish skin color (cyanosis) at birth or shortly afterward. The health care provider will perform blood tests to diagnose the condition. Tests may include:Checking the oxygen level in the blood (pulse oximetry)Blood test to check levels of gases in the blood (arterial blood gas analysis)Treatment
+
+People with hemoglobin M disease don't have symptoms. So, they may not need treatment.A medicine called methylene blue is used to treat severe MetHb. Methylene blue may be unsafe in people who have or may be at risk for a blood disease called G6PD deficiency. They should not take this medicine. If you or your child has G6PD deficiency, always tell your provider before getting treatment.Ascorbic acid may also be used to reduce the level of methemoglobin.Alternative treatments include hyperbaric oxygen therapy, red blood cell transfusion and exchange transfusions.In most cases of mild acquired MetHb, no treatment is needed. But you should avoid the medicine or chemical that caused the problem. Severe cases may need a blood transfusion.Outlook (Prognosis)
+
+People with type 1 MetHb and hemoglobin M disease often do well. Type 2 MetHb is more serious. It often causes death within the first few years of life.People with acquired MetHb often do very well once the medicine, food, or chemical that caused the problem is identified and avoided.Possible Complications
+
+Complications of MetHb include:ShockSeizuresDeathWhen to Contact a Medical Professional
+
+Call your provider if you:Have a family history of MetHbDevelop symptoms of this disorderCall 911 or the local emergency number right away if you have severe shortness of breath.Prevention
+
+Genetic counseling is suggested for couples with a family history of MetHb and are considering having children.Babies 6 months or younger are more likely to develop methemoglobinemia. Therefore, homemade baby food purees made from vegetables containing high levels of natural nitrates, such as carrots, beetroots, or spinach should be avoided. Alternative Names
+
+Hemoglobin M disease; Erythrocyte reductase deficiency; Generalized reductase deficiency; MetHbImages
+
+
+Blood cells
+References
+
+Benz EJ, Ebert BL. Hemoglobin variants associated with hemolytic anemia, altered oxygen affinity, and methemoglobinemias. In: Hoffman R, Benz EJ, Silberstein LE, eds. Hematology: Basic Principles and Practice. 7th ed. Philadelphia, PA: Elsevier; 2018:chap 43.Letterio J, Pateva I, Petrosiute A, Ahuja S. Hematologic and oncologic problems in the fetus and neonate. In: Martin RJ, Fanaroff AA, Walsh MC, eds. Fanaroff and Martin's Neonatal-Perinatal Medicine. 11th ed. Philadelphia, PA: Elsevier; 2020:chap 79.Means RT. Approach to the anemias. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 149.
+Review Date 4/29/2022
+
+
+Updated by: Todd Gersten, MD, Hematology/Oncology, Florida Cancer Specialists & Research Institute, Wellington, FL. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Blood Disorders

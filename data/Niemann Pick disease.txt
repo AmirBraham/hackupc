@@ -1,0 +1,37 @@
+source : https://medlineplus.gov/ency/article/001207.htm 
+ 
+ Niemann-Pick disease (NPD) is a group of diseases passed down through families (inherited) in which fatty substances called lipids collect in the cells of the spleen, liver, and brain.There are three common forms of the disease:Type AType BType C Each type involves different organs. It may or may not involve the nervous system and breathing. Each one can cause different symptoms and may occur at different times throughout life.Causes
+
+NPD types A and B occur when cells in the body do not have an enzyme called acid sphingomyelinase (ASM). This substance helps break down (metabolize) a fatty substance called sphingomyelin, which is found in every cell in the body.If ASM is missing or does not work properly, sphingomyelin builds up inside cells. This kills your cells and makes it hard for organs to work properly.Type A occurs in all races and ethnicities. It is more common in the Ashkenazi (Eastern European) Jewish population.Type C occurs when the body cannot properly break down cholesterol and other fats (lipids). This leads to too much cholesterol in the liver and spleen and too much of other lipids in the brain. Type C is most common among Puerto Ricans of Spanish descent.Type C1 is a variant of type C. It involves a defect that interferes with how cholesterol moves between brain cells. This type has only been seen in French Canadian people in Yarmouth County, Nova Scotia.Symptoms
+
+Symptoms vary. Other health conditions may cause similar symptoms. The early stages of the disease may only cause a few symptoms. A person may never have all symptoms.Type A usually begins in the first few months of life. Symptoms may include:Abdominal (belly area) swelling within 3 to 6 monthsCherry red spot at the back of the eye (on the retina)Feeding difficultiesLoss of early motor skills (gets worse over time)Type B symptoms are usually milder. They occur in late childhood or the teenage years. Abdominal swelling may occur in young children. There is almost no brain and nervous system involvement, such as loss of motor skills. Some children may have repeated respiratory infections.Types C and C1 usually affects school-age children. However, it may occur any time between early infancy to adulthood. Symptoms may include:Difficulty moving limbs that may lead to unsteady gait, clumsiness, walking problemsEnlarged spleenEnlarged liverJaundice at (or shortly after) birthLearning difficulties and intellectual declineSeizuresSlurred, irregular speechSudden loss of muscle tone that may lead to fallsTremorsTrouble moving the eyes up and downExams and Tests
+
+A blood or bone marrow test can be done to diagnose types A and B. The test can tell who has the disease, but does not show if you are a carrier. DNA tests can be done to diagnose carriers of types A and B.A skin biopsy is usually done to diagnose types C and C1. The health care provider watches how the skin cells grow, move, and store cholesterol. DNA tests may also be done to look for the 2 genes that cause this type of the disease.Other tests might include:Bone marrow aspirationLiver biopsy (usually not needed)Slit-lamp eye examTests to check level of ASMTreatment
+
+At this time, there is no effective treatment for the neurologic symptoms of type A. Enzyme replacement with olipudase alfa was approved by the FDA in 2022 to treat non-central nervous system symptoms.Bone marrow transplants may be tried for type B. Enzyme replacement with olipudase alfa is approved by the FDA to treat non-central nervous system symptoms of type B. Researchers continue to study additional possible treatments, such as gene therapy.A medicine called miglustat is available for the nervous system symptoms of type C.High cholesterol may be managed with a healthy, low-cholesterol diet or medicines. However, research does not show that these methods stop the disease from getting worse or change how cells break down cholesterol. Medicines are available to control or relieve many symptoms, such as sudden loss of muscle tone and seizures.Support Groups
+
+These organizations can provide support and more information on Niemann-Pick disease:National Institute of Neurological Disorders and Stroke -- www.ninds.nih.gov/health-information/disorders/niemann-pick-disease/National Niemann-Pick Disease Foundation -- nnpdf.orgNational Organization for Rare Disorders -- rarediseases.org/rare-diseases/niemann-pick-disease-type-cOutlook (Prognosis)
+
+NPD type A is a severe disease. It usually leads to death by age 2 or 3.Those with type B may live into late childhood or adulthood.A child who shows signs of type C before age 1 may not live to school age. Those who show symptoms after entering school may live into their mid-to-late teens. Some may live into their 20s.When to Contact a Medical Professional
+
+Make an appointment with your provider if you have a family history of Niemann-Pick disease and you plan to have children. Genetic counseling and screening is recommended.Contact your provider if your child has symptoms of this disease, including:Developmental problemsFeeding problemsPoor weight gainPrevention
+
+All types of Niemann-Pick are autosomal recessive. This means that both parents are carriers. Each parent has one copy of the abnormal gene without having any signs of the disease themselves.When both parents are carriers, there is a 25% chance that their child will have the disease and a 50% chance that their child will be a carrier.Carrier detection testing is only possible if the genetic defect is identified. The defects involved in types A and B have been well-studied. DNA tests for these forms of Niemann-Pick are available.Genetic defects have been identified in the DNA of many people with type C. It may be possible to diagnose people who carry the abnormal gene.A few centers offer tests to diagnose a baby still in the womb.Alternative Names
+
+NPD; Sphingomyelinase deficiency; Lipid storage disorder - Niemann-Pick disease; Lysosomal storage disease - Niemann-PickImages
+
+
+Niemann-Pick foamy cells
+Autosomal recessive
+References
+
+Kliegman RM, St. Geme JW, Blum NJ, Shah SS, Tasker RC, Wilson KM.. Defects in metabolism of lipids. In: Kliegman RM, St. Geme JW, Blum NJ, Shah SS, Tasker RC, Wilson KM, eds. Nelson Textbook of Pediatrics. 21st ed. Philadelphia, PA: Elsevier; 2020:chap 104.Turnpenny PD, Ellard S, Cleaver R. Inborn errors of metabolism. In: Turnpenny PD, Ellard S, Cleaver R, eds. Emery's Elements of Medical Genetics and Genomics. 16th ed. Philadelphia, PA: Elsevier; 2022:chap 18.
+Review Date 10/13/2022
+
+
+Updated by: Anna C. Edens Hurst, MD, MS, Associate Professor in Medical Genetics, The University of Alabama at Birmingham, Birmingham, AL. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.  
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Genetic Brain Disorders
+Lipid Metabolism Disorders

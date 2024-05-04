@@ -1,0 +1,34 @@
+source : https://medlineplus.gov/ency/article/000609.htm 
+ 
+ Waterhouse-Friderichsen syndrome (WFS) is a group of symptoms caused when the adrenal glands fail to function normally. This occurs as a result of bleeding into the glands.Causes
+
+The adrenal glands are two triangle-shaped glands. One gland is located on top of each kidney. The adrenal glands produce and release different hormones that the body needs to function normally. The adrenal glands can be affected by many diseases, such as infections like WFS.WFS is caused by severe infection with meningococcus bacteria or other bacteria such as:Group B streptococcusPseudomonas aeruginosaStreptococcus pneumoniaeStaphylococcus aureusSymptoms
+
+Symptoms occur suddenly. They are due to the bacteria growing in large numbers inside the body. Symptoms include:Fever and chillsJoint and muscle painHeadacheVomiting The infection with bacteria causes bleeding throughout the body, which causes:A rash throughout the bodyDisseminated intravascular coagulation in which small blood clots cut off blood supply to the organsSeptic shockBleeding into the adrenal glands makes the glands unable to produce enough adrenal hormones. This is called adrenal crisis, and it leads to symptoms such as:Dizziness, weaknessVery low blood pressureVery fast heart rateConfusion or coma Exams and Tests
+
+Your health care provider will perform a physical exam and ask about your symptoms.Blood tests will be done to confirm a bacterial infection. Tests may include:Blood cultureComplete blood count with differentialBlood clotting studiesIf your provider suspects the infection is caused by meningococcus bacteria, other tests that may be done include:Lumbar puncture to get a sample of spinal fluid for cultureSkin biopsy and Gram stainUrine analysisTests that may be ordered to help diagnose acute adrenal crisis include:ACTH (cosyntropin) stimulation testCortisol blood testBlood sugarPotassium blood testSodium blood testBlood pH test Treatment
+
+Antibiotics are started right away to treat the bacterial infection. Glucocorticoid medicines will also be given to treat adrenal gland insufficiency. Supportive treatments will be needed for other symptoms.Outlook (Prognosis)
+
+WFS is fatal unless treatment for the bacterial infection is started right away and glucocorticoid drugs are given.Prevention
+
+To prevent WFS caused by meningococcal bacteria, a vaccine is available.Alternative Names
+
+Fulminant meningococcemia - Waterhouse-Friderichsen syndrome; Fulminant meningococcal sepsis - Waterhouse-Friderichsen syndrome; Hemorrhagic adrenalitisImages
+
+
+Meningococcal lesions on the back
+Adrenal gland hormone secretion
+References
+
+Newell-Price JDC, Auchus RJ. The adrenal cortex. In: Melmed S, Auchus RJ, Goldfine AB, Koenig RJ, Rosen CJ, eds. Williams Textbook of Endocrinology. 14th ed. Philadelphia, PA: Elsevier; 2020:chap 15.Stephens DS. Neisseria meningitides. In: Bennett JE, Dolin R, Blaser MJ, eds. Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases. 9th ed. Philadelphia, PA: Elsevier; 2020:chap 211.
+Review Date 8/26/2023
+
+
+Updated by: Jatin M. Vyas, MD, PhD, Associate Professor in Medicine, Harvard Medical School; Associate in Medicine, Division of Infectious Disease, Department of Medicine, Massachusetts General Hospital, Boston, MA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Adrenal Gland Disorders
+Meningitis
+Meningococcal Infections

@@ -1,0 +1,35 @@
+source : https://medlineplus.gov/ency/article/003706.htm 
+ 
+ The growth hormone test measures the amount of growth hormone in the blood.The pituitary gland makes growth hormone, which causes a child to grow. This gland is located at the base of the brain.How the Test is Performed
+
+A blood sample is needed. How to Prepare for the Test
+
+Your health care provider may give you special instructions about what you can or cannot eat before the test.How the Test will Feel
+
+When the needle is inserted to draw blood, some people feel moderate pain. Others feel only a prick or stinging. Afterward, there may be some throbbing or a slight bruise. This soon goes away.Why the Test is Performed
+
+This hormone may be checked if a person's growth pattern is abnormal or if another condition is suspected. Too much growth hormone (GH) can cause abnormally increased growth patterns. In adults, this is called acromegaly. In children, it is called gigantism.Too little growth hormone can cause a slow or flat rate of growth in children. In adults, it can sometimes cause changes in energy, muscle mass, cholesterol levels, and bone strength. The GH test may also be used to monitor response to acromegaly treatment.Normal Results
+
+The normal range for GH level is typically:For adult males -- 0.4 to 10 nanograms per milliliter (ng/mL), or 18 to 44 picomoles per liter (pmol/L)For adult females -- 1 to 14 ng/mL, or 44 to 616 pmol/LFor children -- 10 to 50 ng/mL, or 440 to 2200 pmol/LGH is released in pulses. The size and duration of the pulses varies with time of day, age, and sex. This is why random GH measurements are rarely useful. A higher level may be normal if the blood was drawn during a pulse. A lower level may be normal if the blood was drawn around the end of a pulse. GH is most useful when measured as part of a stimulation or suppression test.Normal value ranges may vary slightly among different laboratories. Some labs use different measurements or test different specimens. Talk to your provider about the meaning of your specific test results.What Abnormal Results Mean
+
+A high level of GH may indicate:Too much GH in adults, called acromegaly. (A special test is done to confirm this diagnosis.)Abnormal growth due to excess GH during childhood, called gigantism. (A special test is done to confirm this diagnosis.)GH resistance.Pituitary tumor. A low level of GH may indicate:Slow growth noticed in infancy or childhood, caused by low levels of GH. (A special test is done to confirm this diagnosis.)Hypopituitarism (low function of the pituitary gland). The pituitary gland makes several hormones besides GH and these may be low as well.Risks
+
+There is little risk involved with having your blood taken. Veins and arteries vary in size from one person to another, and from one side of the body to the other. Obtaining a blood sample from some people may be more difficult than from others.Other risks associated with having blood drawn are slight, but may include:Excessive bleedingFainting or feeling lightheadedMultiple punctures to locate veinsHematoma (blood buildup under the skin)Infection (a slight risk any time the skin is broken)Alternative Names
+
+GH testImages
+
+
+Growth hormone stimulation test - series
+References
+
+Ali O. Hyperpituitarism, tall stature, and overgrowth syndromes. In: Kliegman RM, St. Geme JW, Blum NJ, Shah SS, Tasker RC, Wilson KM, eds. Nelson Textbook of Pediatrics. 21st ed. Philadelphia, PA: Elsevier; 2020:chap 576.Chernecky CC, Berger BJ. Growth hormone (somatotropin, GH) and growth hormone-releasing hormone (GHRH) - blood. In: Chernecky CC, Berger BJ, eds. Laboratory Tests and Diagnostic Procedures. 6th ed. Philadelphia, PA: Elsevier Saunders; 2013:599-600.Cooke DW, Divall SA, Radovick S. Normal and aberrant growth in children. In: Melmed S, Auchus RJ, Goldfine AB, Koenig RJ, Rosen CJ, eds. Williams Textbook of Endocrinology. 14th ed. Philadelphia, PA: Elsevier; 2020:chap 25.
+Review Date 1/9/2022
+
+
+Updated by: Robert Hurd, MD, Professor of Endocrinology and Health Care Ethics, Xavier University, Cincinnati, OH. Review provided by VeriMed Healthcare Network. Also reviewed by David Zieve, MD, MHA, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.  
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Growth Disorders
+Hormones
+Pituitary Disorders

@@ -1,0 +1,28 @@
+source : https://medlineplus.gov/ency/article/003334.htm 
+ 
+ The latex agglutination test is a test done in a lab to check for certain antibodies or antigens in body fluids including saliva, urine, cerebrospinal fluid, or blood.How the Test is Performed
+
+The test depends on what type of sample is needed.SalivaUrineBloodCerebrospinal fluid (lumbar puncture)The sample is sent to a lab, where it is mixed with latex beads coated with a specific antibody or antigen. If the suspected substance is present, the latex beads will clump together (agglutinate).Latex agglutination results take about 15 minutes to an hour.How to Prepare for the Test
+
+Your health care provider may tell you to limit certain foods or medicines shortly before the test. Follow instructions on how to prepare for the test.Why the Test is Performed
+
+This test is a quick way to find out if an antigen or antibody is present or not. Your provider will base your treatment, in part, on the results of this test.Normal Results
+
+Normal value ranges may vary slightly among different laboratories. Some labs use different measurements or test different samples. Talk to your provider about the meaning of your specific test results.What Abnormal Results Mean
+
+If there is an antigen-antibody match, agglutination will occur.Risks
+
+The risk level depends on the type of test.URINE AND SALIVA TESTSThere is no risk with the urine or saliva test.BLOOD TESTVeins and arteries vary in size from one person to another and from one side of the body to the other. Getting a blood sample from some people may be more difficult than from others.Other risks from having blood drawn are slight, but may include:Excessive bleedingFainting or feeling lightheaded
+   Blood accumulating under the skin (hematoma)Infection (a slight risk any time the skin is broken)CEREBROSPINAL FLUID TESTRisks of lumbar puncture include:
+   Bleeding into the spinal canal or around the brain (subdural hematomas).Discomfort during the test.Headache after the test that can last a few hours or days. If headaches last more than a few days (especially when you sit, stand or walk) you might have a "CSF-leak". You should talk to your provider if this occurs.Hypersensitivity (allergic) reaction to the anesthetic.Infection introduced by the needle going through the skin.References
+
+Aoyagi K, Ashihara Y, Kasahara Y. Immunoassays and immunochemistry. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 45.
+Review Date 9/18/2023
+
+
+Updated by: Anna C. Edens Hurst, MD, MS, Associate Professor in Medical Genetics, The University of Alabama at Birmingham, Birmingham, AL. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Immune System and Disorders
+Infectious Diseases

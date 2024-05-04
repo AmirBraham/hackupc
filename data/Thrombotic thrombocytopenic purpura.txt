@@ -1,0 +1,36 @@
+source : https://medlineplus.gov/ency/article/000552.htm 
+ 
+ Thrombotic thrombocytopenic purpura (TTP) is a blood disorder in which platelet clumps form in small blood vessels. This leads to a low platelet count (thrombocytopenia).Causes
+
+This disease may be caused by problems with an enzyme (a type of protein) that is involved in blood clotting. This enzyme is called ADAMTS13. Absence of this enzyme results in platelet clumping. Platelets are particles in the blood that aid in blood clotting.As the platelets clump together, fewer platelets are available in the blood in other parts of the body to help with clotting. This can lead to bleeding under the skin.In some cases, the disorder is passed down through families (inherited). In these cases, people are born with naturally low levels of this enzyme.This condition also may be caused by:CancerChemotherapyHematopoietic stem cell transplantationHIV infectionHormone replacement therapy and estrogensMedicines (including ticlopidine, clopidogrel, quinine, and cyclosporine A)Symptoms
+
+Symptoms may include any of the following:Bleeding into the skin or mucus membranesConfusion Fatigue, weaknessFeverHeadachePale skin color or yellowish skin colorShortness of breathFast heart rate (over 100 beats per minute)Exams and Tests
+
+Tests that may be ordered include:
+   ADAMTS 13 activity levelBilirubinBlood smearComplete blood count (CBC)Creatinine levelLactate dehydrogenase (LDH) levelPlatelet countUrinalysisHaptoglobinCoombs testTreatment
+
+You may have a treatment called plasma exchange. It removes your abnormal proteins in your plasma and replaces it with normal plasma from a healthy donor. Plasma is the liquid part of blood that contains blood cells and platelets. Plasma exchange also replaces the missing enzyme.The procedure is done as follows:First, you have your blood drawn as if donating blood.As the blood is passed through a machine that separates blood into its different parts, the abnormal plasma is removed and your blood cells are saved.Your blood cells are then combined with normal plasma from a donor, and then given back to you. This treatment is repeated daily until blood tests show improvement.People who do not respond to this treatment or whose condition often returns may need to:Have surgery to remove their spleenGet medicines that suppress the immune system, such as steroids or rituximab Outlook (Prognosis)
+
+Most people with TTP who undergo plasma exchange recover completely. But some people die of this disease, especially if it is not diagnosed right away. In people who do not recover, this condition can become long-term (chronic).Possible Complications
+
+Complications may include:Kidney failureLow platelet count (thrombocytopenia)Low red blood cell count (caused by the premature breakdown of red blood cells)Nervous system problemsSevere bleeding (hemorrhage)StrokeWhen to Contact a Medical Professional
+
+Contact your health care provider if you have any unexplained bleeding.Prevention
+
+Because the cause is unknown, there is no known way to prevent this condition.Alternative Names
+
+TTPImages
+
+
+Blood cells
+References
+
+Abrams CS. Thrombocytopenia. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 163.George G, Friedman KD. Thrombotic thrombocytopenic purpura and the hemolytic uremic syndromes. In: Hoffman R, Benz EJ, Silberstein LE, Heslop HE, Weitz JI, Salama ME, et al, eds. Hematology: Basic Principles and Practice. 8th ed. Philadelphia, PA: Elsevier; 2023:chap 132.National Heart, Lung, and Blood Institute website. Thrombotic thrombocytopenic purpura. www.nhlbi.nih.gov/health-topics/thrombotic-thrombocytopenic-purpura. Updated February 2023. Accessed March 9, 2023.
+Review Date 2/2/2023
+
+
+Updated by: Mark Levin, MD, Hematologist and Oncologist, Monsey, NY. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Platelet Disorders

@@ -1,0 +1,35 @@
+source : https://medlineplus.gov/ency/article/000165.htm 
+ 
+ Digitalis is a medicine that is used to treat certain heart conditions. Digitalis toxicity can be a side effect of digitalis therapy. It may occur when you take too much of the drug at one time. It can also occur when levels of the drug build up for other reasons such as other medical problems you have.The most common prescription form of this medicine is called digoxin. Digitoxin is another form of digitalis.Causes
+
+Digitalis toxicity can be caused by high levels of digitalis in the body. A lower tolerance to the drug can also cause digitalis toxicity. People with lower tolerance may have a normal level of digitalis in their blood and still have adverse effects. People may also develop digitalis toxicity if they have other risk factors.People with heart failure who take digoxin are commonly given medicines called diuretics. These drugs remove excess fluid from the body. Many diuretics can cause potassium loss. A low level of potassium in the body can increase the risk of digitalis toxicity. Digitalis toxicity may also develop in people who take digoxin and have a low level of magnesium in their body.You are more likely to have this condition if you take digoxin, digitoxin, or other digitalis medicines along with drugs that interact with it. Some of these drugs are quinidine, flecainide, verapamil, and amiodarone.If your kidneys do not work well, digitalis can build up in your body. Normally, it is removed through the urine. Any problem that affects how your kidneys work (including dehydration) makes digitalis toxicity more likely.Some plants contain chemicals that can cause symptoms similar to digitalis toxicity if they are eaten. These include foxglove, oleander, and lily of the valley.Symptoms
+
+These are symptoms of digitalis toxicity:ConfusionIrregular pulseLoss of appetiteNausea, vomiting, diarrheaFast heartbeatVision changes (unusual), including blind spots, blurred vision, changes in how colors look, or seeing spotsOther symptoms may include:Decreased consciousnessDecreased urine outputDifficulty breathing when lying downExcessive nighttime urinationOverall swellingExams and Tests
+
+Your health care provider will examine you. Your heart rate may be rapid, or slow and irregular.An ECG is done to check for irregular heartbeats.Blood tests that will be done include:Blood chemistryKidney function tests, including BUN and creatinineDigitoxin and digoxin test to check levelsPotassium levelMagnesium level Treatment
+
+If the person has stopped breathing, call 911 or the local emergency number, then start CPR.If the person is having trouble breathing, call 911 or the local emergency number. At the hospital, symptoms will be treated as appropriate. Digitoxin blood level may be lowered with repeated doses of charcoal, given after gastric lavage.Methods to cause vomiting are usually not done because vomiting can worsen slow heart rhythms.In severe cases, medicines called digoxin-specific antibodies may be prescribed. Dialysis may be needed to reduce the level of digitalis in the body.Outlook (Prognosis)
+
+How well a person does depends on the severity of the toxicity and if it has caused an irregular heart rhythm.Possible Complications
+
+Complications may include:Irregular heart rhythms, which may be deadlyHeart failureWhen to Contact a Medical Professional
+
+Contact your provider if you are taking a digitalis medicine and you have symptoms of toxicity.Prevention
+
+If you take digitalis medicine, you should have your blood level checked regularly. Blood tests should also be done to check for conditions that make this toxicity more common.Potassium supplements may be prescribed if you take diuretics and digitalis together. A potassium-sparing diuretic may also be prescribed.Images
+
+
+Foxglove (Digitalis purpurea)
+References
+
+Cole JB. Cardiovascular drugs. In: Walls RM, ed. Rosen's Emergency Medicine: Concepts and Clinical Practice. 10th ed. Philadelphia, PA: Elsevier; 2023:chap 142.Goldberger AL, Goldberger ZD, Shvilkin A. Digitalis toxicity. In: Goldberger AL, Goldberger ZD, Shvilkin A, eds. Goldberger's Clinical Electrocardiography. 10th ed. Philadelphia, PA: Elsevier; 2024:chap 20.Nelson LS. Acute poisoning. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2019:chap 102.Waller DG. Heart failure and shock. In: Waller DG, ed. Medical Pharmacology and Therapeutics. 6th ed. Philadelphia, PA: Elsevier; 2022:chap 7.
+Review Date 4/10/2023
+
+
+Updated by: Michael A. Chen, MD, PhD, Associate Professor of Medicine, Division of Cardiology, Harborview Medical Center, University of Washington Medical School, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.  
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Arrhythmia
+Atrial Fibrillation
+Heart Failure

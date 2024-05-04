@@ -1,0 +1,34 @@
+source : https://medlineplus.gov/ency/article/001183.htm 
+ 
+ Alkalosis is a condition in which the body fluids have excess base (alkali). This is the opposite of excess acid (acidosis).Causes
+
+The kidneys and lungs maintain the proper balance (proper pH level) of chemicals called acids and bases in the body. Decreased carbon dioxide (an acid) level or increased bicarbonate (a base) level makes the body too alkaline, a condition called alkalosis. There are different types of alkalosis. These are described below. Respiratory alkalosis is caused by a low carbon dioxide level in the blood. This can be due to:FeverBeing at a high altitudeLack of oxygenLiver diseaseLung disease, which causes you to breathe faster (hyperventilate)Aspirin poisoningMetabolic alkalosis is caused by too much bicarbonate in the blood. It can also occur due to certain kidney diseases.Hypochloremic alkalosis is caused by an extreme lack or loss of chloride, such as from prolonged vomiting.Hypokalemic alkalosis is caused by the kidneys' response to an extreme lack or loss of potassium. This can occur from taking certain water pills (diuretics).Compensated alkalosis occurs when the body returns the acid-base balance to near normal in cases of alkalosis, but bicarbonate and carbon dioxide levels remain abnormal.Symptoms
+
+Symptoms of alkalosis can include any of the following:Confusion (can progress to stupor or coma)Hand tremorLightheadednessMuscle twitchingNausea, vomitingNumbness or tingling in the face, hands, or feetProlonged muscle spasms (tetany) Exams and Tests
+
+Your health care provider will perform a physical exam and ask about your symptoms.Laboratory tests that may be ordered include:Arterial or venous blood gas analysis.Electrolytes test, such as basic metabolic panel to confirm alkalosis and show whether it is respiratory or metabolic alkalosis.Other blood tests may be needed to determine the cause of the alkalosis.Other tests may be needed to determine the cause of the alkalosis. These may include:Chest x-rayUrinalysisUrine pHTreatment
+
+To treat alkalosis, your provider needs to first find the underlying cause.For alkalosis caused by hyperventilation, breathing into a paper bag allows you to keep more carbon dioxide in your body, which improves the alkalosis. If your oxygen level is low, you may receive oxygen.Medicines may be needed to correct chemical loss (such as chloride and potassium). Your provider will monitor your vital signs (temperature, pulse, rate of breathing, and blood pressure).Outlook (Prognosis)
+
+Most cases of alkalosis respond well to treatment.Possible Complications
+
+Untreated or not treated properly, complications may include any of the following:Arrhythmias (heart beating too fast, too slow, or irregularly)
+  ComaElectrolyte imbalance (such as low potassium level) When to Contact a Medical Professional
+
+Contact your provider if you become confused, unable to concentrate, or unable to "catch your breath."Go to the emergency room or call 911 or the local emergency number if there is:Loss of consciousnessRapidly worsening symptoms of alkalosisSeizuresSevere breathing difficultiesPrevention
+
+Prevention depends on the cause of the alkalosis. People with healthy kidneys and lungs do not usually have serious alkalosis.Images
+
+
+Kidneys
+References
+
+Oh MS, Briefel G, Pincus MR. Evaluation of renal function, water, electrolytes, and acid-base balance. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 15.Sanghavi S, Albert TJ, Swenson ER. Acid-base balance. In: Broaddus VC, Ernst JD, King TE, et al, eds. Murray and Nadel's Textbook of Respiratory Medicine. 7th ed. Philadelphia, PA: Elsevier; 2022:chap 12.Seifter JL. Acid-base disorders. In: Goldman L, Cooney KA, eds. Goldman-Cecil Medicine. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 104.
+Review Date 11/19/2023
+
+
+Updated by: Jacob Berman, MD, MPH, Clinical Assistant Professor of Medicine, Division of General Internal Medicine, University of Washington School of Medicine, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Metabolic Disorders

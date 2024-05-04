@@ -1,0 +1,37 @@
+source : https://medlineplus.gov/ency/article/003539.htm 
+ 
+ Complement C3 is a blood test that measures the activity of a certain protein.This protein is part of the complement system. The complement system is a group of nearly 60 proteins that are in blood plasma or on the surface of some cells. The proteins work with your immune system and play a role to protect the body from infections, and to remove dead cells and foreign material. Rarely, people may inherit deficiency of some complement proteins. These people are prone to certain infections or autoimmune disorders.There are nine major complement proteins. They are labeled C1 through C9. This article describes the test that measures C3.How the Test is Performed
+
+Blood is drawn from a vein. Most often, a vein from the inside of the elbow or the back of the hand is used.The procedure is as follows:The site is cleaned with an antiseptic.The health care provider wraps an elastic band around the upper arm to apply pressure to the area and make the vein swell with blood.The provider gently inserts a needle into the vein.The blood collects into an airtight vial or tube attached to the needle. The elastic band is removed from your arm.Once the blood has been collected, the needle is removed. The puncture site is covered to stop any bleeding.In infants or young children, a sharp tool called a lancet may be used to puncture the skin and make it bleed. The blood collects into a small glass tube called a pipette, or onto a slide or test strip. A bandage may be placed over the area if there is any bleeding.How to Prepare for the Test
+
+There is no special preparation needed.How the Test will Feel
+
+When the needle is inserted to draw blood, some people feel moderate pain. Others may feel only a prick or stinging sensation. Afterward, there may be some throbbing.Why the Test is Performed
+
+C3 and C4 are the most commonly measured complement components.A complement test may be used to monitor people with an autoimmune disorder. It is done to see if treatment for their condition is working. When the complement system is turned on during inflammation, levels of complement proteins may go down. For example, people with active lupus erythematosus may have lower-than-normal levels of the complement proteins C3 and C4.The test may also be done for the following conditions: Fungal infectionsGram negative septicemiaParasitic infections, such as malariaParoxysmal nocturnal hemoglobinuria (PNH)ShockNormal Results
+
+The normal range is 88 to 201 milligrams per deciliter (mg/dL) (0.88 to 2.01 g/L).Note: Normal value ranges may vary slightly among different laboratories. Talk to your provider about the meaning of your specific test results.The examples above show the common measurements for results for these tests. Some laboratories use different measurements or may test different specimens.What Abnormal Results Mean
+
+Increased complement activity may be seen in:CancerUlcerative colitisDecreased complement activity may be seen in:Bacterial infections (especially Neisseria)CirrhosisGlomerulonephritisHepatitisHereditary angioedemaKidney transplant rejectionLupus nephritisMalnutritionSystemic lupus erythematosusRare inherited complement deficienciesRisks
+
+Risks associated with having blood drawn are slight, but may include:Excessive bleedingFainting or feeling lightheadedHematoma (blood accumulating under the skin)Infection (a slight risk any time the skin is broken) Considerations
+
+The complement cascade is a series of reactions that take place in the blood. The cascade activates the complement proteins. The result is an attack unit that creates holes in the membrane of bacteria, killing them. C3 attaches to bacteria and kills them directly.Alternative Names
+
+C3Images
+
+
+Blood test
+References
+
+Atkinson JP. Complement system in disease. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 44.Bean KV, Massey HD, Gupta G. Mediators of inflammation: complement. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 48.Sullivan KE, Grumach AS. The complement system. In: Burks AW, Holgate ST, O'Hehir RE, Broide DH, et al. eds. Middleton's Allergy: Principles and Practice. 9th ed. Philadelphia, PA: Elsevier; 2020:chap 8.
+Review Date 1/25/2023
+
+
+Updated by: Neil J. Gonter, MD, Assistant Professor of Medicine, Columbia University, NY and private practice specializing in Rheumatology at Rheumatology Associates of North Jersey, Teaneck, NJ. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Autoimmune Diseases
+Lupus
+Rheumatoid Arthritis

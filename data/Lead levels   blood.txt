@@ -1,0 +1,31 @@
+source : https://medlineplus.gov/ency/article/003360.htm 
+ 
+ Blood lead level is a test that measures the amount of lead in the blood.How the Test is Performed
+
+A blood sample is needed. Most of the time blood is drawn from a vein located on the inside of the elbow or the back of the hand.In infants or young children, a sharp tool called a lancet may be used to puncture the skin.The blood collects in a small glass tube called a pipette, or onto a slide or test strip.A bandage is put over the spot to stop any bleeding.How to Prepare for the Test
+
+No special preparation is needed.For children, it may be helpful to explain how the test will feel and why it is done. This may make the child feel less nervous.How the Test will Feel
+
+You may feel slight pain or a sting when the needle is inserted. You may also feel some throbbing at the site after the blood is drawn.Why the Test is Performed
+
+This test is used to screen people at risk for lead poisoning. This may include industrial workers and children who live in urban areas. The test is also used to diagnose lead poisoning when a person has symptoms of the condition. It is also used to measure how well treatment for lead poisoning is working. Lead is common in the environment, so it is often found in the body in low levels.Normal Results
+
+Small amounts of lead in adults are not thought to be harmful. However, even low levels of lead can be dangerous to infants and children. It can cause lead poisoning that leads to problems in mental development.Adults:Less than 10 micrograms per deciliter (µg/dL) or 0.48 micromoles per liter (µmol/L) of lead in the bloodChildren:Less than 3.5 µg/dL or 0.17 µmol/L of lead in the bloodNormal value ranges may vary slightly among different laboratories. Talk to your health care provider about the meaning of your specific test results.What Abnormal Results Mean
+
+In adults, a blood lead level of 5 µg/dL or 0.24 µmol/L or above is considered elevated. Treatment may be recommended if:Your blood lead level is greater than 80 µg/dL or 3.86 µmol/L.You have symptoms of lead poisoning and your blood lead level is greater than 40 µg/dL or 1.93 µmol/L.In children:Blood lead level of 3.5 µg/dL or 0.17 µmol/L or greater requires further testing and monitoring.The source of lead must be found and removed.A lead level greater than 45 µg/dL or 2.17 µmol/L in a child's blood most often indicates the need for treatment.Treatment may be considered with a level as low as 20 µg/dL or 0.97 µmol/L.Alternative Names
+
+Blood lead levelsImages
+
+
+Blood test
+References
+
+Bluth MH, Pincus MR, Abraham NZ. Toxicology and therapeutic drug monitoring. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 24.Centers for Disease Control and Prevention website. Blood lead levels in children. What do you need to know to protect children? www.cdc.gov/nceh/lead/docs/lead-levels-in-children-fact-sheet-508.pdf. Updated July 22, 2022. Accessed July 4, 2023.Center for Disease Control and Prevention website. Childhood lead poisoning prevention: blood lead reference value. www.cdc.gov/nceh/lead/prevention/blood-lead-levels.htm. Updated December 2, 2022. Accessed July 4, 2023.Center for Disease Control and Prevention website. Childhood lead poisoning prevention: recommended actions based on blood lead level. www.cdc.gov/nceh/lead/advisory/acclpp/actions-blls.htm. Updated December 2, 2022. Accessed July 4, 2023.Kao LW, Rusyniak DE. Chronic poisoning: trace metals and others. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 19.Markowitz M. Lead poisoning. In: Kliegman RM, St. Geme JW, Blum NJ, Shah SS, Tasker RC, Wilson KM, eds. Nelson Textbook of Pediatrics. 21st ed. Philadelphia, PA: Elsevier; 2020:chap 739.Ruckart PZ, Jones RL, Courtney JG, et al. Update of the Blood Lead Reference Value - United States, 2021. MMWR Morb Mortal Wkly Rep. 2021;70(43):1509-1512. PMID: 34710078 pubmed.ncbi.nlm.nih.gov/34710078/.
+Review Date 6/20/2023
+
+
+Updated by: Jacob Berman, MD, MPH, Clinical Assistant Professor of Medicine, Division of General Internal Medicine, University of Washington School of Medicine, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Lead Poisoning

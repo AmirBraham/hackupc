@@ -1,0 +1,33 @@
+source : https://medlineplus.gov/ency/article/003520.htm 
+ 
+ The complement fixation test to Coxiella burnetii (C burnetii) is a blood test that checks for infection due to bacteria called C burnetii, which causes Q fever.How the Test is Performed
+
+A blood sample is needed.The sample is sent to a laboratory. There, a method called complement fixation is used to check if the body has produced substances called antibodies to a specific foreign substance (antigen), in this case, C burnetii. Antibodies defend the body against bacteria, viruses, and fungi. If the antibodies are present, they stick, or "fix" themselves, to the antigen. This is why the test is called "fixation."How to Prepare for the Test
+
+No special preparation is necessary for this test.How the Test Will Feel
+
+When the needle is inserted to draw blood, some people feel moderate pain. Others feel only a prick or stinging. Afterward, there may be some throbbing or bruising. This soon goes away.Why the Test is Performed
+
+This test is done to detect Q fever.Normal Results
+
+Absence of antibodies to C burnetii is normal. It means you do not have Q fever now or in the past.What Abnormal Results Mean
+
+An abnormal result means you may have a current infection with C burnetii, or that you have been exposed to the bacteria in the past. People with past exposure may have antibodies, even if they are not aware that they were exposed. Further testing may be needed to distinguish between current, previous, and long-term (chronic) infection.During the early stage of an illness, few antibodies may be detected. Antibody production increases during the course of an infection. For this reason, this test may be repeated several weeks after the first test.Risks
+
+There is little risk involved with having your blood taken. Veins and arteries vary in size from one person to another, and from one side of the body to the other. Taking blood from some people may be more difficult than from others.Other risks associated with having blood drawn are slight, but may include:Excessive bleedingFainting or feeling lightheadedMultiple punctures to locate veinsHematoma (blood accumulating under the skin)Infection (a slight risk any time the skin is broken)Alternative Names
+
+Q fever - complement fixation test; Coxiella burnetii - complement fixation test; C burnetii - complement fixation testImages
+
+
+Blood test
+References
+
+Hartzell JD, Marrie TJ, Raoult D. Coxiella burnetii (Q fever). In: Bennett JE, Dolin R, Blaser MJ, eds. Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases. 9th ed. Philadelphia, PA: Elsevier; 2020:chap 188.Olano JP, Walker DH. Rickettsiae and other related intracellular bacteria. In: McPherson RA, Pincus MR eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA: Elsevier; 2022: chap 63.
+Review Date 5/19/2023
+
+
+Updated by: Jatin M. Vyas, MD, PhD, Associate Professor in Medicine, Harvard Medical School; Associate in Medicine, Division of Infectious Disease, Department of Medicine, Massachusetts General Hospital, Boston, MA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Bacterial Infections

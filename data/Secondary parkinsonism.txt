@@ -1,0 +1,37 @@
+source : https://medlineplus.gov/ency/article/000759.htm 
+ 
+ Secondary parkinsonism is when symptoms similar to Parkinson disease are caused by certain medicines, a different nervous system disorder, or another illness.Parkinsonism refers to any condition that involves the types of movement problems seen in Parkinson disease. These problems include tremors, slow movement, and stiffness of the arms and legs.Causes
+
+Secondary parkinsonism may be caused by health problems, including:Brain injuryDiffuse Lewy body disease (a type of dementia)EncephalitisHIV/AIDSMeningitisMultiple system atrophyProgressive supranuclear palsyStrokeWilson diseaseOther causes of secondary parkinsonism include:Brain damage caused by anesthesia medicines (such as during surgery)Carbon monoxide poisoningCertain medicines used to treat mental disorders or nausea (for example, metoclopramide and prochlorperazine)
+   Mercury poisoning and other chemical poisoningsOverdoses of narcoticsMPTP (a contaminant in some street drugs)Symptoms
+
+Common symptoms include:Decrease in facial expressionsDifficulty starting and controlling movementLoss or weakness of movement (paralysis)Soft voiceStiffness of the trunk, arms, or legsTremorConfusion and memory loss may be likely in secondary parkinsonism. This is because many diseases that cause secondary parkinsonism also lead to dementia.Exams and Tests
+
+Your health care provider will perform a physical exam and ask questions about your medical history and symptoms. Be aware that the symptoms may be hard to assess, particularly in older adults.Examination may show:Difficulty starting or stopping voluntary movementsTense musclesProblems with postureSlow, shuffling walkTremors (shaking) Reflexes are usually normal.Tests may be ordered to check for other problems that can cause similar symptoms.Treatment
+
+If the condition is caused by a medicine, your provider may recommend changing or stopping the medicine.Treating underlying conditions, such as stroke or infections, can reduce symptoms or prevent the condition from getting worse.If symptoms make it hard to do everyday activities, your provider may recommend medicine. Medicines used to treat this condition can cause severe side effects. It is important to see your provider for check-ups. Secondary parkinsonism tends to be less responsive to medical therapy than Parkinson disease.Outlook (Prognosis)
+
+Unlike Parkinson disease, some types of secondary parkinsonism may stabilize or even improve if the underlying cause is treated. Some brain problems, such as Lewy body disease, are not reversible.Possible Complications
+
+This condition may lead to these problems:Difficulty performing daily activitiesDifficulty swallowing or eatingDisability (differs from person to person)Injuries from fallsPneumonia from breathing in saliva or from choking on foodSide effects of medicinesEffects from loss of strength and mobility (debilitation):Breathing food, fluid, or mucus into the lungs (aspiration)Blood clot in a deep vein (deep vein thrombosis)MalnutritionWhen to Contact a Medical Professional
+
+Contact your provider if:Symptoms of secondary parkinsonism develop, come back, or get worse.New symptoms appear, including confusion and movements that cannot be controlled.You are unable to care for the person at home after treatment starts. Prevention
+
+Treating conditions that cause secondary parkinsonism may decrease the risk. People taking medicines that can cause secondary parkinsonism should be carefully monitored by the provider to prevent the condition from developing.Alternative Names
+
+Parkinsonism - secondary; Atypical Parkinson diseaseImages
+
+
+Central nervous system and peripheral nervous system
+References
+
+Fox SH, Katzenschlager R, Lim SY, et al; Movement Disorder Society Evidence-Based Medicine Committee. International Parkinson and Movement Disorder Society evidence-based medicine review: update on treatments for the motor symptoms of Parkinson's disease. Mov Disord. 2018;33(8):1248-1266. PMID: 29570866 pubmed.ncbi.nlm.nih.gov/29570866/.Jankovic J. Parkinson disease and other movement disorders. In: Jankovic J, Mazziotta JC, Pomeroy SL, Newman NJ, eds. Bradley and Daroff's Neurology in Clinical Practice. 8th ed. Philadelphia, PA: Elsevier; 2022:chap 96.Ostrem JL, Okun MS. Parkinsonism. In: Goldman L, Cooney KA, eds. Goldman-Cecil Medicine. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 378.Pringsheim T, Day GS, Smith DB, et al; the American Academy of Neurology Guideline Subcommittee. Dopaminergic therapy for motor symptoms in early Parkinson disease practice guideline summary. Neurology. 2021;97(20). www.neurology.org/doi/10.1212/WNL.0000000000012868.
+Review Date 1/23/2022
+
+
+Updated by: Joseph V. Campellone, MD, Department of Neurology, Cooper Medical School at Rowan University, Camden, NJ. Review provided by VeriMed Healthcare Network. Internal review and update on 02/23/24 by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Degenerative Nerve Diseases
+Parkinson's Disease

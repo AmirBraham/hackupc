@@ -1,0 +1,33 @@
+source : https://medlineplus.gov/ency/article/003697.htm 
+ 
+ The gastrin blood test measures the amount of the hormone gastrin in blood.How the Test is Performed
+
+A blood sample is needed.How to Prepare for the Test
+
+Certain medicines may affect the results of this test. Your health care provider will tell you if you need to stop taking any medicines. Do not stop taking any medicine before talking to your provider.Medicines that can increase the gastrin level include:Stomach acid reducers, such as antacidsH2 blockers (cimetidine, nizatidine, and famotidine)Proton pump inhibitors (omeprazole, pantoprazole, and several others)Some of these medicines are available without a prescription. Discuss non-prescription medicines you are taking with your provider.Medicines that can decrease gastrin level include caffeine, corticosteroids, and the rarely used blood pressure medicines deserpidine, reserpine, and rescinnamine.How the Test will Feel
+
+When the needle is inserted to draw blood, some people feel moderate pain. Others feel only a prick or stinging sensation. Afterward, there may be some throbbing or a slight bruise. This soon goes away.Why the Test is Performed
+
+Gastrin is the main hormone that controls the release of acid in your stomach. When there is food in the stomach, gastrin is released into the blood. As the acid level rises in your stomach and intestines, your body normally makes less gastrin.Your provider may order this test if you have signs or symptoms of a problem linked to an abnormal amount of gastrin. This includes peptic ulcer disease.Normal Results
+
+Normal values are generally less than 100 pg/mL (48.1 pmol/L).Normal value ranges may vary slightly among different laboratories. Some labs use different measurements or test different samples. Talk to your provider about the meaning of your specific test result.What Abnormal Results Mean
+
+Too much gastrin can causes severe peptic ulcer disease. A higher than normal level may be due to:Chronic kidney diseaseLong-term gastritisOver-activity of the gastrin-producing cells in the stomach (G-cell hyperplasia)Helicobacter pylori infection of the stomachUse of antacids or medicines to treat heartburnZollinger-Ellison syndrome, a gastrin-producing tumor that may develop in the stomach or pancreasDecreased ability of the stomach to produce acidPrevious stomach surgeryRisks
+
+There is little risk involved with having your blood taken. Veins and arteries vary in size from one person to another and from one side of the body to the other. Taking blood from some people may be more difficult than from others.Other risks associated with having blood drawn are slight but may include:Excessive bleedingFainting or feeling lightheadedMultiple punctures to locate veinsHematoma (blood accumulating under the skin)Infection (a slight risk any time the skin is broken) Alternative Names
+
+Peptic ulcer - gastrin blood testReferences
+
+Bohórquez DV, Liddle RA. Gut sensory transduction. In: Feldman M, Friedman LS, Brandt LJ, eds. Sleisenger and Fordtran's Gastrointestinal and Liver Disease: Pathophysiology/Diagnosis/Management. 11th ed. Philadelphia, PA: Elsevier; 2021:chap 4.Siddiqi HA, Rabinowitz S, Axiotis CA. Laboratory diagnosis of gastrointestinal and pancreatic disorders. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 23.
+Review Date 7/30/2023
+
+
+Updated by: Sandeep K. Dhaliwal, MD, board-certified in Diabetes, Endocrinology, and Metabolism, Springfield, VA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Endocrine Diseases
+Hormones
+Pancreatic Cancer
+Peptic Ulcer
+Stomach Disorders

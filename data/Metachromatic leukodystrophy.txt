@@ -1,0 +1,34 @@
+source : https://medlineplus.gov/ency/article/001205.htm 
+ 
+ Metachromatic leukodystrophy (MLD) is a genetic disorder that affects nerves, muscles, other organs, and behavior. It slowly gets worse over time.Causes
+
+MLD is usually caused by the lack of an important enzyme called arylsulfatase A (ARSA). Because this enzyme is missing, chemicals called sulfatides build up in the body and damage the nervous system, kidneys, gallbladder, and other organs. In particular, the chemicals damage the protective sheaths that surround nerve cells.The disease is passed down through families (inherited). You must get a copy of the defective gene from both of your parents to have the disease. Parents can each have the defective gene, but not have MLD. A person with one defective gene is called a "carrier."Children who inherit only one defective gene from one parent will be a carrier, but usually will not develop MLD. When two carriers have a child, there is a 1 in 4 chance that the child will get both genes and have MLD.There are three forms of MLD. The forms are based on when the symptoms begin:Late infantile MLD symptoms usually begin by ages 1 to 2.Juvenile MLD symptoms usually begin between ages 4 and 12.Adult (and late-stage juvenile MLD) symptoms may occur between age 14 and adulthood (over age 16), but may begin as late as the 40s or 50s. Symptoms
+
+Symptoms of MLD may include any of the following:Abnormally high or decreased muscle tone, or abnormal muscle movements, any of which may cause problems walking or frequent fallsBehavior problems, personality changes, irritabilityDecreased mental functionDifficulty swallowingInability to perform normal tasksIncontinencePoor school performanceSeizuresSpeech difficulties, slurringExams and Tests
+
+The health care provider will perform a physical exam, focusing on the nervous system symptoms.Tests that may be done include:Blood or skin culture to look for low arylsulfatase A activityBlood test to look for low arylsulfatase A enzyme levelsDNA testing for the ARSA geneMRI of the brainNerve biopsyNerve signaling studiesUrinalysisTreatment
+
+There is no cure for MLD. Care focuses on treating the symptoms and preserving the person's quality of life with physical and occupational therapy.Bone marrow transplant may be considered for infantile MLD.Research is studying ways to replace the missing enzyme (arylsulfatase A).Support Groups
+
+These groups can provide more information on MLD:National Organization for Rare Disorders --rarediseases.org/rare-diseases/metachromatic-leukodystrophyNLM Genetics Home Reference -- ghr.nlm.nih.gov/condition/metachromatic-leukodystrophyUnited Leukodystrophy Foundation -- www.ulf.orgOutlook (Prognosis)
+
+MLD is a severe disease that gets worse over time. Eventually, people lose all muscle and mental function. Life span varies, depending on what age the condition started, but the disease course usually runs 3 to 20 years or more.People with this disorder are expected to have a shorter than normal lifespan. The earlier the age at diagnosis, the more quickly the disease progresses.Prevention
+
+Genetic counseling is recommended if you have a family history of this disorder.Alternative Names
+
+MLD; Arylsulfatase A deficiency; Leukodystrophy - metachromatic; ARSA deficiencyImages
+
+
+Central nervous system and peripheral nervous system
+Autosomal recessive
+References
+
+Kwon JM. Neurodegenerative disorders of childhood. In: Kliegman RM, St. Geme JW, Blum NJ, Shah SS, Tasker RC, Wilson KM, eds. Nelson Textbook of Pediatrics. 21st ed. Philadelphia, PA: Elsevier; 2020:chap 617.Turnpenny PD, Ellard S, Cleaver R. Inborn errors of metabolism. In: Turnpenny PD, Ellard S, Cleaver R, eds. Emery's Elements of Medical Genetics and Genomics. 16th ed. Philadelphia, PA: Elsevier; 2022:chap 18.
+Review Date 10/13/2022
+
+
+Updated by: Anna C. Edens Hurst, MD, MS, Associate Professor in Medical Genetics, The University of Alabama at Birmingham, Birmingham, AL. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.  
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Leukodystrophies

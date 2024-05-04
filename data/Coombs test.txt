@@ -1,0 +1,31 @@
+source : https://medlineplus.gov/ency/article/003344.htm 
+ 
+ The Coombs test looks for antibodies that may stick to your red blood cells and cause red blood cells to die too early. How the Test is Performed
+
+A blood sample is needed.How to Prepare for the Test
+
+No special preparation is necessary for this test.How the Test will Feel
+
+When the needle is inserted to draw blood, some people feel moderate pain. Others feel only a prick or stinging. Afterward, there may be some throbbing or slight bruising. This soon goes away.Why the Test is Performed
+
+There are two types of the Coombs test:DirectIndirectThe direct Coombs test is used to detect antibodies that are stuck to the surface of red blood cells. Many diseases and drugs can cause this to happen. These antibodies sometimes destroy red blood cells and cause anemia. Your health care provider may recommend this test if you have signs or symptoms of anemia or jaundice (yellowing of the skin or eyes).The indirect Coombs test looks for antibodies that are floating in the blood. These antibodies could act against certain red blood cells. This test is most often done to determine if you may have a reaction to a blood transfusion.Normal Results
+
+A normal result is called a negative result. It means there was no clumping of cells and you have no antibodies to red blood cells.Normal value ranges may vary slightly among different laboratories. Some labs use different measurements or test different samples. Talk to your provider about the meaning of your specific test results.What Abnormal Results Mean
+
+An abnormal (positive) direct Coombs test means you have antibodies that act against your red blood cells. This may be due to:
+  Autoimmune hemolytic anemiaChronic lymphocytic leukemia or similar disorder
+  Blood disease in newborns called erythroblastosis fetalis (also called hemolytic disease of the newborn)Infectious mononucleosisMycoplasma infectionSyphilisSystemic lupus erythematosusTransfusion reaction, such as one due to improperly matched units of blood The test result may also be abnormal without any clear cause, especially among the older people.An abnormal (positive) indirect Coombs test means you have antibodies that will act against red blood cells that your body views as foreign. This may suggest:Erythroblastosis fetalisIncompatible blood match (when used in blood banks) Risks
+
+There is little risk involved with having your blood taken. Veins and arteries vary in size from one person to another and from one side of the body to the other. Taking blood from some people may be more difficult than from others.Other risks associated with having blood drawn are slight, but may include:Fainting or feeling lightheadedMultiple punctures to locate veinsHematoma (blood buildup under the skin)Excessive bleedingInfection (a slight risk any time the skin is broken) Alternative Names
+
+Direct antiglobulin test; Indirect antiglobulin test; Anemia - hemolyticReferences
+
+Elghetany MT, Banki K. Erythrocytic disorders. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 33.Michel M. Autoimmune and intravascular hemolytic anemias. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 151.
+Review Date 1/25/2022
+
+
+Updated by: Todd Gersten, MD, Hematology/Oncology, Florida Cancer Specialists & Research Institute, Wellington, FL. Review provided by VeriMed Healthcare Network. Also reviewed by David Zieve, MD, MHA, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Blood Disorders

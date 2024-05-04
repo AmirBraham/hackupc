@@ -1,0 +1,31 @@
+source : https://medlineplus.gov/ency/article/003696.htm 
+ 
+ The ACTH stimulation test measures how well the adrenal glands respond to adrenocorticotropic hormone (ACTH). ACTH is a hormone produced in the pituitary gland that stimulates the adrenal glands to release a hormone called cortisol. How the Test is Performed
+
+The test is done the following way:Your blood is drawn.You then receive a shot (injection) of ACTH, usually into the muscle in your shoulder. The ACTH may be a man-made (synthetic) form.After either 30 minutes or 60 minutes, or both, depending on how much ACTH you receive, your blood is drawn again.The lab checks the cortisol level in all the blood samples.You may also have other blood tests, including ACTH, as part of the first blood test. Along with the blood tests, you may also have a urine cortisol test or urine 17-ketosteroids test, which involves collecting the urine over a 24-hour period. Sometimes the test is done to measure a different hormone called 17-hydroxy progesterone.How to Prepare for the Test
+
+You may need to limit activities and eat foods that are high in carbohydrates 12 to 24 hours before the test. You may be asked to fast for 6 hours before the test. Sometimes, no special preparation is needed. You may be asked to temporarily stop taking medicines, such as hydrocortisone, which can interfere with the cortisol blood test. How the Test will Feel
+
+When the needle is inserted to draw blood, some people feel moderate pain. Others feel only a prick or stinging. Afterward, there may be some throbbing or slight bruising. This soon goes away.The injection into the shoulder may cause moderate pain or stinging.Some people feel flushed, nervous, or nauseated after the injection of ACTH.Why the Test is Performed
+
+This test can help determine whether your adrenal and pituitary glands are normal. It is most often used when your health care provider thinks you have an adrenal gland problem, such as Addison disease, or pituitary insufficiency. It is also used to see if your pituitary and adrenal glands have recovered from prolonged use of glucocorticoid medicines, such as prednisone or dexamethasone.Normal Results
+
+An increase in cortisol after stimulation by ACTH is expected. Cortisol level after ACTH stimulation should be higher than 13 to 14 mcg/dL (358 to 386 nmol/L) depending on the type of cortisol assay used and, on the dose of ACTH used.Normal value ranges may vary slightly among different laboratories. Some labs use different measurements or may test different specimens. Talk to your provider about the meaning of your specific test results.What Abnormal Results Mean
+
+This test is helpful in finding out if you have:Acute adrenal crisis (life-threatening condition that occurs when there is not enough cortisol)Addison disease (adrenal glands do not produce enough cortisol)Hypopituitarism (pituitary gland is not producing enough hormones such as ACTH) Risks
+
+There is little risk involved with having your blood taken. Veins and arteries vary in size from one person to another, and from one side of the body to the other. Taking blood from some people may be more difficult than from others.Other risks associated with having blood drawn are slight, but may include:Excessive bleedingFainting or feeling lightheadedMultiple punctures to locate veinsHematoma (blood accumulating under the skin)Infection (a slight risk any time the skin is broken) Alternative Names
+
+Test of adrenal reserve; Cosyntropin stimulation test; Cortrosyn stimulation test; Synacthen stimulation test; Tetracosactide stimulation testReferences
+
+Newell-Price JDC, Auchus RJ. The adrenal cortex. In: Melmed S, Auchus RJ, Goldfine AB, Koenig RJ, Rosen CJ, eds. Williams Textbook of Endocrinology. 14th ed. Philadelphia, PA: Elsevier; 2020:chap 15.Torpy DJ, Bancos I, Husebye E. Adrenal insufficiency. In: Robertson RP, ed. DeGroot's Endocrinology. 8th ed. Philadelphia, PA: Elsevier; 2023:chap 93.
+Review Date 8/28/2023
+
+
+Updated by: Sandeep K. Dhaliwal, MD, board-certified in Diabetes, Endocrinology, and Metabolism, Springfield, VA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.  
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Addison Disease
+Adrenal Gland Disorders
+Pituitary Disorders

@@ -1,0 +1,40 @@
+source : https://medlineplus.gov/ency/article/000073.htm 
+ 
+ Pneumonia is inflamed or swollen lung tissue due to infection with a germ.Viral pneumonia is caused by a virus.Causes
+
+Viral pneumonia is more likely to occur in young children and older adults. This is because their bodies have a harder time fighting off the virus than people with a strong immune system.Viral pneumonia is most often caused by one of several viruses:Respiratory syncytial virus (RSV)Influenza virusParainfluenza virusAdenovirus (less common)Measles virusCoronaviruses such as SARS-CoV-2, which causes COVID-19 pneumoniaSerious viral pneumonia is more likely to happen in those with a weakened immune system, such as:Babies who are born too early.Children with heart and lung problems.People who have HIV/AIDS.People receiving chemotherapy for cancer, or other medicines that weaken the immune system.People who have had an organ transplant.Some viruses like the flu and SARS-CoV2 can lead to severe pneumonia in younger and otherwise healthy patients.Symptoms
+
+Symptoms of viral pneumonia often begin slowly and may not be severe at first.The most common symptoms of pneumonia are:Cough (with some pneumonias you may cough up mucus, or even bloody mucus)FeverShaking chillsShortness of breath (may only occur when you exert yourself) Other symptoms include:Confusion, often in older peopleExcessive sweating and clammy skinHeadacheLoss of appetite, low energy, and fatigueSharp or stabbing chest pain that gets worse when you breathe deeply or coughFatigueExams and Tests
+
+The health care provider will perform a physical exam and ask about the symptoms.If the provider thinks you have pneumonia, you will also have a chest x-ray. This is because the physical exam may not be able to tell pneumonia from other respiratory infections.Depending on how severe your symptoms are, other tests may be done, including:Complete blood count (CBC)CT scan of the chestBlood cultures to check for viruses in the blood (or bacteria that might cause secondary infections)Bronchoscopy (rarely needed)Throat and nose swab tests to check for viruses such as the flu or SARS-CoV-2, the virus that causes COVID-19Open lung biopsy (only done in very serious illnesses when the diagnosis cannot be made from other sources)Sputum culture (to rule out other causes)Measuring levels of oxygen and carbon dioxide in the blood (arterial blood gases)Treatment
+
+Antibiotics do not treat this type of lung infection. Medicines that treat viral infections may work against some pneumonias caused by influenza, coronaviruses, and herpes viruses. These medicines may be tried if the infection is caught early.Treatment may also involve:Corticosteroid medicinesIncreased fluidsOxygenUse of humidified airA hospital stay may be needed if you are unable to drink enough and to help with breathing if oxygen levels are too low.People are more likely to be admitted to the hospital if they:Are 65 years old or olderAre childrenAre unable to care for themselves at home, eat, or drinkHave another serious medical problem, such as a heart or kidney problemHave been taking antibiotics at home and are not getting betterHave severe symptomsHowever, many people can be treated at home. You can take these steps at home:Control your fever with aspirin, nonsteroidal anti-inflammatory drugs (NSAIDs, such as ibuprofen or naproxen), or acetaminophen. DO NOT give aspirin to children because it may cause a dangerous illness called Reye syndrome.DO NOT take cough medicines without first talking to your provider. Cough medicines may make it harder for your body to cough up sputum.Drink plenty of fluids to help loosen secretions and bring up phlegm.Get a lot of rest. Have someone else do chores.Outlook (Prognosis)
+
+Most cases of viral pneumonia are mild and get better without treatment within 1 to 3 weeks. Some cases are more serious and require a hospital stay.Possible Complications
+
+More serious infections can result in respiratory failure, liver failure, and heart failure. Sometimes, bacterial infections occur during or just after viral pneumonia, which may lead to more serious forms of pneumonia.When to Contact a Medical Professional
+
+Contact your provider if symptoms of viral pneumonia develop or your condition gets worse after starting to improve.Prevention
+
+Wash your hands often, after blowing your nose, going to the bathroom, diapering a baby, and before eating or preparing food.Avoid coming into contact with other sick patients.DO NOT smoke. Tobacco damages your lungs' ability to ward off infection.A medicine called palivizumab (Synagis) may be given to children under 24 months old to prevent serious RSV illness. The flu vaccine, is given each year to prevent pneumonia caused by the flu virus. Those who are older and those with diabetes, asthma, chronic obstructive pulmonary disease (COPD), cancer, or weakened immune systems should be sure to get the flu vaccine.The COVID-19 vaccine may help prevent severe pneumonia caused by the SARS-CoV-2 virus. It is particularly important for people with weakened immune systems, chronic health conditions, and older adults. If your immune system is weak, stay away from crowds. Ask visitors who have a cold to wear a mask and wash their hands.Alternative Names
+
+Pneumonia - viral; Walking pneumonia - viral Patient Instructions
+
+Pneumonia in adults - discharge
+Pneumonia in children - discharge
+Images
+
+
+Lungs
+Respiratory system
+References
+
+Daly JS, Ellison RT. Acute pneumonia. In: Bennett JE, Dolin R, Blaser MJ, eds. Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases. 9th ed. Philadelphia, PA: Elsevier; 2020:chap 67.Fung M, Babik JM, Munger JS, Kaufman DA. COVID-19. In: Broaddus VC, Ernst JD, King TE, et al, eds. Murray & Nadel's Textbook of Respiratory Medicine. 7th ed. Philadelphia, PA: Elsevier; 2022:chap 46a.McCullers JA. Influenza viruses. In: Cherry JD, Harrison GJ, Kaplan SL, Steinbach WJ, Hotez PJ, eds. Feigin and Cherry's Textbook of Pediatric Infectious Diseases. 8th ed. Philadelphia, PA: Elsevier; 2019:chap 178.Musher DM. Overview of pneumonia. In: Goldman L, Schafer AI eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020;chap 91.Schmitt ER. Pediatric lung disease. In: Walls RM, ed. Rosen's Emergency Medicine: Concepts and Clinical Practice. 10th ed. Philadelphia, PA: Elsevier; 2023:chap 164.
+Review Date 7/31/2022
+
+
+Updated by: Denis Hadjiliadis, MD, MHS, Paul F. Harron Jr. Professor of Medicine, Pulmonary, Allergy, and Critical Care, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.  
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Pneumonia

@@ -1,0 +1,38 @@
+source : https://medlineplus.gov/ency/article/000406.htm 
+ 
+ Ectopic Cushing syndrome is a form of Cushing syndrome in which a tumor outside the pituitary gland produces a hormone called adrenocorticotropic hormone (ACTH).Causes
+
+
+Cushing syndrome is a disorder that occurs when your body has a higher than normal level of the hormone cortisol. This hormone is made in the adrenal glands. Too much cortisol can be due to various problems. One of the causes is if there is too much of the hormone ACTH in the blood. ACTH is usually made by the pituitary in small amounts and then signals the adrenal glands to produce cortisol. Sometimes other cells outside the pituitary can make large amounts of ACTH. This is called ectopic Cushing syndrome. Ectopic means that something is occurring in an abnormal place in the body.Ectopic Cushing syndrome is caused by tumors that release ACTH. Tumors that can, in rare cases, release ACTH include:Benign carcinoid tumors of the lungIslet cell tumors of the pancreasMedullary carcinoma of the thyroidSmall cell tumors of the lungTumors of the thymus gland Symptoms
+
+Ectopic Cushing syndrome can cause a lot of different symptoms. Some people have many symptoms while others have only a few. Most people with any type of Cushing syndrome have:Round, red, and full face (moon face)Slow growth rate in childrenWeight gain with fat accumulation on the trunk, but fat loss from the arms, legs, and buttocks (central obesity) Skin changes that are often seen:Skin infectionsThick, purple stretch marks (1/2 inch or 1 centimeter or more wide) called striae on the skin of the abdomen, thighs, upper arms, and breastsThin skin with easy bruising Muscle and bone changes include:Backache, which occurs with routine activitiesBone pain or tendernessCollection of fat between the shoulders and above the collar boneRib and spine fractures caused by thinning of the bonesWeak muscles, especially of the hips and shoulders Body-wide (systemic) problems may include:Type 2 diabetes mellitusHigh blood pressureHigh cholesterol and triglyceridesWomen may have:Excess hair growth on the face, neck, chest, abdomen, and thighsPeriods that become irregular or stop Men may have: Decreased or no desire for sexImpotenceOther symptoms that may occur include:
+   Mental changes, such as depression, anxiety, or changes in behaviorFatigueHeadacheIncreased thirst and urinationExams and Tests
+
+The health care provider will perform a physical exam and ask about your symptoms. Tests that may be done include:24-hour urine sample to measure cortisol and creatinine levelsBlood tests to check ACTH, cortisol, and potassium levels (the potassium level is often very low in ectopic Cushing syndrome)Dexamethasone suppression test (both high and low dose)
+   Inferior petrosal sinus sampling (a special test that measures ACTH from veins near the brain and in the chest)Fasting glucoseMRI and high resolution CT scans to find the tumor (sometimes nuclear medicine scans may be needed)Treatment
+
+The best treatment for ectopic Cushing syndrome is surgery to remove the tumor that is producing too much ACTH. Surgery is usually possible when the tumor is noncancerous (benign).In some cases, the tumor is cancerous and spreads to other areas of the body before your provider can discover the problem with cortisol production. Surgery may not be possible in these cases. But your provider may prescribe medicines to block cortisol production.Sometimes removal of both adrenal glands is needed if the tumor cannot be found and medicines do not fully block cortisol production.Outlook (Prognosis)
+
+Surgery to remove the tumor may lead to full recovery. But there is a chance that the tumor will come back.Possible Complications
+
+The tumor may spread or return after surgery. A high cortisol level may continue.When to Contact a Medical Professional
+
+Contact your provider if you develop symptoms of Cushing syndrome.Prevention
+
+Prompt treatment of tumors may reduce the risk in some cases. Many cases are not preventable.Alternative Names
+
+Cushing syndrome - ectopic; Ectopic ACTH syndrome; Ectopic Cushing's syndromeImages
+
+
+Endocrine glands
+References
+
+Newell-Price JDC, Auchus RJ. The adrenal cortex. In: Melmed S, Auchus RJ, Goldfine AB, Koenig RJ, Rosen CJ, eds. Williams Textbook of Endocrinology. 14th ed. Philadelphia, PA: Elsevier; 2020:chap 15.Nieman LK, Biller BM, Findling JW, et al. Treatment of Cushing's syndrome: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab. 2015;100(8):2807-2831. PMID 26222757 pubmed.ncbi.nlm.nih.gov/26222757/.
+Review Date 5/12/2023
+
+
+Updated by: Sandeep K. Dhaliwal, MD, board-certified in Diabetes, Endocrinology, and Metabolism, Springfield, VA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.    
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Cushing's Syndrome

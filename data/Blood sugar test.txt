@@ -1,0 +1,39 @@
+source : https://medlineplus.gov/ency/article/003482.htm 
+ 
+ A blood sugar test measures the amount of a sugar called glucose in a sample of your blood.Glucose is a major source of energy for most cells of the body, including brain cells. Glucose is a building block for carbohydrates. Carbohydrates are found in fruit, cereal, bread, pasta, and rice. Carbohydrates are quickly turned into glucose in your body. This can raise your blood glucose level.The hormone insulin made in the body helps control the blood glucose level.How the Test is Performed
+
+A blood sample is needed. How to Prepare for the Test
+
+The test may be done in the following ways: After you have not eaten anything for at least 8 hours (fasting)At any time of the day (random)Two hours after you drink a certain amount of glucose (2 hour post-prandial glucose test or oral glucose tolerance test) How the Test will Feel
+
+When the needle is inserted to draw blood, some people feel moderate pain. Others feel only a prick or stinging. Afterward, there may be some throbbing or slight bruising. This soon goes away.Why the Test is Performed
+
+Your health care provider may order this test if you have signs of diabetes. More than likely, the provider will order a fasting blood sugar test.The blood glucose test is also used to monitor people who already have diabetes. The test may also be done if you have:An increase in how often you need to urinateRecently gained a lot of weightBlurred visionConfusion or a change in the way you normally talk or behaveFainting spellsSeizures (for the first time) Unconsciousness or comaSCREENING FOR DIABETESThis test may also be used to screen a person for diabetes.High blood sugar and diabetes may not cause symptoms in the early stages. A fasting blood sugar test is the most common test done to screen for diabetes, usually starting at age 35. If you have no other diabetes risk factors, you should be tested every 3 years (in some cases, more often if your weight is rising).If you're overweight and have any of the other risk factors below, ask your provider about getting tested at an earlier age and more often:High blood sugar level on a previous testBlood pressure of 140/90 mm Hg or higher, or unhealthy cholesterol levelsHistory of heart diseaseMember of a high-risk ethnic group (African American, Latino, Native American, Asian American, or Pacific Islander)Woman who has been previously diagnosed with gestational diabetesPolycystic ovary disease (condition in which a woman has an imbalance of female sex hormones which may cause cysts in the ovaries)Close relative with diabetes (such as a parent, brother, or sister)Not physically active Children age 10 and older who are overweight and have at least two of the risk factors listed above should be tested for type 2 diabetes every 3 years, even if they have no symptoms.In 2022, the US Preventive Services Task Force concluded that there was not enough evidence to recommend screening for type 2 diabetes in people 18 years old or younger. Some experts do advocate such screening for overweight children. Ask your child’s provider what is best for them.Normal Results
+
+If you had a fasting blood glucose test, a level of 70 to 99 mg/dL (3.9 and 5.5 mmol/L) is considered normal.If you had a random blood glucose test, a normal result depends on when you last ate. Most of the time, the blood glucose level will be 125 mg/dL (6.9 mmol/L) or lower.The examples above show the common measurements for results of these tests. Normal value ranges may vary slightly among different laboratories. Some labs use different measurements or may test different specimens. Talk to your provider about the meaning of your specific test results.Blood glucose measured by a blood test from a vein is considered more accurate than blood glucose measured from a fingerstick with a blood glucose meter, or blood glucose measured by a continuous glucose monitor.What Abnormal Results Mean
+
+If you had a fasting blood glucose test: A level of 100 to 125 mg/dL (5.6 to 6.9 mmol/L) means you have impaired fasting glucose, a type of prediabetes. This increases your risk of developing type 2 diabetes and you should consult with your provider.A level of 126 mg/dL (7 mmol/L) or higher usually means you have diabetes. If you had a random blood glucose test:A level of 200 mg/dL (11 mmol/L) or higher often means you have diabetes.Your provider will order a fasting blood glucose, A1C test, or glucose tolerance test, depending on your random blood glucose test result.In someone who has diabetes, an abnormal result on the random blood glucose test may mean that the diabetes is not well controlled. Talk with your provider about your blood glucose goals if you have diabetes.Other medical problems can also cause a higher-than-normal blood glucose level, including:Overactive thyroid glandPancreatic cancerSwelling and inflammation of the pancreas (pancreatitis)Stress due to trauma, stroke, heart attack, or surgeryRare tumors, including pheochromocytoma, acromegaly, Cushing syndrome, or glucagonomaA lower-than-normal blood glucose level (hypoglycemia) may be due to:Hypopituitarism (a pituitary gland disorder)Underactive thyroid gland or adrenal glandTumor in the pancreas (insulinoma - very rare)Too little foodToo much insulin or other diabetes medicinesLiver or kidney diseaseWeight loss after weight loss surgeryVigorous exercise Some medicines can raise or lower your blood glucose level. Before having the test, tell your provider about all the medicines you are taking.For some people, mainly those who are thin and young, a fasting blood sugar level below 70 mg/dL (3.9 mmol/L) may be normal.Risks
+
+There is little risk involved with having your blood taken. Veins and arteries vary in size from one person to another and from one side of the body to the other. Obtaining a blood sample from some people may be more difficult than from others.Other risks associated with having blood drawn are slight, but may include:Excessive bleedingFainting or feeling lightheadedMultiple punctures to locate veinsHematoma (blood accumulating under the skin)Infection (a slight risk any time the skin is broken)Alternative Names
+
+Random blood sugar; Blood sugar level; Fasting blood sugar; Glucose test; Diabetic screening - blood sugar test; Diabetes - blood sugar testPatient Instructions
+
+Type 2 diabetes - what to ask your doctor
+Images
+
+
+Blood test
+References
+
+American Diabetes Association Professional Practice Committee. 2. Classification and diagnosis of diabetes: standards of care in diabetes-2024. Diabetes Care. 2024;47(Suppl 1):S20-S42. PMID: 38078589 pubmed.ncbi.nlm.nih.gov/38078589/.US Preventive Services Task Force website. Final recommendation statement: Prediabetes and type 2 diabetes: Screening. www.uspreventiveservicestaskforce.org/uspstf/recommendation/screening-for-prediabetes-and-type-2-diabetes. Released August 24, 2021. Accessed February 20, 2024.US Preventive Services Task Force website. Final recommendation statement: Prediabetes and type 2 diabetes in children and adolescents: Screening. www.uspreventiveservicestaskforce.org/uspstf/recommendation/prediabetes-type2-diabetes-children-adolescents-screening. Released September 13, 2022. Accessed February 20, 2024.
+Review Date 2/10/2023
+
+
+Updated by: Sandeep K. Dhaliwal, MD, board-certified in Diabetes, Endocrinology, and Metabolism, Springfield, VA. Internal review and update on 02/20/2024 by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Blood Glucose
+Diabetes
+Diabetes in Children and Teens
+Prediabetes

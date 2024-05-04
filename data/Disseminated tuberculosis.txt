@@ -1,0 +1,40 @@
+source : https://medlineplus.gov/ency/article/000624.htm 
+ 
+ Disseminated tuberculosis is a mycobacterial infection in which mycobacteria have spread from the lungs to other parts of the body through the blood or lymph system.Causes
+
+Tuberculosis (TB) infection can develop after breathing in droplets sprayed into the air from a cough or sneeze by someone infected with the Mycobacterium tuberculosis bacterium. The resulting lung infection is called primary TB.The usual site of TB is the lungs (pulmonary TB), but other organs can be involved. In the United States, most people with primary tuberculosis get better and have no further evidence of disease. Disseminated TB develops in the small number of infected people whose immune systems do not successfully contain the primary infection.Disseminated disease can occur within weeks of the primary infection. Sometimes, it occurs years after you become infected. You are more likely to get this type of TB if you have a weakened immune system due to disease (such as AIDS) or certain medicines. Infants and older adults are also at higher risk.Your risk of catching TB increases if you:Are around people who have the disease (such as during overseas travel)Live in crowded or unclean conditionsHave poor nutrition The following factors can increase the rate of TB infection in a population:Increase in HIV infectionsIncrease in number of homeless people with unstable housing (poor environment and nutrition)The appearance of drug-resistant strains of TBSymptoms
+
+Disseminated tuberculosis can affect many different body areas. Symptoms depend on the affected areas of the body and can include:Abdominal pain or swellingChillsCough and shortness of breathFatigueFeverGeneral discomfort, uneasiness, or ill feeling (malaise)Joint painPale skin due to anemia (pallor)SweatingSwollen glandsWeight lossExams and Tests
+
+The health care provider will perform a physical exam. This may show:Swollen liverSwollen lymph nodesSwollen spleenTests that may be ordered include:Biopsies and cultures of affected organs or tissuesBronchoscopy for biopsy or cultureChest x-rayCT scan of the affected areaFundoscopy may reveal retinal lesionsInterferon-gamma release blood test, such as the QFT-Gold test to test for prior exposure to TBLung biopsyMycobacterial culture of bone marrow or bloodPleural biopsyTuberculin skin test (PPD test)Sputum examination and culturesThoracentesisTreatment
+
+The goal of treatment is to cure the infection with medicines that fight the TB bacteria. Treatment of disseminated TB involves a combination of several medicines (usually 4). All medicines are continued until lab tests show which work best.You may need to take many different pills for 6 months or longer. It is very important that you take the pills the way your provider instructed.When people do not take their TB medicines as instructed, the infection can become much more difficult to treat. The TB bacteria can become resistant to treatment. This means the medicines no longer work.When there is concern that a person may not take all the medicines as directed, a provider may need to watch the person take the prescribed medicines. This approach is called directly observed therapy. In this case, medicines may be given 2 or 3 times a week, as prescribed by a provider.You may need to stay at home or be admitted to a hospital for 2 to 4 weeks to avoid spreading the disease to others until you are no longer contagious. Your provider may be required by law to report your TB illness to the local health department. Your health care team will ensure that you receive the best care.Outlook (Prognosis)
+
+Most forms of disseminated TB respond well to treatment. The tissue that is affected, such as the bones or joints, may have permanent damage due to the infection.Possible Complications
+
+Complications of disseminated TB can include:Adult respiratory distress syndrome (ARDS)Liver inflammationLung failureReturn of the disease Medicines used to treat TB can cause side effects, including:Changes in visionOrange- or brown-colored tears and urineRashLiver inflammationA vision test may be done before treatment so your doctor can monitor any changes in the health of your eyes.When to Contact a Medical Professional
+
+Contact your provider if you know or suspect that you have been exposed to TB. All forms of TB and exposure need prompt evaluation and treatment.Prevention
+
+TB is a preventable disease, even in those who have been exposed to an infected person. Skin testing for TB is used in high-risk populations or in people who may have been exposed to TB, such as health care workers.People who have been exposed to TB should be skin tested immediately and have a follow-up test at a later date, if the first test is negative.A positive skin test means you have come into contact with the TB bacteria. It does not mean that you have active disease or are contagious. Talk to your doctor about how to prevent getting tuberculosis.Prompt treatment is extremely important in controlling the spread of TB from those who have active TB disease to those who have never been infected with TB.Some countries with a high incidence of TB give people a vaccination (called BCG) to prevent TB. The effectiveness of this vaccine is limited and it is not routinely used in the United States.People who have had BCG may still be skin tested for TB. Discuss the test results (if positive) with your provider.Alternative Names
+
+Miliary tuberculosis; Tuberculosis - disseminated; Extrapulmonary tuberculosis Images
+
+
+Tuberculosis in the kidney
+Tuberculosis in the lung
+Coal worker's lungs - chest x-ray
+Tuberculosis, advanced - chest x-rays
+Miliary tuberculosis
+References
+
+Ellner JJ, Jacobson KR. Tuberculosis. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 308.Fitzgerald DW, Sterling TR, Haas DW. Mycobacterium tuberculosis. In: Bennett JE, Dolin R, Blaser MJ, eds. Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases. 9th ed. Philadelphia, PA: Elsevier; 2020:chap 249.
+Review Date 11/23/2021
+
+
+Updated by: Jatin M. Vyas, MD, PhD, Associate Professor in Medicine, Harvard Medical School; Associate in Medicine, Division of Infectious Disease, Department of Medicine, Massachusetts General Hospital, Boston, MA. Also reviewed by David Zieve, MD, MHA, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.  
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Bone Infections
+Tuberculosis

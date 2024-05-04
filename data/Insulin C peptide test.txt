@@ -1,0 +1,36 @@
+source : https://medlineplus.gov/ency/article/003701.htm 
+ 
+ C-peptide is a substance that is created when the hormone insulin is produced and released into the body. The insulin C-peptide test measures the amount of this product in the blood.How the Test is Performed
+
+A blood sample is needed. How to Prepare for the Test
+
+Preparation for the test depends on the reason for the C-peptide measurement. Ask your health care provider if you should not eat (fast) before the test. Your provider may ask you to stop taking medicines that can affect the test results.How the Test will Feel
+
+When the needle is inserted to draw blood, some people feel moderate pain. Others feel only a prick or stinging. Afterward, there may be some throbbing or a slight bruise. This soon goes away.Why the Test is Performed
+
+C-peptide is measured to tell the difference between insulin the body produces and insulin that is injected into the body.Someone with type 1 or type 2 diabetes may have their C-peptide level measured to see if their body is still producing insulin. C-peptide is also measured in case of low blood sugar to see if the person's body is producing too much insulin.The test is also often ordered to check if certain medicines that can help the body produce more insulin, such as glucagon-like peptide 1 analogs (GLP-1) or DPP IV inhibitors would work in an individual patient.Normal Results
+
+A normal result is between 0.5 to 2.0 nanograms per milliliter (ng/mL), or 0.2 to 0.8 nanomoles per liter (nmol/L).Normal value ranges may vary slightly among different laboratories. Some labs use different measurements or test different samples. Talk to your provider about the meaning of your specific test results.What Abnormal Results Mean
+
+Normal C-peptide level is based on blood sugar level. C-peptide is a sign that your body is producing insulin. A low level (or no C-peptide) indicates that your pancreas is producing little or no insulin.A low level may be normal if you have not eaten recently. Your blood sugar and insulin levels would naturally be low then.A low level is abnormal if your blood sugar is high and your body should be making insulin at that time.People with type 2 diabetes, obesity, or insulin resistance may have a high C-peptide level. This means their body is producing a lot of insulin to keep (or try to keep) their blood sugar normal.Risks
+
+There is little risk involved with having your blood taken. Veins and arteries vary in size from one person to another and from one side of the body to the other. Obtaining a blood sample from some people may be more difficult than from others.Other risks associated with having blood drawn are slight but may include:BleedingFainting or feeling lightheadedMultiple punctures to try to locate veinsHematoma (blood buildup under the skin)Infection (a slight risk any time the skin is broken)Alternative Names
+
+C-peptideImages
+
+
+Blood test
+References
+
+Atkinson MA, McGill DE, Dassau E, Laffel L. Type 1 diabetes mellitus. In: Melmed S, Auchus RJ, Goldfine AB, Koenig RJ, Rosen CJ, eds. Williams Textbook of Endocrinology. 14th ed. Philadelphia, PA: Elsevier; 2020:chap 36.Chernecky CC, Berger BJ. C-peptide (connecting peptide) - serum. In: Chernecky CC, Berger BJ, eds. Laboratory Tests and Diagnostic Procedures. 6th ed. Philadelphia, PA: Elsevier; 2013:391-392.Kahn CR, Ferris HA, O'Neill BT. Pathophysiology of type 2 diabetes mellitus. In: Melmed S, Auchus RJ, Goldfine AB, Koenig RJ, Rosen CJ, eds. Williams Textbook of Endocrinology. 14th ed. Philadelphia, PA: Elsevier; 2020:chap 34.Petrie JR, Boyle JG. Diabetes mellitus. In: Penman ID, Ralston SH, Strachan MWJ, Hobson RP, eds. Davidson's Principles and Practice of Medicine. 24th ed. Philadelphia, PA: Elsevier; 2023:chap 21.
+Review Date 1/9/2022
+
+
+Updated by: Robert Hurd, MD, Professor of Endocrinology and Health Care Ethics, Xavier University, Cincinnati, OH. Review provided by VeriMed Healthcare Network. Also reviewed by David Zieve, MD, MHA, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.  
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Diabetes
+Diabetes in Children and Teens
+Hormones
+Hypoglycemia

@@ -1,0 +1,13 @@
+source : https://medlineplus.gov/ency/article/002350.htm 
+ 
+ Electrolytes are minerals in your blood and other body fluids that carry an electric charge.Electrolytes affect how your body functions in many ways, including:The amount of water in your bodyThe acidity of your blood (pH)Your nerve and muscle functionOther important processes You lose electrolytes when you sweat. You must replace them by drinking fluids that contain electrolytes. Water does not contain electrolytes.Common electrolytes include:CalciumChlorideMagnesiumPhosphorusPotassiumSodium Electrolytes can be acids, bases, or salts. They can be measured by different blood tests. Each electrolyte can be measured separately, such as:Ionized calciumSerum calciumSerum chlorideSerum magnesiumSerum phosphorusSerum potassiumSerum sodiumNote: Serum is the part of blood that doesn't contain cells.Sodium, potassium, chloride, and calcium levels can also be measured as part of a basic metabolic panel. A more complete test, called comprehensive metabolic panel, can test for these and several more chemicals.The electrolytes - urine test measures electrolytes in urine. It tests the levels of calcium, chloride, potassium, sodium, and other electrolytes.References
+
+Hamm LL, DuBose TD. Disorders of acid-base balance. In: Yu ASL, Chertow GM, Luyckx VA, Marsden PA, Skorecki K, Taal MW, eds. Brenner and Rector's The Kidney. 11th ed. Philadelphia, PA: Elsevier; 2020:chap 16.Oh MS, Briefel G, Pincus MR. Evaluation of renal function, water, electrolytes, and acid-base balance. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 15.
+Review Date 11/19/2023
+
+
+Updated by: Jacob Berman, MD, MPH, Clinical Assistant Professor of Medicine, Division of General Internal Medicine, University of Washington School of Medicine, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Fluid and Electrolyte Balance

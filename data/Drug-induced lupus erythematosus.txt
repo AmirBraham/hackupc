@@ -1,0 +1,36 @@
+source : https://medlineplus.gov/ency/article/000446.htm 
+ 
+ Drug-induced lupus erythematosus is an autoimmune disorder that is triggered by a reaction to a medicine.Causes
+
+Drug-induced lupus erythematosus is similar but not identical to systemic lupus erythematosus (SLE). It is an autoimmune disorder. This means your body attacks healthy tissue by mistake. It is caused by a reaction to a medicine. Related conditions are drug-induced cutaneous lupus and drug-induced ANCA vasculitis.The most common medicines known to cause drug-induced lupus erythematosus are:IsoniazidHydralazineProcainamideTumor-necrosis factor (TNF) alpha inhibitors (such as etanercept, infliximab and adalimumab)MinocyclineQuinidineOther less common drugs may also cause the condition. These may include:Anti-seizure medicinesCapotenChlorpromazineMethyldopaSulfasalazineLevamisole, typically as a contaminant of cocaineCancer immunotherapy drugs such as pembrolizumab can also cause a variety of autoimmune reactions including drug-induced lupus.Symptoms of drug-induced lupus tend to occur after taking the drug for at least 3 to 6 months.Symptoms
+
+Symptoms may include:FeverGeneral ill feeling (malaise)Joint painJoint swellingLoss of appetitePleuritic chest pain (sharp pain that is worse with breathing in)Skin rash on areas exposed to sunlightExams and Tests
+
+The health care provider will do a physical exam and listen to your chest with a stethoscope. The provider may hear a sound called a heart friction rub or pleural friction rub.A skin exam shows a rash.Joints may be swollen and tender.Tests that may be done include:Antihistone antibodyAntinuclear antibody (ANA) panelAntineutrophil cytoplasmic antibody (ANCA) panelComplete blood count (CBC) with differentialComprehensive chemistry panelUrinalysisA chest x-ray may show signs of pleuritis or pericarditis (inflammation around the lining of the lung or heart). An ECG may show that the heart is affected.Treatment
+
+Most of the time, symptoms go away within weeks after stopping the medicine that caused the condition.Treatment may include:Nonsteroidal anti-inflammatory drugs (NSAIDs) to treat arthritis and pleurisyCorticosteroid creams to treat skin rashesAntimalarial drugs (hydroxychloroquine) to treat skin and arthritis symptomsIf the condition is affecting your heart, kidney, or nervous system, you may be prescribed high doses of corticosteroids (prednisone, methylprednisolone) and immune system suppressants (azathioprine or cyclophosphamide). This is rare.When the disease is active, you should wear protective clothing and sunglasses to guard against too much sun.Outlook (Prognosis)
+
+Most of the time, drug-induced lupus erythematosus is not as severe as SLE. The symptoms often go away within a few days to weeks after stopping the medicine you were taking. Rarely, kidney inflammation (nephritis) can develop with drug-induced lupus caused by TNF inhibitors or with ANCA vasculitis due to hydralazine or levamisole. Nephritis may require treatment with prednisone and immunosuppressive medicines.Avoid taking the drug that caused the reaction in future. Symptoms are likely to return if you do so.Possible Complications
+
+Complications may include:InfectionThrombocytopenic purpura -- bleeding near the skin surface, resulting from a low number of platelets in the bloodHemolytic anemiaMyocarditisPericarditisNephritisWhen to Contact a Medical Professional
+
+Contact your provider if:You develop new symptoms when taking any of the medicines listed above.Your symptoms do not get better after you stop taking the medicine that caused the condition. Prevention
+
+Watch for signs of a reaction if you are taking any of the drugs that can cause this problem.Alternative Names
+
+Lupus - drug inducedImages
+
+
+Lupus, discoid  - view of lesions on the chest
+Antibodies
+References
+
+Benfaremo D, Manfredi L, Luchetti MM, Gabrielli A. Musculoskeletal and rheumatic diseases induced by immune checkpoint inhibitors: a review of the literature. Curr Drug Saf. 2018;13(3):150-164. PMID: 29745339 pubmed.ncbi.nlm.nih.gov/29745339/.Radhakrishnan J, Perazella MA. Drug-induced glomerular disease: attention required. Clin J Am Soc Nephrol. 2015;10(7):1287-1290. PMID: 25876771 pubmed.ncbi.nlm.nih.gov/25876771/.Richardson B. Drug-induced lupus. In: Hochberg MC, Gravallese EM, Smolen JS, van der Heijde D, Weinblatt ME, Weisman MH, eds. Rheumatology. 8th ed. Philadelphia, PA: Elsevier; 2023:chap 140.Rubin RL. Drug-induced lupus. Expert Opin Drug Saf. 2015;14(3):361-378. PMID: 25554102 pubmed.ncbi.nlm.nih.gov/25554102/.Vaglio A, Grayson PC, Fenaroli P, et al. Drug-induced lupus: traditional and new concepts. Autoimmun Rev. 2018;17(9):912-918. PMID: 30005854 pubmed.ncbi.nlm.nih.gov/30005854/.
+Review Date 4/30/2023
+
+
+Updated by: Neil J. Gonter, MD, Assistant Professor of Medicine, Columbia University, New York, NY, and private practice specializing in Rheumatology at Rheumatology Associates of North Jersey, Teaneck, NJ. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.  
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Lupus

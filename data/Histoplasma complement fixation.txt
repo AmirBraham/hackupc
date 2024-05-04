@@ -1,0 +1,33 @@
+source : https://medlineplus.gov/ency/article/003527.htm 
+ 
+ Histoplasma complement fixation is a blood test that checks for infection by a fungus called Histoplasma capsulatum (H capsulatum), which causes the disease histoplasmosis.How the Test is Performed
+
+A blood sample is needed.The sample is sent to a laboratory. There it is examined for histoplasma antibodies using a laboratory method called complement fixation. This technique checks if your body has produced substances called antibodies to a specific foreign substance (antigen), in this case H capsulatum. Antibodies are specialized proteins that defend your body against bacteria, viruses, and fungi. If the antibodies are present, they stick, or "fix" themselves, to the antigen. This is why the test is called "fixation."How to Prepare for the Test
+
+There is no special preparation for the test.How the Test will Feel
+
+When the needle is inserted to draw blood, some people feel moderate pain. Others feel only a prick or stinging. Afterward, there may be some throbbing or bruising. This soon goes away.Why the Test is Performed
+
+The test is done to detect histoplasmosis infection.Normal Results
+
+The absence of antibodies (negative test) is normal.What Abnormal Results Mean
+
+Abnormal results may mean you have an active histoplasmosis infection or have had an infection in the past.During the early stage of an illness, few antibodies may be detected. Antibody production increases during the course of an infection. For this reason, this test may be repeated several weeks after the first test.People who have been exposed to H capsulatum in the past may have antibodies to it, often at low levels. But they may not have shown signs of illness.Risks
+
+There is little risk involved with having your blood taken. Veins and arteries vary in size from one person to another, and from one side of the body to the other. Taking blood from some people may be more difficult than from others.Other risks associated with having blood drawn are slight, but may include:Excessive bleedingFainting or feeling lightheadedMultiple punctures to locate veinsHematoma (blood accumulating under the skin)Infection (a slight risk any time the skin is broken) Alternative Names
+
+Histoplasma antibody testImages
+
+
+Blood test
+References
+
+Christenson JC, Fox TG. Histoplasmosis, blastomycosis, and coccidioidomycosis. In: Steinbach WJ, Green MD, Michaels MG, Danziger-Isakov LA, Fisher BT, eds. Pediatric Transplant and Oncology Infectious Diseases. Philadelphia, PA: Elsevier; 2021:chap 28.Deepe GS. Histoplasma capsulatum (histoplasmosis). In: Bennett JE, Dolin R, Blaser MJ, eds. Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases. 9th ed. Philadelphia, PA: Elsevier; 2020:chap 263.
+Review Date 5/19/2023
+
+
+Updated by: Jatin M. Vyas, MD, PhD, Associate Professor in Medicine, Harvard Medical School; Associate in Medicine, Division of Infectious Disease, Department of Medicine, Massachusetts General Hospital, Boston, MA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Histoplasmosis

@@ -1,0 +1,45 @@
+source : https://medlineplus.gov/ency/article/000071.htm 
+ 
+ A solitary pulmonary nodule is a round or oval spot (lesion) in the lung that is seen with a chest x-ray or CT scan.Causes
+
+More than half of all solitary pulmonary nodules are noncancerous (benign). Benign nodules have many causes, including scars and past infections.Infectious granulomas (which are formed by cells as a reaction to a past infection) cause most benign nodules. Common infections that often result in granulomas or other healed scars include:Tuberculosis (TB) or exposure to TBFungus, such as aspergillosis, coccidioidomycosis, cryptococcosis, or histoplasmosisPrimary lung cancer is the most common cause of cancerous (malignant) pulmonary nodules. This is cancer that starts in the lung.Symptoms
+
+A solitary pulmonary nodule itself rarely causes symptoms.Exams and Tests
+
+A solitary pulmonary nodule is most often found on a chest x-ray or chest CT scan. These imaging tests are often done for other symptoms or reasons. It can also occur as part of the screening chest CT for people age 50 to 80 years who have a 20 pack-year smoking history.Your health care provider must decide whether the nodule in your lung is most likely benign or of concern. A nodule more is likely benign if:
+  The nodule is small, has a smooth border, and has a solid and even appearance on an x-ray or CT scan.
+  
+  You are young and never smoked.
+  Your provider may then choose to monitor the nodule over time by repeating a series of x-rays or CT scans.Repeat chest x-rays or chest CT scans are the most common way to monitor the nodule. Sometimes, lung PET scans may be done.
+  If repeated x-rays show that the nodule size has not changed in 2 years, it is most likely benign and a biopsy is not needed.
+  Your provider may recommend a biopsy of the nodule to check for cancer if:
+  You are a smoker.
+  
+  You have other symptoms of lung cancer.
+  
+  The nodule has grown in size or has changed when compared to earlier images.
+  The nodule has features that make it more likely to be cancerous (malignant).A lung needle biopsy may be done by placing a needle directly through the wall of your chest, or during procedures called bronchoscopy or mediastinoscopy.Tests to check for TB and other infections may also be done.Treatment
+
+Ask your provider about the risks of having a biopsy versus monitoring the size of the nodule with regular x-rays or CT scans. Treatment may be based on the results of the biopsy or other tests.Outlook (Prognosis)
+
+The outlook is usually good if the nodule is benign. If the nodule does not grow larger over a 2-year period, often nothing more needs to be done.Alternative Names
+
+Lung cancer - solitary nodule; Infectious granuloma - pulmonary nodule; SPNImages
+
+
+Adenocarcinoma - chest x-ray
+Pulmonary nodule - front view chest x-ray
+Pulmonary nodule, solitary - CT scan
+Respiratory system
+References
+
+Bueno J, Landeras L, Chung JH. Updated Fleischner Society guidelines for managing incidental pulmonary nodules: common questions and challenging scenarios. Radiographics. 2018;38(5):1337-1350. PMID: 30207935 pubmed.ncbi.nlm.nih.gov/30207935/.Jokerst CE, Gotway MB. Thoracic radiology: noninvasive diagnostic imaging. In: Broaddus VC, Ernst JD, King TE, et al, eds. Murray and Nadel's Textbook of Respiratory Medicine. 7th ed. Philadelphia, PA: Elsevier; 2022:chap 20.Reed JC. Solitary pulmonary nodule. In: Reed JC, ed. Chest Radiology: Patterns and Differential Diagnoses. 7th ed. Philadelphia, PA: Elsevier; 2018:chap 20.
+Review Date 8/13/2023
+
+
+Updated by: Denis Hadjiliadis, MD, MHS, Paul F. Harron Jr. Professor of Medicine, Pulmonary, Allergy, and Critical Care, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.  
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Lung Cancer
+Lung Diseases

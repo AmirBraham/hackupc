@@ -1,0 +1,35 @@
+source : https://medlineplus.gov/ency/article/003345.htm 
+ 
+ Blood typing is a method to tell what type of blood you have. Blood typing is done so you can safely donate your blood or receive a blood transfusion. It is also done to see if you have a substance called Rh factor on the surface of your red blood cells.Your blood type is based on whether or not certain proteins are on your red blood cells. These proteins are called antigens. Your blood type (or blood group) depends on what types your parents passed down to you.Blood is often grouped according to the ABO blood typing system. The 4 major blood types are:Type AType BType ABType OHow the Test is Performed
+
+A blood sample is needed. The test to determine your blood group is called ABO typing. Your blood sample is mixed with antibodies against type A and B blood. Then, the sample is checked to see whether or not the blood cells stick together. If blood cells stick together, it means the blood reacted with one of the antibodies.The second step is called back typing. The liquid part of your blood without cells (serum) is mixed with blood that is known to be type A and type B. People with type A blood have anti-B antibodies. People with type B blood have anti-A antibodies. Type O blood contains both types of antibodies.The 2 steps above can accurately determine your blood type.Rh typing uses a method similar to ABO typing. When blood typing is done to see if you have Rh factor on the surface of your red blood cells, the results will be one of these:Rh+ (positive), if you have this cell surface proteinRh- (negative), if you do not have this cell surface proteinHow to Prepare for the Test
+
+No special preparation is necessary for this test.How the Test will Feel
+
+When the needle is inserted to draw blood, some people feel moderate pain. Others feel only a prick or stinging. Afterward, there may be some throbbing or slight bruising. This soon goes away.Why the Test is Performed
+
+Blood typing is done so you can safely receive a blood transfusion or a transplant. Your blood type must closely match the blood type of the blood you are receiving. If the blood types do not match:Your immune system will see the donated red blood cells as foreign.Antibodies will develop against the donated red blood cells and attack these blood cells. The two ways that your blood and the donated blood may not match are:A mismatch between blood types A, B, AB, and O. This is the most common form of a mismatch. In most cases, the immune response is very severe.Rh factor may not match.Blood typing is very important during pregnancy. Careful testing can prevent a severe anemia in the newborn and jaundice.Normal Results
+
+You will be told which ABO blood type you have. It will be one of these:Type A bloodType B bloodType AB bloodType O bloodYou will also be told whether you have Rh-positive blood or Rh-negative blood.Based on your results, your health care providers can determine which type of blood you can safely receive:If you have type A blood, you can only receive types A and O blood.If you have type B blood, you can only receive types B and O blood.If you have type AB blood, you can receive types A, B, AB, and O blood.If you have type O blood, you can only receive type O blood.If you are Rh+, you can receive Rh+ or Rh- blood.If you are Rh-, you can only receive Rh- blood.Type O blood can be given to anyone with any blood type. That is why people with type O blood are called universal blood donors.Risks
+
+There is little risk involved with having your blood taken. Veins and arteries vary in size from one person to another, and from one side of the body to the other. Taking blood from some people may be more difficult than from others.Other risks associated with having blood drawn are slight, but may include:Fainting or feeling lightheadedMultiple punctures to locate veinsExcessive bleedingHematoma (blood buildup under the skin)Infection (a slight risk any time the skin is broken) Considerations
+
+There are many antigens besides the major ones (A, B, and Rh). Many minor ones are not routinely detected during blood typing. If they are not detected, you may still have a reaction when receiving certain types of blood, even if the A, B, and Rh antigens are matched.A process called cross-matching followed by a Coombs test can help detect these minor antigens. It is done before transfusions, except in emergency situations.Alternative Names
+
+Cross matching; Rh typing; ABO blood typing; ABO blood type; A blood type; AB blood type; O blood type; Transfusion - blood typingImages
+
+
+Erythroblastosis fetalis - photomicrograph
+Blood types
+References
+
+Arinsburg SA. Pretransfusion testing. In: Shaz BH, Hillyer CD, Gil MR, eds. Transfusion Medicine and Hemostasis. 3rd ed. Philadelphia, PA: Elsevier; 2019:chap 21.Segal GV, Wahed MA. Blood products and blood banking. In: Fowler GC, ed. Pfenninger and Fowler's Procedures for Primary Care. 4th ed. Philadelphia, PA: Elsevier; 2020:chap 234.Shaz BH, Hilyer CD. Transfusion medicine. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 167.Westhoff CM, Storry JR, Shaz BH. Human blood group antigens and antibodies. In: Hoffman R, Benz EJ, Silberstein LE, et al, eds. Hematology: Basic Principles and Practice. 7th ed. Philadelphia, PA: Elsevier; 2018:chap 110.
+Review Date 1/25/2022
+
+
+Updated by: Todd Gersten, MD, Hematology/Oncology, Florida Cancer Specialists & Research Institute, Wellington, FL. Review provided by VeriMed Healthcare Network. Also reviewed by David Zieve, MD, MHA, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Blood
+Blood Disorders

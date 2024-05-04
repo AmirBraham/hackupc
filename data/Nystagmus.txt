@@ -1,0 +1,31 @@
+source : https://medlineplus.gov/ency/article/003037.htm 
+ 
+ Nystagmus is a term to describe uncontrollable movements of the eyes that may be:Side to side (horizontal nystagmus)Up and down (vertical nystagmus)Rotary (rotary or torsional nystagmus)Depending on the cause, these movements may be in both eyes or in just one eye.Nystagmus can affect vision, balance, and coordination.Considerations
+
+The involuntary eye movements of nystagmus are caused by abnormal function in the areas of the brain that control eye movements. The part of the inner ear that senses movement and position (the labyrinth) helps control eye movements.There are two forms of nystagmus:Infantile nystagmus syndrome (INS) is present at birth (congenital).Acquired nystagmus develops later in life because of a disease or injury.Causes
+
+NYSTAGMUS THAT IS PRESENT AT BIRTH (infantile nystagmus syndrome, or INS)INS is usually mild. It does not become more severe, and it is not related to any other disorder.People with this condition are usually not aware of the eye movements, but other people may see them. If the movements are large, sharpness of vision (visual acuity) may be less than 20/20. Surgery may improve vision.Nystagmus may be caused by congenital diseases of the eye. Although this is rare, an eye doctor (ophthalmologist) should evaluate any child with nystagmus to check for eye disease.ACQUIRED NYSTAGMUSThe most common cause of acquired nystagmus is certain drugs or medicines. Phenytoin (Dilantin) - an antiseizure medicine, excessive alcohol, or any sedating medicine can impair the labyrinth's function.Other causes include:
+   Inner ear disorders such as benign positional vertigo, labyrinthitis or Meniere diseaseHead injury from motor vehicle accidentsStrokeInfections such as Lyme disease and syphilis
+   Thiamine or vitamin B12 deficiencyMultiple sclerosisBrain tumorsAutoimmune diseaseParaneoplastic syndromes (due to cancer elsewhere in the body)SeizuresNystagmus can also be a symptom of other neurological disorders.Home Care
+
+You may need to make changes in the home to help with dizziness, visual problems, or nervous system disorders.When to Contact a Medical Professional
+
+Contact your health care provider if you have symptoms of nystagmus or think you might have this condition.What to Expect at Your Office Visit
+
+Your provider will take a careful history and perform a thorough physical examination, focusing on the nervous system and inner ear. The provider may ask you to wear a pair of goggles that magnify your eyes for part of the examination.To check for nystagmus, the provider may use the following procedure:You spin around for about 30 seconds, stop, and try to stare at an object.Your eyes will first move slowly in one direction, then will move quickly in the opposite direction.If you have nystagmus due to a medical condition, the type and severity of the eye movements during this maneuver will depend on the cause.You may have the following tests:CT scan of the headElectro-oculography: An electrical method of measuring eye movements using tiny electrodesMRI of the headElectronystagmography: Vestibular testing by recording the movements of the eyes There is no treatment for most cases of congenital nystagmus. Treatment for acquired nystagmus depends on the cause. In some cases, nystagmus cannot be reversed. In cases due to medicines or infection, the nystagmus usually goes away after the cause has gotten better.Some treatments may help improve the visual function of people with infantile nystagmus syndrome:PrismsSurgery such as tenotomyDrug therapies for infantile nystagmusAlternative Names
+
+Back and forth eye movements; Involuntary eye movements; Rapid eye movements from side to side; Uncontrolled eye movements; Eye movements - uncontrollableImages
+
+
+External and internal eye anatomy
+References
+
+Olitsky SE, Marsh JD. Disorders of eye movement and alignment. In: Kliegman RM, St. Geme JW, Blum NJ, Shah SS, Tasker RC, Wilson KM, eds. Nelson Textbook of Pediatrics. 21st ed. Philadelphia, PA: Elsevier; 2020:chap 641.Quiros PA, Chang MY. Nystagmus, saccadic intrusions, and oscillations. In: Yanoff M, Duker JS, eds. Ophthalmology. 6th ed. Philadelphia, PA: Elsevier; 2023:chap 9.19.Rucker JC, Lavin PJM. Neuro-ophthalmology: ocular motor system. In: Jankovic J, Mazziotta JC, Pomeroy SL, Newman NJ, eds. Bradley and Daroff's Neurology in Clinical Practice. 8th ed. Philadelphia, PA: Elsevier; 2022:chap 18.
+Review Date 1/23/2023
+
+
+Updated by: Joseph V. Campellone, MD, Department of Neurology, Cooper Medical School of Rowan University, Camden, NJ. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Eye Movement Disorders

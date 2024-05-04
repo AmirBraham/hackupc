@@ -1,0 +1,37 @@
+source : https://medlineplus.gov/ency/article/003695.htm 
+ 
+ The ACTH test measures the level of adrenocorticotropic hormone (ACTH) in the blood. ACTH is a hormone released from the pituitary gland at the base of the brain.How the Test is Performed
+
+A blood sample is needed.How to Prepare for the Test
+
+Your health care provider will likely ask you to have the test done early in the morning. This is important because cortisol level varies throughout the day.You may also be told to stop taking medicines that can affect the test results. These medicines include glucocorticoids such as prednisone, hydrocortisone, or dexamethasone. Do not stop these medicines unless instructed by your provider.How the Test will Feel
+
+When the needle is inserted to draw blood, some people feel moderate pain. Others feel only a prick or stinging. Afterward, there may be some throbbing or slight bruising. This soon goes away.Why the Test is Performed
+
+The main function of ACTH is to regulate the glucocorticoid (steroid) hormone cortisol. Cortisol is released by the adrenal gland. It regulates blood pressure, blood sugar, the immune system, and the response to stress.This test can help find the causes of certain hormone problems.Normal Results
+
+Normal values for a blood sample taken early in the morning are 9 to 52 pg/mL (2 to 11 pmol/L).Normal value ranges may vary slightly among different laboratories. Some labs use different measurements or may test different specimens. Talk to your provider about the meaning of your specific test results.What Abnormal Results Mean
+
+A higher-than-normal level of ACTH may indicate:Adrenal glands not producing enough cortisol (Addison disease)Adrenal glands not producing enough hormones (congenital adrenal hyperplasia)One or more of the endocrine glands are overactive or have formed a tumor (multiple endocrine neoplasia type I)Pituitary is making too much ACTH (Cushing disease), which is usually caused by a non-cancerous tumor of the pituitary glandRare type of tumor (lung, thyroid, or pancreas) making too much ACTH (ectopic Cushing syndrome) A lower-than-normal level of ACTH may indicate:Glucocorticoid medicines are suppressing ACTH production (most common)Pituitary gland not producing enough hormones, such as ACTH (hypopituitarism)Tumor of the adrenal gland that produces too much cortisolA normal response after taking the low-dose dexamethasone suppression testRisks
+
+There is little risk involved with having your blood taken. Veins and arteries vary in size from one person to another and from one side of the body to the other. Taking blood from some people may be more difficult than from others.Other risks associated with having blood drawn are slight but may include:Excessive bleedingFainting or feeling lightheadedMultiple punctures to locate veinsHematoma (blood accumulating under the skin)Infection (a slight risk any time the skin is broken) Alternative Names
+
+Serum adrenocorticotropic hormone; Adrenocorticotropic hormone; Highly-sensitive ACTHImages
+
+
+Endocrine glands
+References
+
+Guber HA, Oprea M, Russell YX. Evaluation of endocrine function. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 25.Melmed S. Pituitary masses and tumors. In: Melmed S, Auchus RJ, Goldfine AB, Koenig RJ, Rosen CJ, eds. Williams Textbook of Endocrinology. 14th ed. Philadelphia, PA: Elsevier; 2020:chap 9.Newell-Price JDC, Auchus RJ. The adrenal cortex. In: Melmed S, Auchus RJ, Goldfine AB, Koenig RJ, Rosen CJ, eds. Williams Textbook of Endocrinology. 14th ed. Philadelphia, PA: Elsevier; 2020:chap 15.
+Review Date 5/13/2023
+
+
+Updated by: Sandeep K. Dhaliwal, MD, board-certified in Diabetes, Endocrinology, and Metabolism, Springfield, VA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.     
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Addison Disease
+Adrenal Gland Disorders
+Cushing's Syndrome
+Pituitary Disorders
+Pituitary Tumors

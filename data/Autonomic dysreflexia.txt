@@ -1,0 +1,36 @@
+source : https://medlineplus.gov/ency/article/001431.htm 
+ 
+ Autonomic dysreflexia is an abnormal, overreaction of the involuntary (autonomic) nervous system to stimulation. This reaction may include: Change in heart rateExcessive sweatingHigh blood pressureMuscle spasmsSkin color changes (paleness, redness, blue-gray skin color) Causes
+
+The most common cause of autonomic dysreflexia (AD) is spinal cord injury. The nervous system of people with AD over-responds to the types of stimulation that do not bother healthy people.Other causes include: Guillain-Barré syndrome (disorder in which the body's immune system mistakenly attacks part of the nervous system)Side effects of some medicinesSevere head trauma and other brain injuriesSubarachnoid hemorrhage (a form of brain bleeding)Use of illegal stimulant drugs such as cocaine and amphetamines Symptoms
+
+Symptoms can include any of the following:Anxiety or worryBladder or bowel problemsBlurry vision, widened (dilated) pupilsLightheadedness, dizziness, or faintingFeverGoosebumps, flushed (red) skin above the level of the spinal cord injuryHeavy sweatingHigh blood pressureIrregular heartbeat, slow or fast pulseMuscle spasms, especially in the jawNasal congestionThrobbing headacheSometimes there are no symptoms, even with a dangerous rise in blood pressure.Exams and Tests
+
+The health care provider will do a complete nervous system and medical examination. Tell the provider about all the medicines you are taking now and that you took in the past. This helps determine which tests you need.Tests may include:Blood and urine testsCT or MRI scanECG (measurement of the heart's electrical activity)Lumbar punctureTilt-table testing (testing of blood pressure as the body position changes)Toxicology screening (tests for any drugs, including medicines, in your bloodstream)X-rays Other conditions share many symptoms with AD, but have a different cause. The exam and testing help the provider rule out these other conditions, including:Carcinoid syndrome (tumors of the small intestine, colon, appendix, and bronchial tubes in the lungs)Neuroleptic malignant syndrome (a condition caused by some medicines that leads to muscle stiffness, high fever, and drowsiness)Pheochromocytoma (tumor of the adrenal gland)Serotonin syndrome (drug reaction that causes the body to have too much serotonin, a chemical produced by nerve cells)Thyroid storm (life-threatening condition from an overactive thyroid) Treatment
+
+AD is life threatening, so it is important to quickly find and treat the problem.A person with symptoms of AD should:Sit up and raise the headRemove tight clothingProper treatment depends on the cause. If medicines or illegal drugs are causing the symptoms, those drugs must be stopped. Any illness needs to be treated. For example, the provider will check for a blocked urinary catheter and signs of constipation which may cause AD in someone with a spinal cord injury.If a slowing of the heart rate is causing AD, drugs called anticholinergics (such as atropine) may be used.Very high blood pressure needs to be treated quickly but carefully, because the blood pressure can drop suddenly.A pacemaker may be needed for an unstable heart rhythm.Outlook (Prognosis)
+
+Outlook depends on the cause.People with AD due to a medicine usually recover when that medicine is stopped. When AD is caused by other factors, recovery depends on how well the disease can be treated.Possible Complications
+
+Complications may occur due to side effects of medicines used to treat the condition. Long-term, severe high blood pressure may cause seizures, bleeding in the eyes, stroke, or death.When to Contact a Medical Professional
+
+Contact your provider right away if you have symptoms of AD.Prevention
+
+To prevent AD, do not take medicines that cause this condition or make it worse. In people with spinal cord injury, the following may also help prevent AD:Do not let the bladder become too fullPain should be controlledPractice proper bowel care to avoid stool impactionPractice proper skin care to avoid bedsores and skin infectionsPrevent bladder infections Alternative Names
+
+Autonomic hyperreflexia; Spinal cord injury - autonomic dysreflexia; SCI - autonomic dysreflexiaImages
+
+
+Central nervous system and peripheral nervous system
+References
+
+Cheshire WP. Autonomic disorders and their management. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 390.Cowan H. Autonomic dysreflexia in spinal cord injury. Nurs Times. 2015;111(44):22-24. PMID: 26665385 pubmed.ncbi.nlm.nih.gov/26665385/.Khanna R, Fessler RD, Snyder L, Fessler RG. Spinal cord trauma. In: Jankovic J, Mazziotta JC, Pomeroy SL, Newman NJ, eds. Bradley and Daroff's Neurology in Clinical Practice. 8th ed. Philadelphia, PA: Elsevier; 2022:chap 63.McDonagh DL, Barden CB. Autonomic dysreflexia. In: Fleisher LA, Rosenbaum SH, eds. Complications in Anesthesia. 3rd ed. Philadelphia, PA: Elsevier; 2018:chap 131.
+Review Date 5/2/2022
+
+
+Updated by: Amit M. Shelat, DO, FACP, FAAN, Attending Neurologist and Assistant Professor of Clinical Neurology, Renaissance School of Medicine at Stony Brook University, Stony Brook, NY. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.  
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Autonomic Nervous System Disorders
+Spinal Cord Injuries

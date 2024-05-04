@@ -1,0 +1,37 @@
+source : https://medlineplus.gov/ency/article/000092.htm 
+ 
+ Respiratory acidosis is a condition that occurs when your lungs can’t remove all of the carbon dioxide produced by your body. This causes the blood and other body fluids to become too acidic.Causes
+
+There are many causes of respiratory acidosis, including:
+   Airway diseases, such as asthma and COPDLung tissue diseases, such as pulmonary fibrosis, which causes scarring and thickening of the lungsDiseases that can affect the chest, such as scoliosisDiseases that affect the nerves and muscles that signal the lungs to inflate or deflateMedicines that suppress breathing, including narcotics (opioids), and "downers," such as benzodiazepines, often when combined with each other or alcoholSevere obesity, which restricts how much the lungs can expandObstructive sleep apneaChronic respiratory acidosis occurs over a long time. This leads to a stable situation, because the kidneys increase body chemicals, such as bicarbonate, that help restore the body's acid-base balance.Acute respiratory acidosis occurs when carbon dioxide builds up very quickly, before the kidneys can return the body to a state of balance.Some people with chronic respiratory acidosis get acute respiratory acidosis when a serious illness worsens their condition and disrupts their body's acid-base balance.Symptoms
+
+Symptoms may include:ConfusionAnxietyEasy fatigueLethargyShortness of breathSleepinessTremors (shaking)Warm and flushed skinSweating Exams and Tests
+
+Your health care provider will perform a physical exam and ask about symptoms.You may have certain tests, including:Arterial blood gas (measures oxygen and carbon dioxide levels in the blood)Basic metabolic panelChest x-rayCT scan of the chestPulmonary function test to measure breathing and how well the lungs are functioningUltrasound of the heart (echocardiogram)Treatment
+
+Treatment is aimed at the underlying disease, and may include:Bronchodilator medicines and corticosteroids to reverse some types of airway obstructionNoninvasive positive-pressure ventilation (called CPAP or BiPAP)Oxygen if your blood oxygen level is lowTreatment to stop smoking.Changing medicines when appropriateIf your case is severe, you may need to be put on a breathing machine (ventilator).Outlook (Prognosis)
+
+How well you do depends on the disease causing the respiratory acidosis.Possible Complications
+
+Complications may include:Poor organ functionRespiratory failureShockWhen to Contact a Medical Professional
+
+Severe acute respiratory acidosis is a medical emergency. Seek medical help right away if you have symptoms of this condition.Call your provider if you have symptoms of lung disease that suddenly get worse.Prevention
+
+DO NOT smoke. Smoking can lead to many severe lung diseases that can cause respiratory acidosis.Losing weight may help prevent respiratory acidosis due to obesity (obesity-hypoventilation syndrome).Be careful about taking sedating medicines, and never combine these medicines with alcohol.Use your CPAP device regularly if it has been prescribed for you.Alternative Names
+
+Ventilatory failure; Respiratory failure; Acidosis - respiratoryImages
+
+
+Respiratory system
+References
+
+McCoin NS, Self WH. Acid-base disorders. In: Walls RM, ed. Rosen's Emergency Medicine: Concepts and Clinical Practice. 10th ed. Philadelphia, PA: Elsevier; 2023:chap 113.Sanghavi S, Albert TJ, Swenson ER. Acid-base balance. In: Broaddus VC, Ernst JD, King TE, et al, eds. Murray and Nadel's Textbook of Respiratory Medicine. 7th ed. Philadelphia, PA: Elsevier; 2022:chap 12.Seifter JL. Acid-base disorders. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 110.
+Review Date 7/31/2022
+
+
+Updated by: Denis Hadjiliadis, MD, MHS, Paul F. Harron Jr. Professor of Medicine, Pulmonary, Allergy, and Critical Care, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.   
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Lung Diseases
+Respiratory Failure

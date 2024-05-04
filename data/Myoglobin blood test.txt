@@ -1,0 +1,36 @@
+source : https://medlineplus.gov/ency/article/003663.htm 
+ 
+ The myoglobin blood test measures the level of the protein myoglobin in the blood.Myoglobin can also be measured with a urine test.How the Test is Performed
+
+A blood sample is needed. How to Prepare for the Test
+
+No special preparation is needed.How the Test will Feel
+
+When the needle is inserted to draw blood, some people feel moderate pain. Others feel only a prick or stinging. Afterward, there may be some throbbing or a slight bruise. This soon goes away.Why the Test is Performed
+
+Myoglobin is a protein in heart and skeletal muscles. When you exercise, your muscles use up available oxygen. Myoglobin has oxygen attached to it, which provides extra oxygen for the muscles to keep at a high level of activity for a longer period.When muscle is damaged, myoglobin in muscle cells is released into the bloodstream. The kidneys help remove myoglobin from the blood into the urine. When the level of myoglobin is too high, it can damage the kidneys.This test is ordered when your health care provider suspects you have muscle damage, most often of the skeletal muscles. It may also be ordered if you have acute kidney failure without any clear cause.Normal Results
+
+The normal range is 25 to 72 ng/mL (1.28 to 3.67 nmol/L).Note: Normal value ranges may vary slightly among different laboratories. Some labs use different measurements or may test different samples. Talk to your provider about the meaning of your specific test results.What Abnormal Results Mean
+
+An increased level of myoglobin may be due to:Heart attackMalignant hyperthermia (very rare)
+   Disorder that causes muscle weakness and loss of muscle tissue (muscular dystrophy)Breakdown of muscle tissue that leads to the release of muscle fiber contents into the blood (rhabdomyolysis)Skeletal muscle myositis (inflammation)Skeletal muscle ischemia (oxygen deficiency)Skeletal muscle traumaRisks
+
+There is little risk involved with having your blood taken. Veins and arteries vary in size from one person to another, and from one side of the body to the other. Taking blood from some people may be more difficult than from others.Other risks associated with having blood drawn are slight, but may include:Excessive bleedingFainting or feeling lightheadedMultiple punctures to locate veinsHematoma (blood accumulating under the skin)Infection (a slight risk any time the skin is broken)Alternative Names
+
+Serum myoglobin; Heart attack - myoglobin blood test; Myositis - myoglobin blood test; Rhabdomyolysis - myoglobin blood testImages
+
+
+Blood test
+References
+
+Nagaraju K, Aggarwal R, Lundberg IE. Inflammatory diseases of muscle and other myopathies. In: Firestein GS, Budd RC, Gabriel SE, Koretzky GA, McInnes IB, O'Dell JR, eds. Firestein & Kelly's Textbook of Rheumatology. 11th ed. Philadelphia, PA: Elsevier; 2021:chap 90.Selcen D. Muscle diseases. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 393.
+Review Date 2/28/2023
+
+
+Updated by: Jacob Berman, MD, MPH, Clinical Assistant Professor of Medicine, Division of General Internal Medicine, University of Washington School of Medicine, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Heart Attack
+Muscular Dystrophy
+Myositis

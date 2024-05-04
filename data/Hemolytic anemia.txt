@@ -1,0 +1,35 @@
+source : https://medlineplus.gov/ency/article/000571.htm 
+ 
+ Anemia is a condition in which the body does not have enough healthy red blood cells. Red blood cells provide oxygen to body tissues.Normally, red blood cells last for about 120 days in the body. In hemolytic anemia, red blood cells in the blood are destroyed earlier than normal.Causes
+
+The bone marrow is mostly responsible for making new red cells. Bone marrow is the soft tissue in the center of bones that helps form all blood cells.Hemolytic anemia occurs when the bone marrow isn't making enough red cells to replace the ones that are being destroyed.There are several possible causes of hemolytic anemia. Red blood cells may be destroyed due to:An autoimmune problem in which the immune system mistakenly sees your own red blood cells as foreign substances and destroys themGenetic defects within the red cells (such as sickle cell anemia, thalassemia, and G6PD deficiency)Exposure to certain chemicals, medicines, and toxinsInfectionsBlood clots in small blood vesselsTransfusion of blood from a donor with a blood type that does not match yours Symptoms
+
+You may not have symptoms if the anemia is mild. If the problem develops slowly, the first symptoms may be:Feeling weak or tired more often than usual, or with exerciseFeelings that your heart is pounding or racingHeadachesProblems concentrating or thinkingIf the anemia gets worse, symptoms may include:Lightheadedness when you stand upPale skinShortness of breathSore tongueEnlarged spleenExams and Tests
+
+A test called a complete blood count (CBC) can help diagnose anemia and offer some hints to the type and cause of the problem. Important parts of the CBC include red blood cell count (RBC), hemoglobin, and hematocrit (HCT).These tests can identify the type of hemolytic anemia:Absolute reticulocyte countCoombs test, direct and indirectDonath-Landsteiner testCold agglutininsFree hemoglobin in the serum or urinePlatelet countProtein electrophoresis - serumSerum immunofixationPyruvate kinaseSerum haptoglobin levelsSerum LDHCarboxyhemoglobin levelTreatment
+
+Treatment depends on the type and cause of the hemolytic anemia:In emergencies, a blood transfusion may be needed.For immune causes, medicines that suppress the immune system may be used.When blood cells are being destroyed at a fast pace, the body may need extra folic acid and iron supplements to replace what is being lost.In rare cases, surgery is needed to take out the spleen. This is because the spleen acts as a filter that removes abnormal cells from the blood.Outlook (Prognosis)
+
+Outcome depends on the type and cause of hemolytic anemia. Severe anemia can make heart disease, lung disease, or cerebrovascular disease worse.When to Contact a Medical Professional
+
+Contact your health care provider if you develop symptoms of hemolytic anemia.Alternative Names
+
+Anemia - hemolyticImages
+
+
+Red blood cells, sickle cell
+Red blood cells - multiple sickle cells
+Red blood cells - sickle cells
+Red blood cells - sickle and Pappenheimer
+Blood cells
+References
+
+Brodsky RA. Paroxysmal nocturnal hemoglobinuria. In: Hoffman R, Benz EJ, Silberstein LE, et al, eds. Hematology: Basic Principles and Practice. 7th ed. Philadelphia, PA: Elsevier; 2018:chap 31.Gallagher PG. Hemolytic anemias: red blood cell membrane and metabolic defects. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 152.Kumar V, Abbas AK, Aster JC. Hematopoietic and lymphoid systems. In: Kumar V, Abbas AK, Aster JC, eds. Robbins Basic Pathology. 10th ed. Philadelphia, PA: Elsevier; 2018:chap 12.
+Review Date 1/25/2022
+
+
+Updated by: Todd Gersten, MD, Hematology/Oncology, Florida Cancer Specialists & Research Institute, Wellington, FL. Review provided by VeriMed Healthcare Network. Also reviewed by David Zieve, MD, MHA, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Anemia

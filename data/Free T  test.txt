@@ -1,0 +1,37 @@
+source : https://medlineplus.gov/ency/article/003517.htm 
+ 
+ T4 (thyroxine) is the main hormone produced by the thyroid gland. A laboratory test can be done to measure the amount of free T4 in your blood. Free T4 is the thyroxine that is not attached to a protein in the blood.How the Test is Performed
+
+A blood sample is needed.How to Prepare for the Test
+
+Your health care provider will tell you if you need to stop taking any medicines that may affect the test result. In general, test results are not affected by other medicines you may be taking. However, certain supplements including biotin (vitamin B7) can affect the results. Tell your provider if you are taking biotin.Pregnancy and some diseases, including kidney and liver disease, can also affect the results of this test.How the Test will Feel
+
+When the needle is inserted to draw blood, some people feel moderate pain. Others feel only a prick or stinging. Afterward, there may be some throbbing or a slight bruise. This soon goes away.Why the Test is Performed
+
+Your provider may recommend this test if you have signs of a thyroid disorder, including:Abnormal findings of other thyroid blood tests, such as TSH or T3Symptoms of an overactive thyroidSymptoms of an underactive thyroidHypopituitarism -- when the pituitary gland does not produce enough of its hormones, including the hormone which stimulates the thyroidLump or nodule in the thyroidEnlarged or irregular thyroid glandProblems becoming pregnant This test is also used to monitor people who are being treated for thyroid problems.Normal Results
+
+A typical normal range is 0.9 to 2.3 nanograms per deciliter (ng/dL), or 12 to 30 picomoles per liter (pmol/L).Normal value ranges may vary slightly among different laboratories. Some laboratories use different measurements or may test different specimens. Talk to your provider about the meaning of your specific test results.The normal range is based on a large population and is not necessarily normal for an individual. You may be having symptoms of hyperthyroidism or hypothyroidism even though your free T4 is in the normal range. The TSH test may help determine if your symptoms are related to thyroid disease. Talk to your provider about your symptoms.What Abnormal Results Mean
+
+To fully understand results of the free T4 test, results of other thyroid blood tests, such as TSH or T3, may be needed.Test results may also be affected by pregnancy, estrogen level, liver problems, more severe body-wide illnesses, and inherited changes in a protein that binds T4.A higher than normal level of T4 may be due to conditions that involve an overactive thyroid, including:Graves diseaseTaking too much thyroid hormone medicineThyroiditisToxic goiter or toxic thyroid nodulesSome tumors of the testes or ovaries (rare)Getting medical imaging tests with contrast dye that contains iodine (rare, and only if there is a problem with the thyroid)Eating a lot of foods that contain iodine (very rare, and only if there is a problem with the thyroid) A lower than normal level of T4 may be due to:Hypothyroidism (including Hashimoto disease and other disorders involving an underactive thyroid)Severe acute illnessMalnutrition or fastingUse of certain medicines Risks
+
+There is little risk involved with having your blood taken. Veins and arteries vary in size from one person to another and from one side of the body to the other. Obtaining a blood sample from some people may be more difficult than from others.Other risks associated with having blood drawn are slight, but may include:Excessive bleedingFainting or feeling lightheadedMultiple punctures to locate veinsHematoma (blood buildup under the skin)Infection (a slight risk any time the skin is broken)Alternative Names
+
+Free thyroxine test; Thyroxine test by equilibrium dialysisImages
+
+
+Blood test
+References
+
+Guber HA, Oprea M, Russell YX. Evaluation of endocrine function. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 25.Hinson J, Raven P. Endocrinology and the reproductive system. In: Niash J, Syndercombe D, eds. Medical Sciences. 3rd ed. Philadelphia, PA: Elsevier; 2019:chap 10.Salvatore D, Cohen R, Kopp PA, Larsen PR. Thyroid pathophysiology and diagnostic evaluation. In: Melmed S, Auchus RJ, Goldfine AB, Koenig RJ, Rosen CJ, eds. Williams Textbook of Endocrinology. 14th ed. Philadelphia, PA: Elsevier; 2020:chap 11.Weiss RE, Refetoff S. Thyroid function testing. In: Jameson JL, De Groot LJ, de Kretser DM, et al, eds. Endocrinology: Adult and Pediatric. 7th ed. Philadelphia, PA: Elsevier Saunders; 2016:chap 78.
+Review Date 1/9/2022
+
+
+Updated by: Robert Hurd, MD, Professor of Endocrinology and Health Care Ethics, Xavier University, Cincinnati, OH. Review provided by VeriMed Healthcare Network. Also reviewed by David Zieve, MD, MHA, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team. 
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Hyperthyroidism
+Hypothyroidism
+Pituitary Disorders
+Thyroid Diseases
+Thyroid Tests

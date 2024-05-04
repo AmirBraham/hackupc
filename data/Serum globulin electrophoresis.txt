@@ -1,0 +1,36 @@
+source : https://medlineplus.gov/ency/article/003544.htm 
+ 
+ The serum globulin electrophoresis test measures the levels of proteins called globulins in the fluid part of a blood sample. This fluid is called serum.How the Test is Performed
+
+A blood sample is needed.In the lab, the technician places the blood sample on special paper and applies an electric current. The proteins move on the paper and form bands that show the amount of each protein. How to Prepare for the Test
+
+Follow instructions on whether or not you need to fast before this test.Certain medicines may affect the results of this test. Your health care provider will tell you if you need to stop taking any medicines. Do not stop any medicine before talking to your provider.How the Test will Feel
+
+When the needle is inserted to draw blood, some people feel moderate pain. Others feel only a prick or stinging. Afterward, there may be some throbbing or a slight bruise. This soon goes away.Why the Test is Performed
+
+This test is done to look at globulin proteins in the blood. Identifying the types of globulins can help diagnose certain medical problems.Globulins are roughly divided into three groups: alpha, beta, and gamma globulins. Gamma globulins include various types of antibodies such as immunoglobulins (Ig) M, G, and A.Certain diseases are associated with producing too many immunoglobulins. For example, Waldenström macroglobulinemia is a cancer of certain white blood cells. It is linked with producing too many IgM antibodies.Normal Results
+
+Normal value ranges are:Serum globulin: 2.0 to 3.5 grams per deciliter (g/dL) or 20 to 35 grams per liter (g/L)IgM component: 75 to 300 milligrams per deciliter (mg/dL) or 750 to 3,000 milligrams per liter (mg/L)IgG component: 650 to 1,850 mg/dL or 6.5 to 18.50 g/LIgA component: 90 to 350 mg/dL or 900 to 3,500 mg/LNormal value ranges may vary slightly among different laboratories. Some labs use different measurements or test different samples. Talk to your provider about the meaning of your specific test results.What Abnormal Results Mean
+
+Increased gamma globulin proteins may indicate:Acute infectionBlood and bone marrow cancers including multiple myeloma, and some lymphomas and leukemiasImmune deficiency disordersLong-term (chronic) inflammatory disease (for example, rheumatoid arthritis and systemic lupus erythematosus)Waldenström macroglobulinemiaRisks
+
+There is very little risk involved with having your blood taken. Veins and arteries vary in size from one person to another, and from one side of the body to the other. Taking blood from some people may be more difficult than from others.Other risks associated with having blood drawn are slight, but may include:Excessive bleedingFainting or feeling lightheadedMultiple punctures to locate veinsHematoma (blood buildup under the skin)Infection (a slight risk any time the skin is broken) Alternative Names
+
+Quantitative immunoglobulinsImages
+
+
+Blood test
+References
+
+Dominiczak MH, Fraser WD. Blood and plasma proteins. In: Baynes JW, Dominiczak MH, eds. Medical Biochemistry. 5th ed. Philadelphia, PA: Elsevier; 2019:chap 40.McPherson RA, Riley RS, Massey HD. Laboratory evaluation of immunoglobulin function and humoral immunity. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 47.
+Review Date 1/25/2022
+
+
+Updated by: Todd Gersten, MD, Hematology/Oncology, Florida Cancer Specialists & Research Institute, Wellington, FL. Review provided by VeriMed Healthcare Network. Also reviewed by David Zieve, MD, MHA, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Lupus
+Lymphoma
+Multiple Myeloma
+Rheumatoid Arthritis

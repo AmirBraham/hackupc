@@ -1,0 +1,36 @@
+source : https://medlineplus.gov/ency/article/000576.htm 
+ 
+ 
+Anemia is a condition in which the body does not have enough healthy red blood cells. Red blood cells provide oxygen to the body's tissues.Red blood cells last for about 120 days before the body gets rid of them. In hemolytic anemia, red blood cells in the blood are destroyed earlier than normal.Immune hemolytic anemia occurs when antibodies form against the body's own red blood cells and destroy them. This happens because the immune system mistakenly recognizes these blood cells as foreign.Causes
+
+Possible causes include:Certain chemicals, drugs, and toxinsInfectionsTransfusion of blood from a donor with a blood type that does not matchCertain cancers When antibodies form against red blood cells for no reason, the condition is called idiopathic autoimmune hemolytic anemia.The antibodies may also be caused by:Complication of another diseasePast blood transfusionsPregnancy (if the baby's blood type is different from the mother's)Risk factors are related to the causes.Symptoms
+
+You may not have symptoms if the anemia is mild. If the problem develops slowly, symptoms that may occur first include:Feeling weak or tired more often than usual, or with exerciseHeadachesProblems concentrating or thinking If the anemia gets worse, symptoms may include:Lightheadedness when you stand upPale skin color (pallor)Shortness of breathSore tongue Exams and Tests
+
+You may need the following tests:Absolute reticulocyte countDirect or indirect Coombs testHemoglobin in the urineLDH (level of this enzyme rises as a result of tissue damage)Red blood cell count (RBC), hemoglobin, and hematocritSerum bilirubin levelSerum haptoglobinDonath-Landsteiner testCold agglutininsPlatelet countProtein electrophoresis - serumPyruvate kinaseTreatment
+
+The first treatment tried is most often a steroid medicine, such as prednisone. If steroid medicine do not improve the condition, treatment with intravenous immunoglobulin (IVIG) or removal of the spleen (splenectomy) may be considered.You may receive treatment to suppress your immune system if you do not respond to steroids. Drugs such as azathioprine (Imuran), cyclophosphamide (Cytoxan), and rituximab (Rituxan) have been used.Blood transfusions are given with caution, because the blood may not be compatible and it may cause more red blood cell destruction.Outlook (Prognosis)
+
+The disease may start quickly and be very serious, or it may stay mild and not need special treatment.In most people, steroids or splenectomy can totally or partially control anemia.Possible Complications
+
+Severe anemia rarely leads to death. Severe infection may occur as a complication of treatment with steroids, other medicines that suppress the immune system, or splenectomy. These treatments impair the body's ability to fight infection.When to Contact a Medical Professional
+
+Contact your health care provider if you have unexplained fatigue or chest pain, or signs of infection.Prevention
+
+Screening for antibodies in donated blood and in the recipient may prevent hemolytic anemia related to blood transfusions. Alternative Names
+
+Anemia - immune hemolytic; Autoimmune hemolytic anemia (AIHA)Images
+
+
+Antibodies
+References
+
+Michel M. Autoimmune and intravascular hemolytic anemias. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 151.Michel M, Jäger U. Autoimmune hemolytic anemia. In: Hoffman R, Benz EJ, Silberstein LE, et al, eds. Hematology: Basic Principles and Practice. 7th ed. Philadelphia, PA: Elsevier; 2018:chap 46.Wong E, Rose MG, Berliner N. Disorders of red blood cells. In: Wing EJ, Schiffman FJ, eds. Cecil Essentials of Medicine. 10th ed. Philadelphia, PA: Elsevier; 2022:chap 48.
+Review Date 1/25/2022
+
+
+Updated by: Todd Gersten, MD, Hematology/Oncology, Florida Cancer Specialists & Research Institute, Wellington, FL. Review provided by VeriMed Healthcare Network. Also reviewed by David Zieve, MD, MHA, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Anemia

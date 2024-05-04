@@ -1,0 +1,27 @@
+source : https://medlineplus.gov/ency/article/000685.htm 
+ 
+ Tardive dyskinesia (TD) is a disorder that involves involuntary movements. Tardive means delayed and dyskinesia means abnormal movement.Causes
+
+TD is a serious side effect that occurs when you take medicines called neuroleptics. These drugs are also called antipsychotics or major tranquilizers. They are used to treat mental problems.TD often occurs when you take the drug for many months or years. In some cases, it occurs after you take them for as little as 6 weeks.Medicines that most commonly cause this disorder are older antipsychotics, including:ChlorpromazineFluphenazineHaloperidolPerphenazineProchlorperazineThioridazineTrifluoperazineNewer antipsychotics seem less likely to cause TD, but they are not entirely without risk.Other drugs that can cause TD include:Metoclopramide (treats stomach problem called gastroparesis)Antidepressant medicines such as amitriptyline, fluoxetine, phenelzine, sertraline, trazodoneAnti-Parkinson medicines such as levodopaAntiseizure medicines such as phenobarbital and phenytoinSymptoms
+
+Symptoms of TD include uncontrollable movements of the face and body such as:Facial grimacing (commonly involving lower facial muscles)Finger movement (piano playing movements)Rocking or thrusting of the pelvis (duck-like gait)Jaw swingingRepetitive chewingRapid eye blinkingTongue thrustingRestlessnessTreatment
+
+When TD is diagnosed, the health care provider will either have you stop the medicine slowly or switch to another one.If TD is mild or moderate, various medicines may be tried. A dopamine-depleting medicine, tetrabenazine is most effective treatment for TD. Valbenazine is an alternative. Your provider can tell you more about these.If TD is very severe, a procedure called deep brain stimulation DBS may be tried. DBS uses a device called a neurostimulator to deliver electrical signals to the areas of the brain that control movement.Outlook (Prognosis)
+
+If diagnosed early, TD may be reversed by stopping the medicine that caused the symptoms. Even if the medicine is stopped, the involuntary movements may become permanent, and in some cases, may become worse.Alternative Names
+
+TD; Tardive syndrome; Orofacial dyskinesia; Involuntary movement - tardive dyskinesia; Antipsychotic drugs - tardive dyskinesia; Neuroleptic drugs - tardive dyskinesia; Schizophrenia - tardive dyskinesiaImages
+
+
+Central nervous system and peripheral nervous system
+References
+
+Aronson JK. Neuroleptic drugs. In: Aronson JK, ed. Meyler's Side Effects of Drugs. 16th ed. Waltham, MA: Elsevier B.V.; 2016:53-119.Freudenreich O, Flaherty AW. Patients with abnormal movements. In: Stern TA, Freudenreich O, Smith FA, Fricchione GL, Rosenbaum JF, eds. Massachusetts General Hospital Handbook of General Hospital Psychiatry. 7th ed. Philadelphia, PA: Elsevier; 2018:chap 21.Freudenreich O, Goff DC, Henderson DC. Antipsychotic drugs. In: Stern TA, Fava M, Wilens TE, Rosenbaum JF, eds. Massachusetts General Hospital Comprehensive Clinical Psychiatry. 2nd ed. Philadelphia, PA: Elsevier; 2016:chap 42.Okun MS, Lang AE. Other movement disorders. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 382.ul Haq I, Liebenow B, Okun MS. Clinical overview of movement disorders. In: Winn HR, ed. Youmans and Winn Neurological Surgery. 8th ed. Philadelphia, PA: Elsevier; 2023:chap 105.
+Review Date 4/25/2022
+
+
+Updated by: Joseph V. Campellone, MD, Department of Neurology, Cooper University Hospital, Camden, NJ. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Movement Disorders

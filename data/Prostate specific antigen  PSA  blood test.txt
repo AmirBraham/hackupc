@@ -1,0 +1,36 @@
+source : https://medlineplus.gov/ency/article/003346.htm 
+ 
+ Prostate-specific antigen (PSA) is a protein produced by prostate cells.The PSA test is done to help screen for and monitor prostate cancer in men.How the Test is Performed
+
+A blood sample is needed. How to Prepare for the Test
+
+Make sure your health care provider knows all the medicines you are taking. Some drugs cause your PSA level to be falsely low. In most cases, no other special steps are needed to prepare for this test. You should not have a PSA test soon after having a urinary tract infection or undergoing a procedure or surgery involving the urinary system. Ask your provider how long you should wait.How the Test will Feel
+
+You may feel slight pain or a prick when the needle is inserted. Afterward, there may be some throbbing or a slight bruise. These soon go away.Why the Test is Performed
+
+Reasons for a PSA test:To screen for prostate cancer.To monitor people after prostate cancer treatment to see if the cancer has come back.If a provider feels the prostate gland is not normal during physical exam. MORE ABOUT SCREENING FOR PROSTATE CANCERMeasuring the PSA level can increase the chance of finding prostate cancer when it is very early. But there is debate over the value of the PSA test for detecting prostate cancer. No single answer fits all men.For some men 55 through 69 years old, screening may help reduce the chance of death from prostate cancer. However, for many men, screening and treatment could potentially be more harmful than beneficial.Before having the test, talk to your provider about the pros and cons of having a PSA test. Ask about:Whether screening decreases your chance of dying from prostate cancerWhether there is any harm from prostate cancer screening, such as side-effects from testing or overtreatment of cancer when discovered Some men younger than age 55 have a higher chance of developing prostate cancer and should talk with their provider about PSA screening if they:Have a family history of prostate cancer (especially a brother or father)Are African American Normal Results
+
+The PSA test result cannot diagnose prostate cancer. Only a prostate biopsy can diagnose this cancer.Your provider will look at your PSA result and consider your age, ethnicity, medicines you are taking, and other things to decide whether your PSA is normal or whether you need more tests.A normal PSA level is considered to be up to 4.0 nanograms per milliliter (ng/mL) of blood, but this varies by age:For men in their 50s or younger, a PSA level should be below 2.5 ng/mL in most cases.Older men often have slightly higher PSA levels than younger men. What Abnormal Results Mean
+
+A high PSA level has been linked to an increased chance of having prostate cancer.PSA testing is an important tool for detecting prostate cancer, but it is not foolproof. Other conditions can cause a rise in PSA, including:A large prostateProstate infection (prostatitis)Urinary tract infectionRecent tests on your bladder (cystoscopy) or prostate (biopsy)Catheter tube recently placed into your bladder to drain urineRecent intercourse or ejaculationRecent colonoscopyYour provider will consider the following things when deciding on the next step:Your ageIf you had a PSA test in the past and how much and how fast your PSA level has changedIf a prostate lump was found during your examOther symptoms you may haveOther risk factors for prostate cancer, such as ethnicity and family history Men at high risk may need to have more tests. These may include:Repeating your PSA test, most often sometime within 3 months. You may receive treatment for a prostate infection first.A prostate biopsy if the PSA level is persistently high, or if the level keeps rising when the PSA is measured again.A follow-up test called a free PSA (fPSA). This measures the percentage of PSA in your blood that is not bound to other proteins. The lower the level of this test, the more likely it is that prostate cancer is present. Other tests may also be done. The exact role of these tests in deciding on treatment is unclear.A urine test called PCA-3.An MRI of the prostate may help identify cancer in an area of the prostate that is hard to reach during a biopsy. If you have been treated for prostate cancer, the PSA level can show if treatment is working or if the cancer has come back. Often, PSA level rises before there are any symptoms. This may happen months or years beforehand.Risks
+
+ There is little risk involved with having your blood taken. Veins and arteries vary in size from one person to another, and from one side of the body to the other. Taking blood from some people may be more difficult than from others. Other risks associated with having blood drawn are slight, but may include:Excessive bleedingMultiple punctures to locate veinsFainting or feeling lightheadedHematoma (blood accumulating under the skin) Infection (a slight risk any time the skin is broken)Alternative Names
+
+Prostate-specific antigen; Prostate cancer screening test; PSAPatient Instructions
+
+Prostate brachytherapy - discharge 
+Images
+
+
+Blood test
+References
+
+Cooney KA, Heath EI. Prostate cancer. In: Goldman L, Cooney KA, eds. Goldman-Cecil Medicine. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 186.National Cancer Institute website. Prostate cancer screening (PDQ) - health professional version. www.cancer.gov/types/prostate/hp/prostate-screening-pdq#section/all. Updated March 7, 2024. Accessed April 10, 2024.Salami SS, Palapattu GS, Partin AW, Morgan TM. Prostate cancer biomarkers. In: Partin AW, Dmochowski RR, Kavoussi LR, Peters CA, eds. Campbell-Walsh-Wein Urology. 12th ed. Philadelphia, PA: Elsevier; 2021:chap 149.US Preventive Services Task Force; Grossman DC, Curry SJ, et al. Screening for prostate cancer: US Preventive Services Task Force recommendation statement. JAMA. 2018;319(18):1901-1913. PMID: 29801017 pubmed.ncbi.nlm.nih.gov/29801017/.
+Review Date 1/1/2023
+
+
+Updated by: Kelly L. Stratton, MD, FACS, Associate Professor, Department of Urology, University of Oklahoma Health Sciences Center, Oklahoma City, OK. Internal review and update on 01/31/2024 by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team. 
+Learn how to cite this page
+Related MedlinePlus Health Topics
+
+Prostate Cancer Screening
