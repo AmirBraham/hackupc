@@ -62,7 +62,7 @@ you MUST Identify and extract pertinent data, or insights from the documents tha
 - Formulate a Response:
 you MUST Organize the extracted information into a coherent and comprehensive response.
 you MUST Ensure the response is structured to directly answer your question.
-you MUST provide the top 5 most probable diseases that might correspond to these symptomps
+you MUST provide the top 5 most probable diseases that might correspond to these symptomps with a probability percentage
 - Cite Sources:
 For each piece of information used from the documents, include a citation using the [doc+index] format immediately after the relevant sentence.
 - Compose in User-Friendly Format:
@@ -74,7 +74,7 @@ Context: {context}
 Answer:"""
 
 
-llm = ChatOpenAI(model="gpt-4")
+llm = ChatOpenAI(model="gpt-3.5-turbo-0125")
 
 def format_docs(docs):
     return "\n\n".join(doc.page_content for doc in docs)
@@ -106,7 +106,7 @@ def generate_response(input_text):
     return rag_chain.stream(input_text)
 
 with st.form('my_form'):
-    text = st.text_area('Enter text:', 'What are the three key pieces of advice for learning how to code?')
+    text = st.text_area('Enter text:', 'Please provide the symptoms your patient is experiencing ')
     submitted = st.form_submit_button('Submit')
     
     if submitted :
