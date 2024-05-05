@@ -92,7 +92,7 @@ rag_chain = (
 
 import streamlit as st
 
-st.title('🦜🔗 Quickstart App')
+st.title('🔬 EncycloDoc 🩺')
 
 
 def generate_response(input_text):
@@ -100,24 +100,15 @@ def generate_response(input_text):
     {"context": retriever | format_docs, "question": RunnablePassthrough()}
     | prompt
     | llm
-    | StrOutputParser
+    | StrOutputParser()
 )
     print(input_text)
-    st.info(rag_chain.invoke(input_text))
+    return rag_chain.stream(input_text)
 
 with st.form('my_form'):
     text = st.text_area('Enter text:', 'What are the three key pieces of advice for learning how to code?')
     submitted = st.form_submit_button('Submit')
     
     if submitted :
-        generate_response(text)
+        st.write_stream(generate_response(text))
         
-
-""" 
-
-loader = DirectoryLoader('data',glob="**/*.txt")
-documents = loader.load()
-text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
-docs = text_splitter.split_documents(documents)
-
-"""
